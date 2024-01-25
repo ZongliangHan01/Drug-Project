@@ -1,0 +1,312 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3334442406860000\"",
+     "id": "cod66bgg2ur0fdhm3ttvpm7pq8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Y29kNjZiZ2cydXIwZmRobTN0dHZwbTdwcTggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-10-31T13:00:03.000Z",
+     "updated": "2022-10-31T13:00:03.430Z",
+     "summary": "OTLK Outlook Therapeutics, Inc. PDUFA",
+     "description": "2023-08-29 The FDA accepted Outlook Therapeutics BLA submission for ONS-5010 to treat wet AMD with a PDUFA goal date of August 29, 2023. https://www.globenewswire.com/news-release/2022/10/28/2543814/0/en/Outlook-Therapeutics-Announces-Acceptance-of-Biologics-License-Application-by-U-S-FDA-for-ONS-5010-as-a-Treatment-for-Wet-AMD.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-29"
+     },
+     "end": {
+      "date": "2023-08-29"
+     },
+     "iCalUID": "cod66bgg2ur0fdhm3ttvpm7pq8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3336350406304000\"",
+     "id": "vph20imgh4j1202u39rujb9k90",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=dnBoMjBpbWdoNGoxMjAydTM5cnVqYjlrOTAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-11-11T14:00:03.000Z",
+     "updated": "2022-11-11T14:00:03.152Z",
+     "summary": "BLRX BioLineRx Ltd. PDUFA",
+     "description": "2023-09-09 The FDA has assigned the NDA a Prescription Drug User Fee Act (PDUFA) target action date of September 9, 2023. https://www.prnewswire.com/news-releases/biolinerx-announces-us-fda-acceptance-of-new-drug-application-for-aphexda-motixafortide-in-stem-cell-mobilization-301674304.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-09-09"
+     },
+     "end": {
+      "date": "2023-09-09"
+     },
+     "iCalUID": "vph20imgh4j1202u39rujb9k90@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3352593607440000\"",
+     "id": "pkt6t1m33t7u95karnl3i6iprs",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cGt0NnQxbTMzdDd1OTVrYXJubDNpNmlwcnMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-13T14:00:03.000Z",
+     "updated": "2023-02-13T14:00:03.720Z",
+     "summary": "APLI APPILI THERAPEUTICS INC. PDUFA",
+     "description": "2023-09-23 The FDA established a Prescription Drug User Fee (PDUFA) action date of September 23, 2023. http://www.businesswire.com/news/home/20230207006213/en/Appili-Therapeutics-Announces-that-FDA-accepts-the-ATI-1501-NDA",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-09-23"
+     },
+     "end": {
+      "date": "2023-09-23"
+     },
+     "iCalUID": "pkt6t1m33t7u95karnl3i6iprs@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3352766408262000\"",
+     "id": "v4m9n65rmnaes8n57eunmsh904",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=djRtOW42NXJtbmFlczhuNTdldW5tc2g5MDQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-14T14:00:04.000Z",
+     "updated": "2023-02-14T14:00:04.131Z",
+     "summary": "OCUP Ocuphire Pharma PDUFA",
+     "description": "2023-09-28 Nyxols NDA under the 505(b)(2) pathway for the first indication RM has been accepted with a PDUFA date assigned of September 28, 2023, and is currently in Phase 3 for presbyopia and DLD. https://www.globenewswire.com/news-release/2023/02/13/2606587/0/en/Ocuphire-Announces-FDA-Acceptance-of-New-Drug-Application-and-PDUFA-Date-of-September-28-2023-for-Nyxol-Eye-Drops-for-Reversal-of-Mydriasis.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-09-28"
+     },
+     "end": {
+      "date": "2023-09-28"
+     },
+     "iCalUID": "v4m9n65rmnaes8n57eunmsh904@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3353976008668000\"",
+     "id": "assk0l9vh9qur7g9am8orp0qvc",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YXNzazBsOXZoOXF1cjdnOWFtOG9ycDBxdmMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-21T14:00:04.000Z",
+     "updated": "2023-02-21T14:00:04.334Z",
+     "summary": "MRK MERCK & CO., INC. PDUFA",
+     "description": "2023-09-07 A second sNDA to extend use of PREVYMIS from 100 days to 200 days in adults receiving an allogeneic hematopoietic stem cell transplant (HSCT) who are at risk for late CMV infection and disease was also accepted for review, with a PDUFA date of Sept. 7, 2023. http://www.businesswire.com/news/home/20230217005097/en/U.S.-FDA-Accepts-for-Priority-Review-the-Supplemental-New-Drug-Application-for-Merck%E2%80%99s-PREVYMIS%E2%84%A2-for-Prophylaxis-of-Cytomegalovirus-Disease-in-Kidney-Transplant-Recipients-at-High-Risk",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-09-07"
+     },
+     "end": {
+      "date": "2023-09-07"
+     },
+     "iCalUID": "assk0l9vh9qur7g9am8orp0qvc@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3354148855810000\"",
+     "id": "d7a88bunoa4s7c5futp975guog",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZDdhODhidW5vYTRzN2M1ZnV0cDk3NWd1b2cgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-22T14:00:27.000Z",
+     "updated": "2023-02-22T14:00:27.905Z",
+     "summary": "HALO Halozyme Therapeutics, Inc. PDUFA",
+     "description": "2023-09-15 In January 2023, Roche announced the FDA accepted the Biologics License Application with a PDUFA date of September 15, 2023. https://www.prnewswire.com/news-releases/halozyme-reports-fourth-quarter-and-full-year-2022-financial-and-operating-results-301752201.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-09-15"
+     },
+     "end": {
+      "date": "2023-09-15"
+     },
+     "iCalUID": "d7a88bunoa4s7c5futp975guog@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3366064820192000\"",
+     "id": "hpvfj0bq6srp2q1io08g5lffo8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=aHB2ZmowYnE2c3JwMnExaW8wOGc1bGZmbzggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-05-02T13:00:10.000Z",
+     "updated": "2023-05-02T13:00:10.096Z",
+     "summary": "BMY BRISTOL MYERS SQUIBB PDUFA",
+     "description": "2023-08-28 U.S. FDA has assigned a target action date of August 28, 2023 http://www.businesswire.com/news/home/20230429005037/en/U.S.-FDA-Accepts-for-Priority-Review-Supplemental-Biologics-License-Application-and-EMA-Validates-Application-for-Reblozyl%C2%AE-luspatercept-aamt-as-First-Line-Treatment-of-Anemia-in-Adults-with-Lower-Risk-Myelodysplastic-Syndromes-MDS",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-28"
+     },
+     "end": {
+      "date": "2023-08-28"
+     },
+     "iCalUID": "hpvfj0bq6srp2q1io08g5lffo8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3374704808184000\"",
+     "id": "njck61gk3k36f51nscugmp7nig",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bmpjazYxZ2szazM2ZjUxbnNjdWdtcDduaWcgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-06-21T13:00:04.000Z",
+     "updated": "2023-06-21T13:00:04.092Z",
+     "summary": "SPRY ARS Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-09-19 The updated PDUFA target action date is September 19, 2023. https://www.globenewswire.com/news-release/2023/06/20/2691037/0/en/ARS-Pharmaceuticals-Announces-PDUFA-Date-Extension-for-neffy-Intranasal-IN-Epinephrine-for-the-Treatment-of-Allergic-Reactions-Type-1-Including-Anaphylaxis.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-09-19"
+     },
+     "end": {
+      "date": "2023-09-19"
+     },
+     "iCalUID": "njck61gk3k36f51nscugmp7nig@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3381789606684000\"",
+     "id": "h6rfjm7frn3qr1avu98jk3f7n4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=aDZyZmptN2ZybjNxcjFhdnU5OGprM2Y3bjQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-08-01T13:00:03.000Z",
+     "updated": "2023-08-01T13:00:03.342Z",
+     "summary": "ANAB AnaptysBio, Inc. PDUFA",
+     "description": "2023-09-23 The supplemental Biologics License Application (sBLA) supporting this new indication received Priority Review and was approved ahead of the Sept. 23, 2023 Prescription Drug User Fee Act action date. https://www.globenewswire.com/news-release/2023/07/31/2715235/0/en/AnaptysBio-and-GSK-Partnered-Immuno-Oncology-Agent-JEMPERLI-dostarlimab-gxly-plus-Chemotherapy-Approved-in-the-U-S-for-dMMR-MSI-H-Primary-Advanced-or-Recurrent-Endometrial-Cancer.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-09-23"
+     },
+     "end": {
+      "date": "2023-09-23"
+     },
+     "iCalUID": "h6rfjm7frn3qr1avu98jk3f7n4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3377296806236000\"",
+        "id": "s6caatgtr5an95g8u0ol0nd9d4",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=czZjYWF0Z3RyNWFuOTVnOHUwb2wwbmQ5ZDQgZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2023-07-06T13:00:03.000Z",
+        "updated": "2023-07-06T13:00:03.118Z",
+        "summary": "ALNY Alnylam Pharmaceuticals, Inc. FDA AdCom",
+        "description": "2023-09-13 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing and/or video conferencing platform. The committee will discuss supplemental new drug application (sNDA) 210922-s015, for ONPATTRO (patisiran) lipid complex for injection, submitted by Alnylam Pharmaceuticals, Inc., for the proposed treatment of the cardiomyopathy of wild-type or hereditary transthyretin-mediated amyloidosis in adults. https://www.fda.gov/advisory-committees/advisory-committee-calendar/september-13-2023-cardiovascular-and-renal-drugs-advisory-committee-meeting-announcement-09132023",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2023-09-13"
+        },
+        "end": {
+         "date": "2023-09-13"
+        },
+        "iCalUID": "s6caatgtr5an95g8u0ol0nd9d4@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+       }
+   ]

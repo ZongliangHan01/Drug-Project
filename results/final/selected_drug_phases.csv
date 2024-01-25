@@ -1,0 +1,56 @@
+,drugId,displayName,indication,company,country,probabilityOfSuccess,phase,startDate,endDate,successPercentage
+0,72133,nogapendekin alfa,Bladder cancer,ImmunityBio Inc,US,95%,Phase 2,25-Jul-2014,02-Jun-2017,
+1,72133,nogapendekin alfa,Bladder cancer,ImmunityBio Inc,US,95%,Phase 3,02-Jun-2017,11-May-2023,
+2,72133,nogapendekin alfa,Bladder cancer,ImmunityBio Inc,US,95%,Pre-Reg,11-May-2023,09-Apr-2024,95%
+3,72133,nogapendekin alfa,Bladder cancer,ImmunityBio Inc,US,95%,Reg,09-Apr-2024,,
+4,90272,"immunoglobulin + hyaluronidase (immune deficiency/demyelinating polyneuropathy/multifocal motor neuropathy/chronic fatigue syndrome, Enhanze), Shire/Halozyme",Chronic inflammatory demyelinating polyneuropathy,Takeda Pharmaceutical Co Ltd,US,95%,Phase 3,15-Oct-2015,28-Feb-2023,
+5,90272,"immunoglobulin + hyaluronidase (immune deficiency/demyelinating polyneuropathy/multifocal motor neuropathy/chronic fatigue syndrome, Enhanze), Shire/Halozyme",Chronic inflammatory demyelinating polyneuropathy,Takeda Pharmaceutical Co Ltd,US,95%,Pre-Reg,28-Feb-2023,24-Jan-2024,95%
+6,90272,"immunoglobulin + hyaluronidase (immune deficiency/demyelinating polyneuropathy/multifocal motor neuropathy/chronic fatigue syndrome, Enhanze), Shire/Halozyme",Chronic inflammatory demyelinating polyneuropathy,Takeda Pharmaceutical Co Ltd,US,95%,Reg,24-Jan-2024,,
+7,54730,sotatercept,Pulmonary artery hypertension,Merck & Co Inc,US,92%,Phase 2,13-Jun-2018,25-Jan-2021,
+8,54730,sotatercept,Pulmonary artery hypertension,Merck & Co Inc,US,92%,Phase 3,25-Jan-2021,30-Jun-2023,
+9,54730,sotatercept,Pulmonary artery hypertension,Merck & Co Inc,US,92%,Pre-Reg,30-Jun-2023,25-Mar-2024,92%
+10,54730,sotatercept,Pulmonary artery hypertension,Merck & Co Inc,US,92%,Reg,25-Mar-2024,,
+11,90233,odronextamab,Follicle center lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Phase 1,09-Jan-2015,13-Nov-2019,
+12,90233,odronextamab,Follicle center lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Phase 2,13-Nov-2019,29-Sep-2023,
+13,90233,odronextamab,Follicle center lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Pre-Reg,29-Sep-2023,14-Apr-2024,95%
+14,90233,odronextamab,Follicle center lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Reg,14-Apr-2024,,
+15,90233,odronextamab,Diffuse large B-cell lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Phase 1,09-Jan-2015,13-Nov-2019,
+16,90233,odronextamab,Diffuse large B-cell lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Phase 2,13-Nov-2019,29-Sep-2023,
+17,90233,odronextamab,Diffuse large B-cell lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Pre-Reg,29-Sep-2023,14-Apr-2024,95%
+18,90233,odronextamab,Diffuse large B-cell lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Reg,14-Apr-2024,,
+19,99602,lutetium (177Lu) vipivotide tetraxetan,Hormone refractory prostate cancer,Novartis AG,US,95%,Phase 2,12-Jul-2017,23-May-2018,
+20,99602,lutetium (177Lu) vipivotide tetraxetan,Hormone refractory prostate cancer,Novartis AG,US,95%,Phase 3,23-May-2018,31-Mar-2023,
+21,99602,lutetium (177Lu) vipivotide tetraxetan,Hormone refractory prostate cancer,Novartis AG,US,95%,Pre-Reg,31-Mar-2023,02-Jan-2024,95%
+22,99602,lutetium (177Lu) vipivotide tetraxetan,Hormone refractory prostate cancer,Novartis AG,US,95%,Reg,02-Jan-2024,,
+23,51160,nintedanib,Interstitial lung disease,Boehringer Ingelheim International GmbH,US,95%,Phase 3,30-Apr-2011,25-Jul-2023,
+24,51160,nintedanib,Interstitial lung disease,Boehringer Ingelheim International GmbH,US,95%,Pre-Reg,25-Jul-2023,18-Mar-2024,95%
+25,51160,nintedanib,Interstitial lung disease,Boehringer Ingelheim International GmbH,US,95%,Reg,18-Mar-2024,,
+26,55266,zolbetuximab,Metastatic stomach cancer,Astellas Pharma Inc,US,95%,Phase 3,31-Jan-2018,06-Jul-2023,
+27,55266,zolbetuximab,Metastatic stomach cancer,Astellas Pharma Inc,US,95%,Pre-Reg,06-Jul-2023,26-Jan-2024,95%
+28,55266,zolbetuximab,Metastatic stomach cancer,Astellas Pharma Inc,US,95%,Reg,26-Jan-2024,,
+29,55266,zolbetuximab,Metastatic esophageal cancer,Astellas Pharma Inc,US,95%,Phase 3,31-Jan-2018,06-Jul-2023,
+30,55266,zolbetuximab,Metastatic esophageal cancer,Astellas Pharma Inc,US,95%,Pre-Reg,06-Jul-2023,26-Jan-2024,95%
+31,55266,zolbetuximab,Metastatic esophageal cancer,Astellas Pharma Inc,US,95%,Reg,26-Jan-2024,,
+32,69095,capivasertib,Metastatic breast cancer,AstraZeneca PLC,US,95%,Phase 1,01-Dec-2010,11-Nov-2014,
+33,69095,capivasertib,Metastatic breast cancer,AstraZeneca PLC,US,95%,Phase 2,11-Nov-2014,16-Apr-2020,
+34,69095,capivasertib,Metastatic breast cancer,AstraZeneca PLC,US,95%,Phase 3,16-Apr-2020,12-Jun-2023,
+35,69095,capivasertib,Metastatic breast cancer,AstraZeneca PLC,US,95%,Pre-Reg,12-Jun-2023,09-Apr-2024,95%
+36,69095,capivasertib,Metastatic breast cancer,AstraZeneca PLC,US,95%,Reg,09-Apr-2024,,
+37,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Breast tumor,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,10-Feb-2024,95%
+38,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Breast tumor,Accord Healthcare Inc,US,95%,Reg,10-Feb-2024,,
+39,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Esophagus tumor,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,03-Feb-2024,95%
+40,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Esophagus tumor,Accord Healthcare Inc,US,95%,Reg,03-Feb-2024,,
+41,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Metastatic breast cancer,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,10-Feb-2024,95%
+42,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Metastatic breast cancer,Accord Healthcare Inc,US,95%,Reg,10-Feb-2024,,
+43,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Metastatic stomach cancer,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,08-Feb-2024,95%
+44,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Metastatic stomach cancer,Accord Healthcare Inc,US,95%,Reg,08-Feb-2024,,
+45,99330,sabizabulin,Coronavirus disease 19 infection,Veru Inc,US,93%,Phase 2,18-Jun-2020,10-May-2021,
+46,99330,sabizabulin,Coronavirus disease 19 infection,Veru Inc,US,93%,Phase 3,10-May-2021,07-Jun-2022,
+47,99330,sabizabulin,Coronavirus disease 19 infection,Veru Inc,US,93%,Pre-Reg,07-Jun-2022,05-Mar-2024,93%
+48,99330,sabizabulin,Coronavirus disease 19 infection,Veru Inc,US,93%,Reg,05-Mar-2024,,
+49,101768,afamitresgene autoleucel,Soft tissue sarcoma,Adaptimmune Therapeutics plc,US,95%,Phase 1,27-Apr-2018,25-Jul-2019,
+50,101768,afamitresgene autoleucel,Soft tissue sarcoma,Adaptimmune Therapeutics plc,US,95%,Phase 2,25-Jul-2019,23-Dec-2022,
+51,101768,afamitresgene autoleucel,Soft tissue sarcoma,Adaptimmune Therapeutics plc,US,95%,Pre-Reg,23-Dec-2022,10-Dec-2023,95%
+52,101768,afamitresgene autoleucel,Soft tissue sarcoma,Adaptimmune Therapeutics plc,US,95%,Reg,10-Dec-2023,,
+53,106247,"trastuzumab biosimilar, EirGenix",Stomach tumor,EirGenix Inc,US,95%,Pre-Reg,20-Dec-2021,14-Apr-2024,95%
+54,106247,"trastuzumab biosimilar, EirGenix",Stomach tumor,EirGenix Inc,US,95%,Reg,14-Apr-2024,,

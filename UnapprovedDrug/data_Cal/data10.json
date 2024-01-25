@@ -1,0 +1,405 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3319063244240000\"",
+     "id": "o044eefdv9n0323eamfo95vd1k",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bzA0NGVlZmR2OW4wMzIzZWFtZm85NXZkMWsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-03T13:00:22.000Z",
+     "updated": "2022-08-03T13:00:22.120Z",
+     "summary": "INCY INCYTE CORP PDUFA",
+     "description": "2023-03-23 The FDA accepted the NDA for QD ruxolitinib with a Prescription Drug User Fee Act (PDUFA) target action date of March 23, 2023. https://www.sec.gov/Archives/edgar/data/0000879169/000155837022011631/incy-20220630x10q.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-03-23"
+     },
+     "end": {
+      "date": "2023-03-23"
+     },
+     "iCalUID": "o044eefdv9n0323eamfo95vd1k@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3319408839390000\"",
+     "id": "lfprgfrc99e6sl5q7as4pcsbgo",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bGZwcmdmcmM5OWU2c2w1cTdhczRwY3NiZ28gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-05T13:00:19.000Z",
+     "updated": "2022-08-05T13:00:19.695Z",
+     "summary": "RPRX Royalty Pharma plc PDUFA",
+     "description": "2023-02-28 Additionally, the FDA has assigned the NDA a Prescription Drug User Fee Act (PDUFA) date of February 28, 2023. https://www.globenewswire.com/news-release/2022/08/04/2492123/0/en/Royalty-Pharma-Reports-Second-Quarter-2022-Results.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-02-28"
+     },
+     "end": {
+      "date": "2023-02-28"
+     },
+     "iCalUID": "lfprgfrc99e6sl5q7as4pcsbgo@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3320563732640000\"",
+     "id": "lcj232feeru2vo8mq3f7qaj7to",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bGNqMjMyZmVlcnUydm84bXEzZjdxYWo3dG8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-05T13:00:13.000Z",
+     "updated": "2022-08-12T05:24:26.320Z",
+     "summary": "CYTK CYTOKINETICS INC PDUFA",
+     "description": "2022-12-13 Scheduled for December 13, 2022; PDUFA Target Action Date Set for February 28, 2023 https://www.sec.gov/Archives/edgar/data/0001061983/000095017022014732/cytk-ex99_1.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-02-28"
+     },
+     "end": {
+      "date": "2023-03-01"
+     },
+     "iCalUID": "lcj232feeru2vo8mq3f7qaj7to@google.com",
+     "sequence": 1,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3322346411748000\"",
+     "id": "455drnfegii87egpna6popjcdc",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NDU1ZHJuZmVnaWk4N2VncG5hNnBvcGpjZGMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-22T13:00:05.000Z",
+     "updated": "2022-08-22T13:00:05.874Z",
+     "summary": "RETA REATA PHARMACEUTICALS, INC. PDUFA",
+     "description": "2023-02-28 The updated PDUFA date for the application is February 28, 2023. http://www.businesswire.com/news/home/20220809005508/en/Reata-Pharmaceuticals-Announces-Three-Month-Extension-of-the-Review-Period-for-New-Drug-Application-for-Omaveloxolone-for-the-Treatment-of-Friedreich%E2%80%99s-Ataxia",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-02-28"
+     },
+     "end": {
+      "date": "2023-02-28"
+     },
+     "iCalUID": "455drnfegii87egpna6popjcdc@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3323901612652000\"",
+     "id": "68s1j87apsqrmi7e5lhubn3jb4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NjhzMWo4N2Fwc3FybWk3ZTVsaHVibjNqYjQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-31T13:00:06.000Z",
+     "updated": "2022-08-31T13:00:06.326Z",
+     "summary": "SNY Sanofi - Aventis Groupe PDUFA",
+     "description": "2023-02-28 The target action date for the FDA decision is February 28, 2023. https://www.globenewswire.com/news-release/2022/08/30/2506359/0/en/Press-Release-FDA-grants-priority-review-to-efanesoctocog-alfa-for-people-with-hemophilia-A.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-02-28"
+     },
+     "end": {
+      "date": "2023-02-28"
+     },
+     "iCalUID": "68s1j87apsqrmi7e5lhubn3jb4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3326148005948000\"",
+     "id": "j4dcu6cq9sc8iarps0n7u0oag8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ajRkY3U2Y3E5c2M4aWFycHMwbjd1MG9hZzggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-09-13T13:00:02.000Z",
+     "updated": "2022-09-13T13:00:02.974Z",
+     "summary": "ACAD ACADIA PHARMACEUTICALS INC. PDUFA",
+     "description": "2023-03-12 -- Prescription Drug User Fee Act action date set for March 12, 2023 http://www.businesswire.com/news/home/20220912005299/en/Acadia-Pharmaceuticals-Announces-Trofinetide-New-Drug-Application-for-the-Treatment-of-Rett-Syndrome-has-been-Accepted-for-Filing-and-Review-by-U.S.-FDA",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-03-12"
+     },
+     "end": {
+      "date": "2023-03-12"
+     },
+     "iCalUID": "j4dcu6cq9sc8iarps0n7u0oag8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3327530406796000\"",
+     "id": "98l24142pnpmpka632jcigja1k",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=OThsMjQxNDJwbnBtcGthNjMyamNpZ2phMWsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-09-21T13:00:03.000Z",
+     "updated": "2022-09-21T13:00:03.398Z",
+     "summary": "CDTX Cidara Therapeutics, Inc. PDUFA",
+     "description": "2023-03-22 The FDA has assigned a Prescription Drug User Fee Act (PDUFA) target action date of March 22, 2023 enabled by rezafungins designation as a Qualified Infectious Disease Product (QIDP) and has indicated that it is currently planning to hold an advisory committee meeting to discuss the application. https://www.globenewswire.com/news-release/2022/09/20/2519691/35407/en/Cidara-Therapeutics-Announces-FDA-Acceptance-for-Priority-Review-of-New-Drug-Application-for-Rezafungin-for-the-Treatment-of-Candidemia-and-Invasive-Candidiasis.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-03-22"
+     },
+     "end": {
+      "date": "2023-03-22"
+     },
+     "iCalUID": "98l24142pnpmpka632jcigja1k@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3336069454776000\"",
+     "id": "m3d5lg25rbilhau4gb72uh39ts",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bTNkNWxnMjVyYmlsaGF1NGdiNzJ1aDM5dHMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-11-08T14:00:03.000Z",
+     "updated": "2022-11-09T22:58:47.388Z",
+     "summary": "APLS Apellis Pharmaceuticals, Inc. PDUFA",
+     "description": "2022-11-07 November 07, 2022 16:05 ET\nSource:\nApellis Pharmaceuticals, Inc.\nApellis Pharmaceuticals Reports Third Quarter 2022 Financial Results\nPlans to submit 24-month Phase 3 data to the FDA for intravitreal pegcetacoplan for geographic atrophy (GA); expected PDUFA target action date in February 2023EU marketing authorization application... https://www.globenewswire.com/news-release/2022/11/03/2548222/0/en/Apellis-Announces-Plans-to-Submit-24-Month-Phase-3-Data-to-the-FDA-for-Pegcetacoplan-NDA-for-Geographic-Atrophy-GA.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-02-26"
+     },
+     "end": {
+      "date": "2023-02-27"
+     },
+     "iCalUID": "m3d5lg25rbilhau4gb72uh39ts@google.com",
+     "sequence": 1,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3338424006836000\"",
+     "id": "ikojd8a8i1o8ilpnbjbho06d9k",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=aWtvamQ4YThpMW84aWxwbmJqYmhvMDZkOWsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-11-23T14:00:03.000Z",
+     "updated": "2022-11-23T14:00:03.418Z",
+     "summary": "ARGX ARGENX SE PDUFA",
+     "description": "2023-03-20 The application has been granted a Prescription Drug User Fee Act (PDUFA) target action date of March 20, 2023. https://www.sec.gov/Archives/edgar/data/0001697862/000110465922121013/tm2231123d1_ex99-1.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-03-20"
+     },
+     "end": {
+      "date": "2023-03-20"
+     },
+     "iCalUID": "ikojd8a8i1o8ilpnbjbho06d9k@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3354148831566000\"",
+     "id": "65a38r0hrl1bpdh1vtaai9f6n0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NjVhMzhyMGhybDFicGRoMXZ0YWFpOWY2bjAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-22T14:00:15.000Z",
+     "updated": "2023-02-22T14:00:15.783Z",
+     "summary": "APLS Apellis Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-03-15 The second sNDA is for the EMPAVELI Injector and has a PDUFA target action date on March 15, 2023. https://www.sec.gov/Archives/edgar/data/0001492422/000095017023003438/apls-20221231.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-03-15"
+     },
+     "end": {
+      "date": "2023-03-15"
+     },
+     "iCalUID": "65a38r0hrl1bpdh1vtaai9f6n0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3354321631134000\"",
+     "id": "kfvufgi4hk0heoctlsf0qlsat4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=a2Z2dWZnaTRoazBoZW9jdGxzZjBxbHNhdDQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-23T14:00:15.000Z",
+     "updated": "2023-02-23T14:00:15.567Z",
+     "summary": "IONS Ionis Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-03-22 FDA Advisory Committee meeting planned for March 22, 2023 to review Biogen's NDA for tofersen for patients with SOD1-ALS (PDUFA date of April 25, 2023); EMA accepted MAA for review https://www.prnewswire.com/news-releases/ionis-reports-fourth-quarter-and-full-year-2022-financial-results-301752630.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-03-22"
+     },
+     "end": {
+      "date": "2023-03-22"
+     },
+     "iCalUID": "kfvufgi4hk0heoctlsf0qlsat4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3349310407404000\"",
+        "id": "m0jpf40is8eolsibl0725bipd0",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bTBqcGY0MGlzOGVvbHNpYmwwNzI1YmlwZDAgZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2023-01-25T14:00:03.000Z",
+        "updated": "2023-01-25T14:00:03.702Z",
+        "summary": "BIIB Biogen Inc. FDA AdCom",
+        "description": "2023-03-22 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. The committee will discuss new drug application (NDA) 215887, for tofersen (BIIB067) intrathecal injection, submitted by Biogen Inc., for the treatment of amyotrophic lateral sclerosis (ALS) associated with a mutation in the superoxide dismutase 1 (SOD1) gene. https://www.fda.gov/advisory-committees/advisory-committee-calendar/march-22-2023-meeting-peripheral-and-central-nervous-system-drugs-advisory-committee-meeting",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2023-03-22"
+        },
+        "end": {
+         "date": "2023-03-22"
+        },
+        "iCalUID": "m0jpf40is8eolsibl0725bipd0@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+       },
+       {
+        "kind": "calendar#event",
+        "etag": "\"3355531233268000\"",
+        "id": "6npf2bsnvs6seipajtihcn1668",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=Nm5wZjJic252czZzZWlwYWp0aWhjbjE2NjggZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2023-03-02T14:00:16.000Z",
+        "updated": "2023-03-02T14:00:16.634Z",
+        "summary": "PFE Pfizer Inc. FDA AdCom",
+        "description": "2023-03-16 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. The committee will discuss new drug application (NDA) 217188, for PAXLOVID (nirmatrelvir and ritonavir co-packaged tablets) for oral use, submitted by Pfizer, Inc. The proposed indication is treatment of mild-to-moderate coronavirus disease (COVID–19) in adults who are at high risk for progression to severe COVID–19, including hospitalization or death. https://www.fda.gov/advisory-committees/advisory-committee-calendar/march-16-2023-antimicrobial-drugs-advisory-committee-meeting-announcement-03162023",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2023-03-16"
+        },
+        "end": {
+         "date": "2023-03-16"
+        },
+        "iCalUID": "6npf2bsnvs6seipajtihcn1668@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+       }
+   ]

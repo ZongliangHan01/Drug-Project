@@ -1,0 +1,312 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3244068029988000\"",
+     "id": "6hoggupsirn9hvivvbq9liqboo",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NmhvZ2d1cHNpcm45aHZpdnZicTlsaXFib28gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-05-26T13:00:14.000Z",
+     "updated": "2021-05-26T13:00:14.994Z",
+     "summary": "TXMD THERAPEUTICSMD, INC. PDUFA",
+     "description": "2022-03-21 If accepted, the Company expects that the review time under the Prescription Drug User Fee Act (PDUFA) will be within ten months of receipt by the FDA, approximately March 21, 2022. http://www.businesswire.com/news/home/20210525005287/en/TherapeuticsMD-Announces-Submission-of-Low-Dose-BIJUVA%C2%AE-0.5-mg100-mg-Supplemental-New-Drug-Application-to-FDA",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-03-21"
+     },
+     "end": {
+      "date": "2022-03-21"
+     },
+     "iCalUID": "6hoggupsirn9hvivvbq9liqboo@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3255300005718000\"",
+     "id": "f5djo1q7l3ccoqa63nnmpe3lak",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZjVkam8xcTdsM2Njb3FhNjNubm1wZTNsYWsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-07-30T13:00:02.000Z",
+     "updated": "2021-07-30T13:00:02.859Z",
+     "summary": "MRK MERCK & CO., INC. PDUFA",
+     "description": "2022-03-21 The extended PDUFA action date is March 21, 2022. http://www.businesswire.com/news/home/20210729005307/en/Merck-Announces-Second-Quarter-2021-Financial-Results",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-03-21"
+     },
+     "end": {
+      "date": "2022-03-21"
+     },
+     "iCalUID": "f5djo1q7l3ccoqa63nnmpe3lak@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3264458421644000\"",
+     "id": "gr0nkmbjgc8e3v8ak6eg4lt3j4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Z3IwbmttYmpnYzhlM3Y4YWs2ZWc0bHQzajQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-09-21T13:00:10.000Z",
+     "updated": "2021-09-21T13:00:10.822Z",
+     "summary": "MRNS MARINUS PHARMACEUTICALS PDUFA",
+     "description": "2022-03-20 Examples of forward-looking statements contained in this press release include, among others, statements regarding the PDUFA target action date set for March 20, 2022; the FDAs indication that an Advisory Committee is not currently being planned for the CDKL5 NDA; our ability to draw $30 million of additional cash under the credit financing agreement with Oaktree Capital Management, L.P; our expected clinical development plans, enrollment in our clinical trials, trial design, and regulatory communications and submissions for ganaxolone, and the timing thereof; our expectations and beliefs regarding the FDA with respect to our product candidates; and the potential safety and efficacy of ganaxolone, as well as its therapeutic potential in a number of indications. http://www.businesswire.com/news/home/20210920005273/en/Marinus-Pharmaceuticals-Announces-FDA-Acceptance-for-Filing-and-Priority-Review-of-New-Drug-Application-for-Ganaxolone-in-CDKL5-Deficiency-Disorder",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-03-20"
+     },
+     "end": {
+      "date": "2022-03-20"
+     },
+     "iCalUID": "gr0nkmbjgc8e3v8ak6eg4lt3j4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3264458438052000\"",
+     "id": "ndop2psc2nc46oge3vhov7fqpg",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bmRvcDJwc2MybmM0Nm9nZTN2aG92N2ZxcGcgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-09-21T13:00:19.000Z",
+     "updated": "2021-09-21T13:00:19.026Z",
+     "summary": "GILD GILEAD SCIENCES, INC. PDUFA",
+     "description": "2022-02-28 The investigational, long-acting HIV-1 capsid inhibitor has been given a Prescription Drug User Fee Act (PDUFA) action date of February 28, 2022, accelerating the review goal from ten months to six months from the day of filing acceptance. http://www.businesswire.com/news/home/20210920005228/en/Gilead-to-Present-Latest-Antiviral-Research-Data-Addressing-Urgent-Global-Needs-in-Infectious-Disease-at-IDWeek-2021",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-02-28"
+     },
+     "end": {
+      "date": "2022-02-28"
+     },
+     "iCalUID": "ndop2psc2nc46oge3vhov7fqpg@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3270852040230000\"",
+     "id": "37np6ioj2pbr8lfr4pmbfv93h0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MzducDZpb2oycGJyOGxmcjRwbWJmdjkzaDAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-10-28T13:00:20.000Z",
+     "updated": "2021-10-28T13:00:20.115Z",
+     "summary": "BMY BRISTOL MYERS SQUIBB PDUFA",
+     "description": "2022-03-19 The FDA assigned a PDUFA goal date of March 19, 2022. http://www.businesswire.com/news/home/20211027005310/en/Bristol-Myers-Squibb-Reports-Third-Quarter-Financial-Results-for-2021",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-03-19"
+     },
+     "end": {
+      "date": "2022-03-19"
+     },
+     "iCalUID": "37np6ioj2pbr8lfr4pmbfv93h0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3271716010798000\"",
+     "id": "5qge2en56bfhlo60q3di39ogk4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NXFnZTJlbjU2YmZobG82MHEzZGkzOW9nazQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-11-02T13:00:05.000Z",
+     "updated": "2021-11-02T13:00:05.399Z",
+     "summary": "LEGN LEGEND BIOTECH PDUFA",
+     "description": "2022-02-28 Legend Biotech announced that the U.S. FDA has extended the Prescription Drug User Fee Act (PDUFA) target date for cilta-cel to February 28, 2022. http://www.businesswire.com/news/home/20211101005844/en/Legend-Biotech-Announces-Extension-of-PDUFA-Date-for-Cilta-Cel",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-02-28"
+     },
+     "end": {
+      "date": "2022-02-28"
+     },
+     "iCalUID": "5qge2en56bfhlo60q3di39ogk4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3275524813076000\"",
+     "id": "ru1ucsnfun164766uae61883vo",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cnUxdWNzbmZ1bjE2NDc2NnVhZTYxODgzdm8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-11-24T14:00:06.000Z",
+     "updated": "2021-11-24T14:00:06.538Z",
+     "summary": "AMYT Amryt Pharma plc PDUFA",
+     "description": "2022-02-28 The submission of this additional information has been determined by the FDA to constitute a Major Amendment to the NDA, resulting in an extension of the PDUFA goal date by three months to February 28, 2022. https://www.sec.gov/Archives/edgar/data/0001783010/000117184321008160/f424b3_112321.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-02-28"
+     },
+     "end": {
+      "date": "2022-02-28"
+     },
+     "iCalUID": "ru1ucsnfun164766uae61883vo@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3276734408724000\"",
+     "id": "bmfaufmlcpdjk6m344r7po5f14",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Ym1mYXVmbWxjcGRqazZtMzQ0cjdwbzVmMTQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-12-01T14:00:04.000Z",
+     "updated": "2021-12-01T14:00:04.362Z",
+     "summary": "CTIC CTI BioPharma Corp. PDUFA",
+     "description": "2022-02-28 The Prescription Drug User Fee Act (PDUFA) action date has been extended by three months to February 28, 2022. https://www.prnewswire.com/news-releases/cti-biopharma-announces-extension-of-fda-review-period-for-pacritinib-in-myelofibrosis-with-severe-thrombocytopenia-301434498.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-02-28"
+     },
+     "end": {
+      "date": "2022-02-28"
+     },
+     "iCalUID": "bmfaufmlcpdjk6m344r7po5f14@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3276907255900000\"",
+     "id": "8ur42m07vv62mlbedphkcs73bc",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=OHVyNDJtMDd2djYybWxiZWRwaGtjczczYmMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-12-02T14:00:27.000Z",
+     "updated": "2021-12-02T14:00:27.950Z",
+     "summary": "ZGNX Zogenix, Inc PDUFA",
+     "description": "2022-03-25 The FDA granted Priority Review, which means that the FDA has a goal to complete its review within six months from the date of receipt, with a Prescription Drug User Fee Act (PDUFA) target action date of March 25, 2022. https://www.globenewswire.com/news-release/2021/12/01/2344064/0/en/Zogenix-Announces-U-S-FDA-Acceptance-for-Priority-Review-of-Supplemental-New-Drug-Application-for-FINTEPLA-Fenfluramine-for-the-Treatment-of-Seizures-Associated-with-Lennox-Gastaut.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-03-25"
+     },
+     "end": {
+      "date": "2022-03-25"
+     },
+     "iCalUID": "8ur42m07vv62mlbedphkcs73bc@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3277598412890000\"",
+     "id": "k67ugdlj7tn52aqavgq1hqt8mo",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=azY3dWdkbGo3dG41MmFxYXZncTFocXQ4bW8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-12-06T14:00:06.000Z",
+     "updated": "2021-12-06T14:00:06.445Z",
+     "summary": "BMY BRISTOL MYERS SQUIBB PDUFA",
+     "description": "2022-03-27 The FDA has set a Prescription Drug User Fee Act (PDUFA) goal date of March 27, 2022. http://www.businesswire.com/news/home/20211203005095/en/U.S.-Food-and-Drug-Administration-Accepts-for-Priority-Review-supplemental-Biologics-License-Application-for-Reblozyl%C2%AE-luspatercept-aamt-in-Adults-with-Non-Transfusion-Dependent-NTD-Beta-Thalassemia",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-03-27"
+     },
+     "end": {
+      "date": "2022-03-27"
+     },
+     "iCalUID": "k67ugdlj7tn52aqavgq1hqt8mo@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    }
+   ]

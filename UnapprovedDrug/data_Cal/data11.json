@@ -1,0 +1,250 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3308522410868000\"",
+     "id": "b2qdf0a6b0kbfg0qo7n2np7mm4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YjJxZGYwYTZiMGtiZmcwcW83bjJucDdtbTQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-06-03T13:00:05.000Z",
+     "updated": "2022-06-03T13:00:05.434Z",
+     "summary": "MYOV Myovant Sciences, Inc. PDUFA",
+     "description": "2023-01-29 The FDA set a target action date of January 29, 2023 for this sNDA under the Prescription Drug User Fee Act (PDUFA). https://www.globenewswire.com/news-release/2022/06/02/2454992/0/en/Myovant-Sciences-and-Pfizer-Announce-FDA-Acceptance-of-Supplemental-New-Drug-Application-for-MYFEMBREE.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-29"
+     },
+     "end": {
+      "date": "2023-01-29"
+     },
+     "iCalUID": "b2qdf0a6b0kbfg0qo7n2np7mm4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3310423207330000\"",
+     "id": "j3fhf9f2ii3qu0qa816ooujg30",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ajNmaGY5ZjJpaTNxdTBxYTgxNm9vdWpnMzAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-06-14T13:00:03.000Z",
+     "updated": "2022-06-14T13:00:03.665Z",
+     "summary": "MRK MERCK & CO., INC. PDUFA",
+     "description": "2023-01-29 The FDA has set a Prescription Drug User Fee Act (PDUFA), or target action, date of January 29, 2023, however, further data may be provided during the review process that may delay this date. http://www.businesswire.com/news/home/20220613005151/en/FDA-Accepts-Application-for-Merck%E2%80%99s-KEYTRUDA%C2%AE-pembrolizumab-as-Adjuvant-Therapy-for-Stage-IB-%E2%89%A54-centimeters--IIIA-Non-Small-Cell-Lung-Cancer-Following-Complete-Surgical-Resection",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-29"
+     },
+     "end": {
+      "date": "2023-01-29"
+     },
+     "iCalUID": "j3fhf9f2ii3qu0qa816ooujg30@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3319063260870000\"",
+     "id": "h67jm5rlk874toed7n7f5qtheo",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=aDY3am01cmxrODc0dG9lZDduN2Y1cXRoZW8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-03T13:00:30.000Z",
+     "updated": "2022-08-03T13:00:30.435Z",
+     "summary": "RIGL RIGEL PHARMACEUTICALS INC PDUFA",
+     "description": "2023-02-15 Forma has submitted an NDA for olutasidenib to the FDA with action date for the FDA to complete its review under the PDUFA on February 15, 2023. https://www.sec.gov/Archives/edgar/data/0001034842/000155837022011638/rigl-20220630x10q.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-02-15"
+     },
+     "end": {
+      "date": "2023-02-15"
+     },
+     "iCalUID": "h67jm5rlk874toed7n7f5qtheo@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3319927213490000\"",
+     "id": "c31oe4cen7357odjrlisjvgkrg",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YzMxb2U0Y2VuNzM1N29kanJsaXNqdmdrcmcgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-08T13:00:06.000Z",
+     "updated": "2022-08-08T13:00:06.745Z",
+     "summary": "FMTX FORMA THERAPEUTICS HOLDINGS, INC. PDUFA",
+     "description": "2023-02-15 The Prescription Drug User Fee Act (PDUFA) target action date is February 15, 2023. http://www.businesswire.com/news/home/20220805005036/en/Forma-Therapeutics-Reports-Second-Quarter-2022-Financial-Results-and-Provides-Business-Update",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-02-15"
+     },
+     "end": {
+      "date": "2023-02-15"
+     },
+     "iCalUID": "c31oe4cen7357odjrlisjvgkrg@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3320618408786000\"",
+     "id": "9f6lq2s5bif02nsl9eafp0f730",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=OWY2bHEyczViaWYwMm5zbDllYWZwMGY3MzAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-12T13:00:04.000Z",
+     "updated": "2022-08-12T13:00:04.393Z",
+     "summary": "RDUS Menarini Industrie Farmaceutiche Riunite PDUFA",
+     "description": "2023-02-17 The FDA has granted the application Priority Review and assigned a PDUFA date of February 17, 2023. https://www.prnewswire.com/news-releases/menarini-groups-elacestrant-granted-priority-review-by-the-us-fda-for-patients-with-erher2--advanced-or-metastatic-breast-cancer-301604240.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-02-17"
+     },
+     "end": {
+      "date": "2023-02-17"
+     },
+     "iCalUID": "9f6lq2s5bif02nsl9eafp0f730@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3321828011076000\"",
+     "id": "tkn01e3pccpqnnihth5t0k0um4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=dGtuMDFlM3BjY3Bxbm5paHRoNXQwazB1bTQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-19T13:00:05.000Z",
+     "updated": "2022-08-19T13:00:05.538Z",
+     "summary": "KRYS Krystal Biotech, Inc. PDUFA",
+     "description": "2023-02-17 The application has been granted Priority Review designation, and the Prescription Drug User Fee Act (PDUFA) action date is February 17, 2023. https://www.globenewswire.com/news-release/2022/08/18/2501270/0/en/FDA-Accepts-Krystal-Biotech-s-Biologics-License-Application-for-Dystrophic-Epidermolysis-Bullosa.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-02-17"
+     },
+     "end": {
+      "date": "2023-02-17"
+     },
+     "iCalUID": "tkn01e3pccpqnnihth5t0k0um4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3333924018578000\"",
+     "id": "ua7q862a88g1gdmaj825sr3ch8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=dWE3cTg2MmE4OGcxZ2RtYWo4MjVzcjNjaDggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-10-28T13:00:09.000Z",
+     "updated": "2022-10-28T13:00:09.289Z",
+     "summary": "TVTX Travere Therapeutics, Inc. PDUFA",
+     "description": "2023-02-17 The Company recently submitted an updated REMS and has received a new PDUFA target action date of February 17, 2023. https://www.globenewswire.com/news-release/2022/10/27/2543344/0/en/Travere-Therapeutics-Reports-Third-Quarter-2022-Financial-Results.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-02-17"
+     },
+     "end": {
+      "date": "2023-02-17"
+     },
+     "iCalUID": "ua7q862a88g1gdmaj825sr3ch8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3351384018858000\"",
+     "id": "6l3a7kuthqrp3unhh83roq99eg",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NmwzYTdrdXRocXJwM3VuaGg4M3JvcTk5ZWcgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-06T14:00:09.000Z",
+     "updated": "2023-02-06T14:00:09.429Z",
+     "summary": "REGN Regeneron Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-02-11 The supplemental BLA (sBLA) for EYLEA to treat ROP in preterm infants is currently under review by the FDA, with a target action date of February 11, 2023. https://www.globenewswire.com/news-release/2023/02/03/2601193/0/en/Regeneron-Reports-Fourth-Quarter-and-Full-Year-2022-Financial-and-Operating-Results.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-02-11"
+     },
+     "end": {
+      "date": "2023-02-11"
+     },
+     "iCalUID": "6l3a7kuthqrp3unhh83roq99eg@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    }
+   ]

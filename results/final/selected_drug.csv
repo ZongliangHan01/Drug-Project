@@ -1,0 +1,18 @@
+,drugId,displayName,indication,company,country,probabilityOfSuccess,phase,startDate,endDate,successPercentage
+0,72133,nogapendekin alfa,Bladder cancer,ImmunityBio Inc,US,95%,Pre-Reg,11-May-2023,09-Apr-2024,95%
+1,90272,"immunoglobulin + hyaluronidase (immune deficiency/demyelinating polyneuropathy/multifocal motor neuropathy/chronic fatigue syndrome, Enhanze), Shire/Halozyme",Chronic inflammatory demyelinating polyneuropathy,Takeda Pharmaceutical Co Ltd,US,95%,Pre-Reg,28-Feb-2023,24-Jan-2024,95%
+2,54730,sotatercept,Pulmonary artery hypertension,Merck & Co Inc,US,92%,Pre-Reg,30-Jun-2023,25-Mar-2024,92%
+3,90233,odronextamab,Follicle center lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Pre-Reg,29-Sep-2023,14-Apr-2024,95%
+4,90233,odronextamab,Diffuse large B-cell lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Pre-Reg,29-Sep-2023,14-Apr-2024,95%
+5,99602,lutetium (177Lu) vipivotide tetraxetan,Hormone refractory prostate cancer,Novartis AG,US,95%,Pre-Reg,31-Mar-2023,02-Jan-2024,95%
+6,51160,nintedanib,Interstitial lung disease,Boehringer Ingelheim International GmbH,US,95%,Pre-Reg,25-Jul-2023,18-Mar-2024,95%
+7,55266,zolbetuximab,Metastatic stomach cancer,Astellas Pharma Inc,US,95%,Pre-Reg,06-Jul-2023,26-Jan-2024,95%
+8,55266,zolbetuximab,Metastatic esophageal cancer,Astellas Pharma Inc,US,95%,Pre-Reg,06-Jul-2023,26-Jan-2024,95%
+9,69095,capivasertib,Metastatic breast cancer,AstraZeneca PLC,US,95%,Pre-Reg,12-Jun-2023,09-Apr-2024,95%
+10,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Breast tumor,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,10-Feb-2024,95%
+11,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Esophagus tumor,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,03-Feb-2024,95%
+12,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Metastatic breast cancer,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,10-Feb-2024,95%
+13,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Metastatic stomach cancer,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,08-Feb-2024,95%
+14,99330,sabizabulin,Coronavirus disease 19 infection,Veru Inc,US,93%,Pre-Reg,07-Jun-2022,05-Mar-2024,93%
+15,101768,afamitresgene autoleucel,Soft tissue sarcoma,Adaptimmune Therapeutics plc,US,95%,Pre-Reg,23-Dec-2022,10-Dec-2023,95%
+16,106247,"trastuzumab biosimilar, EirGenix",Stomach tumor,EirGenix Inc,US,95%,Pre-Reg,20-Dec-2021,14-Apr-2024,95%

@@ -1,0 +1,282 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3354148868310000\"",
+     "id": "o5chcjf1le60ur44nbb09k5r98",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bzVjaGNqZjFsZTYwdXI0NG5iYjA5azVyOTggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-22T14:00:34.000Z",
+     "updated": "2023-02-22T14:00:34.155Z",
+     "summary": "ALNY ALNYLAM PHARMACEUTICALS, INC. PDUFA",
+     "description": "2023-10-08 The FDA has set an action date of October 8, 2023 under the Prescription Drug User Fee Act (PDUFA). http://www.businesswire.com/news/home/20230221005335/en/Alnylam-Announces-U.S.-Food-and-Drug-Administration-FDA-Acceptance-of-Supplemental-New-Drug-Application-for-ONPATTRO%C2%AE-patisiran-for-the-Treatment-of-the-Cardiomyopathy-of-ATTR-Amyloidosis",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-10-08"
+     },
+     "end": {
+      "date": "2023-10-08"
+     },
+     "iCalUID": "o5chcjf1le60ur44nbb09k5r98@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3355358419056000\"",
+     "id": "6fbhogmpoctgcj1n9lrj34saao",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NmZiaG9nbXBvY3RnY2oxbjlscmozNHNhYW8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-01T14:00:09.000Z",
+     "updated": "2023-03-01T14:00:09.528Z",
+     "summary": "BMY BRISTOL MYERS SQUIBB PDUFA",
+     "description": "2023-10-13 In the U.S., the FDA has assigned a Prescription Drug User Fee Act (PDUFA) date of October 13, 2023. http://www.businesswire.com/news/home/20230227005793/en/U.S.-Food-and-Drug-Administration-Accepts-Bristol-Myers-Squibb%E2%80%99s-Supplemental-Biologics-License-Application-and-European-Medicines-Agency-Validates-Application-for-Opdivo-nivolumab-%E2%80%A6.",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-10-13"
+     },
+     "end": {
+      "date": "2023-10-13"
+     },
+     "iCalUID": "6fbhogmpoctgcj1n9lrj34saao@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3355531208450000\"",
+     "id": "c0qtirpmjpd2rc8bs9npmnd49s",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YzBxdGlycG1qcGQycmM4YnM5bnBtbmQ0OXMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-02T14:00:04.000Z",
+     "updated": "2023-03-02T14:00:04.225Z",
+     "summary": "MRK MERCK & CO., INC. PDUFA",
+     "description": "2023-10-16 The FDA has set a Prescription Drug User Fee Act (PDUFA), or target action, date of October 16, 2023. http://www.businesswire.com/news/home/20230301005450/en/Merck-Announces-Phase-3-KEYNOTE-671-Trial-Met-Primary-Endpoint-of-Event-Free-Survival-EFS-in-Patients-With-Resectable-Stage-II-IIIA-or-IIIB-Non-Small-Cell-Lung-Cancer",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-10-16"
+     },
+     "end": {
+      "date": "2023-10-16"
+     },
+     "iCalUID": "c0qtirpmjpd2rc8bs9npmnd49s@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3356568019370000\"",
+     "id": "gt1a3591c15jj8ngrbf4n49mp0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Z3QxYTM1OTFjMTVqajhuZ3JiZjRuNDltcDAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-08T14:00:09.000Z",
+     "updated": "2023-03-08T14:00:09.685Z",
+     "summary": "REGN Regeneron Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-10-22 The target action date for the FDA decision is October 22, 2023. https://www.globenewswire.com/news-release/2023/03/07/2621674/0/en/Dupixent-dupilumab-Application-for-Treatment-of-Chronic-Spontaneous-Urticaria-CSU-in-Adults-and-Adolescents-Aged-12-Years-and-Older-Accepted-for-FDA-Review.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-10-22"
+     },
+     "end": {
+      "date": "2023-10-22"
+     },
+     "iCalUID": "gt1a3591c15jj8ngrbf4n49mp0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3356568031664000\"",
+     "id": "tev195prucqtilcdv314rf770k",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=dGV2MTk1cHJ1Y3F0aWxjZHYzMTRyZjc3MGsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-08T14:00:15.000Z",
+     "updated": "2023-03-08T14:00:15.832Z",
+     "summary": "BMRN BioMarin Pharmaceutical Inc. PDUFA",
+     "description": "2023-10-21 The FDA has set a PDUFA target action date of October 21, 2023 for the sNDA. https://www.prnewswire.com/news-releases/fda-accepts-biomarins-supplemental-new-drug-application-to-expand-use-of-voxzogo-vosoritide-for-injection-to-treat-children-with-achondroplasia-under-the-age-of-5-301765021.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-10-21"
+     },
+     "end": {
+      "date": "2023-10-21"
+     },
+     "iCalUID": "tev195prucqtilcdv314rf770k@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3357770406450000\"",
+     "id": "k1fsq6ks278hv8kifpcbhbsjbs",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=azFmc3E2a3MyNzhodjhraWZwY2JoYnNqYnMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-15T13:00:03.000Z",
+     "updated": "2023-03-15T13:00:03.225Z",
+     "summary": "SNYNF Sanofi PDUFA",
+     "description": "2023-10-22 The target action date for the FDA decision is October 22, 2023. https://www.sec.gov/Archives/edgar/data/0001121404/000119312523069910/d451411dex991.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-10-22"
+     },
+     "end": {
+      "date": "2023-10-22"
+     },
+     "iCalUID": "k1fsq6ks278hv8kifpcbhbsjbs@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3374704820726000\"",
+     "id": "pa58118n1h55220lnsh82j2gg8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cGE1ODExOG4xaDU1MjIwbG5zaDgyajJnZzggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-06-21T13:00:10.000Z",
+     "updated": "2023-06-21T13:00:10.363Z",
+     "summary": "CPRX Santhera Pharmaceuticals Holding AG PDUFA",
+     "description": "2023-10-26 The new drug application (NDA) for vamorolone in DMD is under review in the U.S. by FDA, which has set October 26, 2023 as the Prescription Drug User Fee Act (PDUFA) date for its regulatory decision on approval. https://www.globenewswire.com/news-release/2023/06/20/2690702/0/en/Santhera-Grants-Exclusive-North-America-License-for-Vamorolone-to-Catalyst-Pharmaceuticals-in-Deal-Valued-at-up-to-USD-231-Million-Plus-Royalties.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-10-26"
+     },
+     "end": {
+      "date": "2023-10-26"
+     },
+     "iCalUID": "pa58118n1h55220lnsh82j2gg8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3390974310030000\"",
+     "id": "5r2a443h9gtb6nd3h5meu176au",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NXIyYTQ0M2g5Z3RiNm5kM2g1bWV1MTc2YXUgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-09-23T16:38:29.000Z",
+     "updated": "2023-09-23T16:39:15.015Z",
+     "summary": "ARDX Ardelyx, Inc. PDUFA",
+     "description": "2023-10-17 The FDA has set a user fee goal date of October 17, 2023.\u003cbr\u003e\u003ca href=\"https://www.google.com/url?q=https%3A%2F%2Fir.ardelyx.com%2Fnews-releases%2Fnews-release-details%2Fardelyx-announces-fda-acceptance-and-six-month-review&amp;sa=D&amp;ust=1705724760000000&amp;usg=AOvVaw0KvxPo2UdWRPtEfMT1xDvn\" target=\"_blank\"\u003ehttps://ir.ardelyx.com/news-releases/news-release-details/ardelyx-announces-fda-acceptance-and-six-month-review\u003c/a\u003e",
+     "creator": {
+      "email": "jclee8@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-10-17"
+     },
+     "end": {
+      "date": "2023-10-18"
+     },
+     "transparency": "transparent",
+     "iCalUID": "5r2a443h9gtb6nd3h5meu176au@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3385764018472000\"",
+        "id": "ru2259b77id91kiitc0u0psi30",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=cnUyMjU5Yjc3aWQ5MWtpaXRjMHUwcHNpMzAgZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2023-08-24T13:00:09.000Z",
+        "updated": "2023-08-24T13:00:09.236Z",
+        "summary": "AMGN Amgen Inc. FDA AdCom",
+        "description": "2023-10-05 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing and/or video conferencing platform. The Committee will discuss supplemental new drug application (sNDA) 214665/S-005, for LUMAKRAS (sotorasib) tablets, submitted by Amgen Inc., for the proposed treatment of adult patients with KRAS G12C mutated locally advanced or metastatic non-small cell lung cancer, as determined by an FDA approved test, who have received at least one prior systemic therapy. This supplement proposes to convert the NDA to full approval based on the confirmatory study, CodeBreaK 200. The Committee will consider the results of the CodeBreaK 200 study and discuss the benefit-risk profile of LUMAKRAS. https://www.fda.gov/advisory-committees/advisory-committee-calendar/october-5-2023-meeting-oncologic-drugs-advisory-committee-meeting-announcement-10052023",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2023-10-05"
+        },
+        "end": {
+         "date": "2023-10-05"
+        },
+        "iCalUID": "ru2259b77id91kiitc0u0psi30@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+    }
+   ]

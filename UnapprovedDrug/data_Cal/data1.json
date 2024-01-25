@@ -1,0 +1,126 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3351729606334000\"",
+     "id": "tvkgmq6r4h4ee3lpqpf4ctkmns",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=dHZrZ21xNnI0aDRlZTNscHFwZjRjdGttbnMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-08T14:00:03.000Z",
+     "updated": "2023-02-08T14:00:03.167Z",
+     "summary": "ALDX Aldeyra Therapeutics, Inc. PDUFA",
+     "description": "2023-11-23 This release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including, but not limited to, statements relating to the likelihood and timing of the FDAs potential approval of the NDA for reproxalap by the PDUFA date of November 23, 2023, or at any other time and the potential profile, the expectation around any potential future request by the FDA to hold an advisory committee meeting related to the NDA, benefit and market size of reproxalap in dry eye disease should the NDA for reproxalap be approved by the FDA. https://www.sec.gov/Archives/edgar/data/0001341235/000115752323000181/a53304873_ex991.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-11-23"
+     },
+     "end": {
+      "date": "2023-11-23"
+     },
+     "iCalUID": "tvkgmq6r4h4ee3lpqpf4ctkmns@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3360362407420000\"",
+     "id": "fhr4cn80ss8dflgt505gn0mc1c",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZmhyNGNuODBzczhkZmxndDUwNWduMG1jMWMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-30T13:00:03.000Z",
+     "updated": "2023-03-30T13:00:03.710Z",
+     "summary": "PCRX Pacira BioSciences PDUFA",
+     "description": "2023-11-13 The expected action date by the FDA under the Prescription Drug User Fee Act (PDUFA) is November 13, 2023. https://www.globenewswire.com/news-release/2023/03/29/2636622/0/en/Pacira-Announces-FDA-Acceptance-of-sNDA-for-Exparel-Nerve-Blocks-to-Produce-Regional-Analgesia-in-Lower-Extremity-Procedures.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-11-13"
+     },
+     "end": {
+      "date": "2023-11-13"
+     },
+     "iCalUID": "fhr4cn80ss8dflgt505gn0mc1c@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3373322406040000\"",
+     "id": "ggv43fmvecmt6kojfjrqarn6hg",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Z2d2NDNmbXZlY210NmtvamZqcnFhcm42aGcgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-06-13T13:00:03.000Z",
+     "updated": "2023-06-13T13:00:03.020Z",
+     "summary": "PHAT Phathom Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-11-17 The FDA has classified this as a Class 2 resubmission and assigned a Prescription Drug User Fee Act (PDUFA) goal date of November 17, 2023. https://www.sec.gov/Archives/edgar/data/0001783183/000119312523164930/d486645d8k.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-11-17"
+     },
+     "end": {
+      "date": "2023-11-17"
+     },
+     "iCalUID": "ggv43fmvecmt6kojfjrqarn6hg@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3374877618158000\"",
+     "id": "cpi4g74igri7ge2l4pl3bj9b70",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Y3BpNGc3NGlncmk3Z2UybDRwbDNiajliNzAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-06-22T13:00:09.000Z",
+     "updated": "2023-06-22T13:00:09.079Z",
+     "summary": "CRMD CorMedix Inc. PDUFA",
+     "description": "2023-11-15 The Company further announced that the FDA considers the resubmission as a complete Class 2 response with a six-month review and has assigned a Prescription Drug User Fee Act target action date of November 15, 2023. https://www.sec.gov/Archives/edgar/data/0001410098/000121390023050240/ea180659-8k_cormedix.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-11-15"
+     },
+     "end": {
+      "date": "2023-11-15"
+     },
+     "iCalUID": "cpi4g74igri7ge2l4pl3bj9b70@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    }
+   ]

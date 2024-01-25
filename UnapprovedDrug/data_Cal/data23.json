@@ -1,0 +1,157 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3239056848692000\"",
+     "id": "32m37tnojn52lbe6hc3jkk996o",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MzJtMzd0bm9qbjUybGJlNmhjM2prazk5Nm8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-04-27T13:00:24.000Z",
+     "updated": "2021-04-27T13:00:24.346Z",
+     "summary": "RETA Reata Pharmaceuticals, Inc. PDUFA",
+     "description": "2022-02-25 The Prescription Drug User Fee Act (PDUFA) date, the FDA action date for the application, is scheduled for February 25, 2022. https://www.globenewswire.com/news-release/2021/04/26/2217232/0/en/Reata-Announces-FDA-Accepted-for-Filing-the-NDA-for-Bardoxolone-for-the-Treatment-of-Patients-With-Chronic-Kidney-Disease-Caused-by-Alport-Syndrome.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-02-25"
+     },
+     "end": {
+      "date": "2022-02-25"
+     },
+     "iCalUID": "32m37tnojn52lbe6hc3jkk996o@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3258583211744000\"",
+     "id": "gen56k3d09h68h9p74kd4pfl8c",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Z2VuNTZrM2QwOWg2OGg5cDc0a2Q0cGZsOGMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-08-18T13:00:05.000Z",
+     "updated": "2021-08-18T13:00:05.872Z",
+     "summary": "AGIO Agios Pharmaceuticals, Inc. PDUFA",
+     "description": "2022-02-17 The NDA was granted a Priority Review designation and has been given a Prescription Drug User Fee Act (PDUFA) action date of February 17, 2022, accelerating the review time from 10 months to six months from the day of filing acceptance. https://www.globenewswire.com/news-release/2021/08/17/2282283/31990/en/Agios-Announces-FDA-Acceptance-and-Priority-Review-of-New-Drug-Application-for-Mitapivat-for-Treatment-of-Adults-with-Pyruvate-Kinase-Deficiency.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-02-17"
+     },
+     "end": {
+      "date": "2022-02-17"
+     },
+     "iCalUID": "gen56k3d09h68h9p74kd4pfl8c@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3259792812246000\"",
+     "id": "1cladihptr3ge48t3peq6u8rc8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MWNsYWRpaHB0cjNnZTQ4dDNwZXE2dThyYzggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-08-25T13:00:06.000Z",
+     "updated": "2021-08-25T13:00:06.123Z",
+     "summary": "IMCR Immunocore Holdings Limited PDUFA",
+     "description": "2022-02-23 Forward Looking Statements\nThis press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including, but not limited to, statements regarding the efficacy, safety and therapeutic potential of tebentafusp; the clinical development of tebentafusp; the potential benefit of Breakthrough Therapy Designation, Fast Track Designation, Orphan Drug Designation, Priority Review or Accelerated Assessment for tebentafusp; the likelihood of obtaining regulatory approval of tebentafusp; the regulatory approval path and potential commercialization plans for tebentafusp including the timing of such approval decisions, including (i) the PDUFA target action date of February 23, 2022 and (ii) receipt of a CHMP opinion; the expected benefits of tebentafusp including that tebentafusp would be a therapeutic option treatment for metastatic uveal melanoma; and potential growth opportunities and trends in oncology. https://www.globenewswire.com/news-release/2021/08/24/2285396/0/en/Immunocore-Announces-that-U-S-Food-and-Drug-Administration-and-European-Medicines-Agency-accept-Biologics-License-Application-and-Marketing-Authorization-Application-for-Tebentafus.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-02-23"
+     },
+     "end": {
+      "date": "2022-02-23"
+     },
+     "iCalUID": "1cladihptr3ge48t3peq6u8rc8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3279153655118000\"",
+        "id": "636n0v9bfdlc4mfkk9ftlfcelg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=NjM2bjB2OWJmZGxjNG1ma2s5ZnRsZmNlbGcgZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2021-12-15T14:00:27.000Z",
+        "updated": "2021-12-15T14:00:27.559Z",
+        "summary": "IVBXF Innovent Biologics, Inc. FDA AdCom",
+        "description": "2022-02-10 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. The committee will discuss biologics license application (BLA) 761222, for sintilimab injection, submitted by Innovent Biologics (Suzhou) Co., Ltd. The proposed indication (use) for this product is in combination with pemetrexed and platinum-based chemotherapy for the first-line treatment of patients with Stage IIIB, IIIC, or Stage IV non-squamous non-small cell lung cancer with no epidermal growth factor receptor or anaplastic lymphoma kinase genomic tumor aberrations. https://www.fda.gov/advisory-committees/advisory-committee-calendar/february-10-2022-meeting-oncologic-drugs-advisory-committee-meeting-announcement-02102022-02102022",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2022-02-10"
+        },
+        "end": {
+         "date": "2022-02-10"
+        },
+        "iCalUID": "636n0v9bfdlc4mfkk9ftlfcelg@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+       },
+       {
+        "kind": "calendar#event",
+        "etag": "\"3289694456068000\"",
+        "id": "e48t3oioccnvud11bv0qf95if8",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZTQ4dDNvaW9jY252dWQxMWJ2MHFmOTVpZjggZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2022-02-14T14:00:28.000Z",
+        "updated": "2022-02-14T14:00:28.034Z",
+        "summary": "ATXI Avenue Therapeutics, Inc. FDA AdCom",
+        "description": "2022-02-15 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. The committees will be asked to discuss new drug application (NDA) 213231, for tramadol hydrochloride injection, submitted by Avenue Therapeutics, Inc., for the management of moderate to moderately severe pain in adults in a medically supervised healthcare setting. The issues for the committees to discuss include the clinical relevance of tramadol hydrochloride injection, an opioid intended for management of acute pain in a medically supervised healthcare setting, when its onset of action is delayed, and its proposed dosing is a fixed-dosing regimen.  https://www.fda.gov/advisory-committees/advisory-committee-calendar/february-15-2022-joint-meeting-anesthetic-and-analgesic-drug-products-advisory-committee-and-drug",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2022-02-15"
+        },
+        "end": {
+         "date": "2022-02-15"
+        },
+        "iCalUID": "e48t3oioccnvud11bv0qf95if8@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+       }
+   ]

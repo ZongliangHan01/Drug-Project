@@ -1,0 +1,281 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3336868806044000\"",
+     "id": "699dk6nr4t5j1l6v9cpqr3dp9o",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Njk5ZGs2bnI0dDVqMWw2djljcHFyM2RwOW8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-11-14T14:00:03.000Z",
+     "updated": "2022-11-14T14:00:03.022Z",
+     "summary": "AMRX AMNEAL PHARMACEUTICALS, INC. PDUFA",
+     "description": "2023-06-30 The FDA assigned a Prescription Drug User Fee Act (PDUFA) date of June 30, 2023 to complete its evaluation of the NDA. http://www.businesswire.com/news/home/20221109005842/en/Amneal-Announces-U.S.-FDA-Filing-Acceptance-of-New-Drug-Application-for-IPX203-for-the-Treatment-of-Parkinson%E2%80%99s-Disease",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-30"
+     },
+     "end": {
+      "date": "2023-06-30"
+     },
+     "iCalUID": "699dk6nr4t5j1l6v9cpqr3dp9o@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3343608030896000\"",
+     "id": "6ibomm0lenl902ttpn4865rfh0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Nmlib21tMGxlbmw5MDJ0dHBuNDg2NXJmaDAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-12-23T14:00:15.000Z",
+     "updated": "2022-12-23T14:00:15.448Z",
+     "summary": "CTXR Citius Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-07-28 Upon further discussion with the FDA, the PDUFA target date has been set for July 28, 2023. https://www.sec.gov/Archives/edgar/data/0001506251/000121390022082228/ea170685ex99-1_citius.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-07-28"
+     },
+     "end": {
+      "date": "2023-07-28"
+     },
+     "iCalUID": "6ibomm0lenl902ttpn4865rfh0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3346027206954000\"",
+     "id": "rmtpkj4hejbb82krd8fucc40v0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cm10cGtqNGhlamJiODJrcmQ4ZnVjYzQwdjAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-01-06T14:00:03.000Z",
+     "updated": "2023-01-06T14:00:03.477Z",
+     "summary": "BLCO BAUSCH + LOMB CORPORATION PDUFA",
+     "description": "2023-06-28 The U.S. Food and Drug Administration (FDA) assigned NOV03 a Prescription Drug User Fee Act (PDUFA) action date of June 28, 2023. http://www.businesswire.com/news/home/20230104005244/en/Bausch-Lomb-and-Novaliq-Announce-Publication-of-Pivotal-Phase-3-Data-on-NOV03-Perfluorohexyloctane-in-Ophthalmology",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-28"
+     },
+     "end": {
+      "date": "2023-06-28"
+     },
+     "iCalUID": "rmtpkj4hejbb82krd8fucc40v0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3347064006742000\"",
+     "id": "fof54ut55eq5t2hcgprf35j3do",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Zm9mNTR1dDU1ZXE1dDJoY2dwcmYzNWozZG8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-01-12T14:00:03.000Z",
+     "updated": "2023-01-12T14:00:03.371Z",
+     "summary": "ETON Eton Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-06-27 The FDA has assigned a Prescription Drug User Fee Act (PDUFA) target action date of June 27, 2023. https://www.sec.gov/Archives/edgar/data/0001710340/000149315223001128/form8-k.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-27"
+     },
+     "end": {
+      "date": "2023-06-27"
+     },
+     "iCalUID": "fof54ut55eq5t2hcgprf35j3do@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3354494406710000\"",
+     "id": "msbdmbbc84s221ngl4to2igc94",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bXNiZG1iYmM4NHMyMjFuZ2w0dG8yaWdjOTQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-24T14:00:03.000Z",
+     "updated": "2023-02-24T14:00:03.355Z",
+     "summary": "REGN Regeneron Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-06-27 The FDA target action date is June 27, 2023 following the use of a priority review voucher. https://www.globenewswire.com/news-release/2023/02/23/2614121/0/en/Aflibercept-8-mg-BLA-for-Treatment-of-Wet-Age-Related-Macular-Degeneration-and-Diabetic-Macular-Edema-Accepted-for-FDA-Priority-Review.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-27"
+     },
+     "end": {
+      "date": "2023-06-27"
+     },
+     "iCalUID": "msbdmbbc84s221ngl4to2igc94@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3355185618184000\"",
+     "id": "qcuc10auhf9s3dh0boolaek81o",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cWN1YzEwYXVoZjlzM2RoMGJvb2xhZWs4MW8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-28T14:00:09.000Z",
+     "updated": "2023-02-28T14:00:09.092Z",
+     "summary": "VRCA Verrica Pharmaceuticals Inc. PDUFA",
+     "description": "2023-07-23 WEST CHESTER, Pa., Feb. 27, 2023 (GLOBE NEWSWIRE) -- Verrica Pharmaceuticals Inc. (Verrica) (Nasdaq: VRCA), a dermatology therapeutics company developing medications for skin diseases requiring medical interventions, today announced that the U.S. Food and Drug Administration (FDA) accepted for filing the Companys resubmitted New Drug Application (NDA) for VP-102 for the treatment of molluscum contagiosum (molluscum) and assigned a Prescription Drug User Fee Act (PDUFA) goal date of July 23, 2023. https://www.globenewswire.com/news-release/2023/02/27/2616483/0/en/Verrica-Pharmaceuticals-Announces-FDA-Acceptance-of-Filing-of-Resubmitted-NDA-for-VP-102-for-the-Treatment-of-Molluscum-Contagiosum.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-07-23"
+     },
+     "end": {
+      "date": "2023-07-23"
+     },
+     "iCalUID": "qcuc10auhf9s3dh0boolaek81o@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3356222406682000\"",
+     "id": "jafnt1kcanl2fs0ji4me1mta3c",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=amFmbnQxa2NhbmwyZnMwamk0bWUxbXRhM2MgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-06T14:00:03.000Z",
+     "updated": "2023-03-06T14:00:03.341Z",
+     "summary": "BIIB Eisai Inc. PDUFA",
+     "description": "2023-07-06 The LEQEMBI application has been granted Priority Review, with a Prescription Drug User Fee Act (PDUFA) action date of July 6, 2023. https://www.prnewswire.com/news-releases/fda-accepts-eisais-filing-of-a-supplemental-biologics-license-application-and-grants-priority-review-for-traditional-approval-of-leqembi-lecanemab-irmb-for-the-treatment-of-alzheimers-disease-301762846.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-07-06"
+     },
+     "end": {
+      "date": "2023-07-06"
+     },
+     "iCalUID": "jafnt1kcanl2fs0ji4me1mta3c@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3356395206690000\"",
+     "id": "et9fbt878ttn4lv2d4c6gka960",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZXQ5ZmJ0ODc4dHRuNGx2MmQ0YzZna2E5NjAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-07T14:00:03.000Z",
+     "updated": "2023-03-07T14:00:03.345Z",
+     "summary": "BMRN BioMarin Pharmaceutical Inc. PDUFA",
+     "description": "2023-06-30 The FDA determined that the submission of the three-year data analysis from the ongoing Phase 3 GENEr8-1 study constituted a Major Amendment due to the substantial amount of additional data and set a new PDUFA Target Action Date of June 30, 2023. https://www.prnewswire.com/news-releases/biomarin-provides-update-on-fda-review-of-roctavian-valoctocogene-roxaparvovec-gene-therapy-for-adults-with-severe-hemophilia-a-301763924.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-30"
+     },
+     "end": {
+      "date": "2023-06-30"
+     },
+     "iCalUID": "et9fbt878ttn4lv2d4c6gka960@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3370730418712000\"",
+        "id": "09mqmphvsls6ce946h2f2to6lg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=MDltcW1waHZzbHM2Y2U5NDZoMmYydG82bGcgZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2023-05-29T13:00:09.000Z",
+        "updated": "2023-05-29T13:00:09.356Z",
+        "summary": "IPSEY Ipsen S.A. FDA AdCom",
+        "description": "2023-06-28 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. The committee will discuss new drug application (NDA) 215559, for palovarotene capsules, submitted by Ipsen Biopharmaceuticals, Inc. The proposed indication is the prevention of heterotopic ossification in adults and children (females aged 8 years and above and males 10 years and above) with fibrodysplasia ossificans progressiva. https://www.fda.gov/advisory-committees/advisory-committee-calendar/june-28-2023-meeting-endocrinologic-drugs-advisory-committee-meeting-announcement-06282023",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2023-06-28"
+        },
+        "end": {
+         "date": "2023-06-28"
+        },
+        "iCalUID": "09mqmphvsls6ce946h2f2to6lg@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+       }
+   ]

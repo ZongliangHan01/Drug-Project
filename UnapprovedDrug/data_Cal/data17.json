@@ -1,0 +1,219 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3266704810976000\"",
+     "id": "cq6g0j95tqabdpsti9l3qfk9bc",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Y3E2ZzBqOTV0cWFiZHBzdGk5bDNxZms5YmMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-10-04T13:00:05.000Z",
+     "updated": "2021-10-04T13:00:05.488Z",
+     "summary": "CHRS Coherus BioSciences, Inc. PDUFA",
+     "description": "2022-08-02 FDA has set a target action date of August 2, 2022 for the CHS-201 BLA https://www.globenewswire.com/news-release/2021/10/01/2307290/33333/en/Coherus-Announces-BLA-Filing-for-Lucentis-ranibizumab-Biosimilar-Candidate-Accepted-by-FDA-for-Review.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-08-02"
+     },
+     "end": {
+      "date": "2022-08-02"
+     },
+     "iCalUID": "cq6g0j95tqabdpsti9l3qfk9bc@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3285201611484000\"",
+     "id": "sfjvc9nd48ac8gta38omq39pgs",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=c2ZqdmM5bmQ0OGFjOGd0YTM4b21xMzlwZ3MgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-01-19T14:00:05.000Z",
+     "updated": "2022-01-19T14:00:05.742Z",
+     "summary": "BLUE BLUEBIRD BIO, INC. PDUFA",
+     "description": "2022-08-19 The agency has set a Prescription Drug User Fee Act (PDUFA) goal date of August 19, 2022. http://www.businesswire.com/news/home/20220118005544/en/bluebird-Provides-Update-on-FDA-Review-Timelines-for-Betibeglogene-Autotemcel-beti-cel-for-Beta-Thalassemia-and-Elivaldogene-Autotemcel-eli-cel-for-Cerebral-Adrenoleukodystrophy-CALD",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-08-19"
+     },
+     "end": {
+      "date": "2022-08-19"
+     },
+     "iCalUID": "sfjvc9nd48ac8gta38omq39pgs@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3294698410270000\"",
+     "id": "i0tjtu2t2cva263k9sc4b1tk10",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=aTB0anR1MnQyY3ZhMjYzazlzYzRiMXRrMTAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-03-15T13:00:05.000Z",
+     "updated": "2022-03-15T13:00:05.135Z",
+     "summary": "ACAD ACADIA PHARMACEUTICALS INC. PDUFA",
+     "description": "2022-08-04 SAN DIEGO--(BUSINESS WIRE)--Acadia Pharmaceuticals Inc. (Nasdaq: ACAD) announced today that it has received a target action date of August 4, 2022 from the U.S. Food and Drug Administration (FDA) for its resubmitted supplemental New Drug Application (sNDA) for pimavanserin for the treatment of hallucinations and delusions associated with Alzheimers disease psychosis (ADP). http://www.businesswire.com/news/home/20220309005324/en/Acadia-Pharmaceuticals-Announces-August-4-2022-Action-Date-for-Resubmitted-Supplemental-New-Drug-Application-for-NUPLAZID%C2%AE-pimavanserin-for-the-Treatment-of-Alzheimer%E2%80%99s-Disease-Psychosis",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-08-04"
+     },
+     "end": {
+      "date": "2022-08-04"
+     },
+     "iCalUID": "i0tjtu2t2cva263k9sc4b1tk10@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3298327214314000\"",
+     "id": "mvm423vhskhqv8t446t33qmbj0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bXZtNDIzdmhza2hxdjh0NDQ2dDMzcW1iajAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-04-05T13:00:07.000Z",
+     "updated": "2022-04-05T13:00:07.157Z",
+     "summary": "REGN Sanofi - Aventis Groupe PDUFA",
+     "description": "2022-08-03 The target action date for the FDA decision on this investigational use is August 3, 2022. https://www.globenewswire.com/news-release/2022/04/04/2415245/0/en/Press-Release-FDA-accepts-Dupixent-dupilumab-for-Priority-Review-in-patients-aged-12-years-and-older-with-eosinophilic-esophagitis.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-08-03"
+     },
+     "end": {
+      "date": "2022-08-03"
+     },
+     "iCalUID": "mvm423vhskhqv8t446t33qmbj0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3299364011748000\"",
+     "id": "ntff1j2cokeim0mfkifsmmsctk",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bnRmZjFqMmNva2VpbTBtZmtpZnNtbXNjdGsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-04-11T13:00:05.000Z",
+     "updated": "2022-04-11T13:00:05.874Z",
+     "summary": "SNYNF Sanofi PDUFA",
+     "description": "2022-08-03 The target action date for the FDA decision on this investigational use is August 3, 2022. https://www.sec.gov/Archives/edgar/data/0001121404/000119312522098769/d336479dex991.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-08-03"
+     },
+     "end": {
+      "date": "2022-08-03"
+     },
+     "iCalUID": "ntff1j2cokeim0mfkifsmmsctk@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3304202411954000\"",
+     "id": "v9mas9f45cbo0ehou41cj4vv8c",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=djltYXM5ZjQ1Y2JvMGVob3U0MWNqNHZ2OGMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-05-09T13:00:05.000Z",
+     "updated": "2022-05-09T13:00:05.977Z",
+     "summary": "MYOV Myovant Sciences, Inc. PDUFA",
+     "description": "2022-08-06 The extended Prescription Drug User Fee Act (PDUFA) goal date is August 6, 2022. https://www.globenewswire.com/news-release/2022/05/06/2437672/0/en/Myovant-Sciences-and-Pfizer-Provide-Update-on-Supplemental-New-Drug-Application-sNDA-for-MYFEMBREE-for-the-Management-of-Moderate-to-Severe-Pain-Associated-With-Endometriosis.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-08-06"
+     },
+     "end": {
+      "date": "2022-08-06"
+     },
+     "iCalUID": "v9mas9f45cbo0ehou41cj4vv8c@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3319063209016000\"",
+     "id": "6juqi6jccu7uvhce11bf6vjos0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Nmp1cWk2amNjdTd1dmhjZTExYmY2dmpvczAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-03T13:00:04.000Z",
+     "updated": "2022-08-03T13:00:04.508Z",
+     "summary": "LXRX Lexicon Pharmaceuticals, Inc. PDUFA",
+     "description": "2022-08-02 August 02, 2022 16:01 ET\nSource:\nLexicon Pharmaceuticals, Inc.\nLexicon Pharmaceuticals Reports Second Quarter 2022 Financial Results and Provides Business Update\nSotagliflozin New Drug Application for Heart Failure Accepted for Review by FDA,with PDUFA Action Date Anticipated in May 2023 LX9211 Phase 2 Clinical Proof-of-Concept Achieved in Painful Diabetic... https://www.globenewswire.com/news-release/2022/07/27/2486783/0/en/Lexicon-Announces-FDA-Acceptance-of-New-Drug-Application-for-Sotagliflozin-to-Treat-Heart-Failure.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-08-02"
+     },
+     "end": {
+      "date": "2022-08-02"
+     },
+     "iCalUID": "6juqi6jccu7uvhce11bf6vjos0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    }
+   ]

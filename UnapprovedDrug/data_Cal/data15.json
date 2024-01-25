@@ -1,0 +1,281 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3290212813800000\"",
+     "id": "fghlbjk6km0qe3o2rvtgbbqq9k",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZmdobGJqazZrbTBxZTNvMnJ2dGdiYnFxOWsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-02-17T14:00:06.000Z",
+     "updated": "2022-02-17T14:00:06.900Z",
+     "summary": "THTX Theratechnologies PDUFA",
+     "description": "2022-10-03 We are pleased to announce that the FDA has accepted our filing and has provided a target action date of October 3, 2022 in accordance with the Prescription Drug User Fee Act (PDUFA). https://www.globenewswire.com/news-release/2022/02/16/2386119/0/en/Theratechnologies-Presents-Results-From-Trogarzo-IV-Push-Administration-Study-at-CROI-2022.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-10-03"
+     },
+     "end": {
+      "date": "2022-10-03"
+     },
+     "iCalUID": "fghlbjk6km0qe3o2rvtgbbqq9k@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3291249626858000\"",
+     "id": "vpg8g6cvgoqj96jcp22g87fnuk",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=dnBnOGc2Y3Znb3FqOTZqY3AyMmc4N2ZudWsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-02-23T14:00:13.000Z",
+     "updated": "2022-02-23T14:00:13.429Z",
+     "summary": "HROW HARROW HEALTH, INC. PDUFA",
+     "description": "2022-10-16 The FDA has assigned the application standard review and a Prescription Drug User Fee Act (PDUFA) target action date of October 16, 2022. http://www.businesswire.com/news/home/20220222005440/en/Harrow-Health-Announces-FDA-Acceptance-of-New-Drug-Application-for-AMP-100",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-10-16"
+     },
+     "end": {
+      "date": "2022-10-16"
+     },
+     "iCalUID": "vpg8g6cvgoqj96jcp22g87fnuk@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3292459226732000\"",
+     "id": "gnk9v0fus1bcv0h46t6qkt70u0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Z25rOXYwZnVzMWJjdjBoNDZ0NnFrdDcwdTAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-03-02T14:00:13.000Z",
+     "updated": "2022-03-02T14:00:13.366Z",
+     "summary": "ALNY ALNYLAM PHARMACEUTICALS, INC. PDUFA",
+     "description": "2022-10-06 The FDA has set an action date of October 6, 2022, under the Prescription Drug User Fee Act (PDUFA). http://www.businesswire.com/news/home/20220301005123/en/Alnylam-Announces-U.S.-Food-and-Drug-Administration-Acceptance-of-Supplemental-New-Drug-Application-for-OXLUMO%C2%AE-for-the-Treatment-of-Advanced-Primary-Hyperoxaluria-Type-1",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-10-06"
+     },
+     "end": {
+      "date": "2022-10-06"
+     },
+     "iCalUID": "gnk9v0fus1bcv0h46t6qkt70u0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3294014429198000\"",
+     "id": "al2mua6al62lb69ipt61ednq30",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YWwybXVhNmFsNjJsYjY5aXB0NjFlZG5xMzAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-03-11T14:00:14.000Z",
+     "updated": "2022-03-11T14:00:14.599Z",
+     "summary": "HROWL HARROW HEALTH, INC. PDUFA",
+     "description": "2022-10-16 A new drug application (NDA) for AMP-100 was submitted by Sintetica to the FDA in the fourth quarter of 2021 and the FDA has assigned the application standard review and a Prescription Drug User Fee Act (PDUFA) target action date of October 16, 2022. https://www.sec.gov/Archives/edgar/data/0001360214/000149315222006525/form-10k.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-10-16"
+     },
+     "end": {
+      "date": "2022-10-16"
+     },
+     "iCalUID": "al2mua6al62lb69ipt61ednq30@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3305584811258000\"",
+     "id": "er1789g6h1g56v25rjrku1frfc",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZXIxNzg5ZzZoMWc1NnYyNXJqcmt1MWZyZmMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-05-17T13:00:05.000Z",
+     "updated": "2022-05-17T13:00:05.629Z",
+     "summary": "SCPH scPharmaceuticals Inc. PDUFA",
+     "description": "2022-10-08 Announced that the U.S. Food and Drug Administration (FDA) has accepted for review its New Drug Application (NDA) resubmission for FUROSCIX, a proprietary formulation of furosemide delivered via an on-body infusor for the treatment of congestion in patients with worsening heart failure, and has set a Prescription Drug User-Fee Act (PDUFA) target action date of October 8, 2022. https://www.sec.gov/Archives/edgar/data/0001604950/000119312522150882/d304459dex991.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-10-08"
+     },
+     "end": {
+      "date": "2022-10-08"
+     },
+     "iCalUID": "er1789g6h1g56v25rjrku1frfc@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3308176811658000\"",
+     "id": "l677a9q42pli0sno6polns7ams",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bDY3N2E5cTQycGxpMHNubzZwb2xuczdhbXMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-06-01T13:00:05.000Z",
+     "updated": "2022-06-01T13:00:05.829Z",
+     "summary": "SNYNF Sanofi PDUFA",
+     "description": "2022-09-30 The target action date for the FDA decision is September 30, 2022. https://www.sec.gov/Archives/edgar/data/0001121404/000119312522163343/d336796dex992.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-09-30"
+     },
+     "end": {
+      "date": "2022-09-30"
+     },
+     "iCalUID": "l677a9q42pli0sno6polns7ams@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3308176829068000\"",
+     "id": "5rns979nr4ca8cru1aet4o2tts",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NXJuczk3OW5yNGNhOGNydTFhZXQ0bzJ0dHMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-06-01T13:00:14.000Z",
+     "updated": "2022-06-01T13:00:14.534Z",
+     "summary": "REGN Sanofi - Aventis Groupe PDUFA",
+     "description": "2022-09-30 The target action date for the FDA decision is September 30, 2022. https://www.globenewswire.com/news-release/2022/05/31/2452848/0/en/Press-Release-FDA-accepts-Dupixent-dupilumab-for-priority-review-in-adults-with-prurigo-nodularis.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-09-30"
+     },
+     "end": {
+      "date": "2022-09-30"
+     },
+     "iCalUID": "5rns979nr4ca8cru1aet4o2tts@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3309040810968000\"",
+     "id": "q9jn4adigskd3qiip65akdp5g4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cTlqbjRhZGlnc2tkM3FpaXA2NWFrZHA1ZzQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-06-06T13:00:05.000Z",
+     "updated": "2022-06-06T13:00:05.484Z",
+     "summary": "AMLX Amylyx Pharmaceuticals, Inc. PDUFA",
+     "description": "2022-09-29 The updated Prescription Drug User Fee Act goal date is September 29, 2022. https://www.sec.gov/Archives/edgar/data/0001658551/000119312522166699/d327621d8k.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-09-29"
+     },
+     "end": {
+      "date": "2022-09-29"
+     },
+     "iCalUID": "q9jn4adigskd3qiip65akdp5g4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3325456807122000\"",
+     "id": "tqljd0mmogcrb8on7f1vhsa684",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=dHFsamQwbW1vZ2NyYjhvbjdmMXZoc2E2ODQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-09-09T13:00:03.000Z",
+     "updated": "2022-09-09T13:00:03.561Z",
+     "summary": "SNY Sanofi - Aventis Groupe PDUFA",
+     "description": "2022-09-30 Regulatory submissions are already under review by the European Commission and the U.S. Food and Drug Administration, with the FDA granting Priority Review in May 2022 and a target action date of September 30, 2022. https://www.globenewswire.com/news-release/2022/09/08/2512789/0/en/Press-Release-Dupixent-dupilumab-late-breaking-Phase-3-data-at-EADV-2022-showed-significant-improvements-in-signs-and-symptoms-of-prurigo-nodularis.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-09-30"
+     },
+     "end": {
+      "date": "2022-09-30"
+     },
+     "iCalUID": "tqljd0mmogcrb8on7f1vhsa684@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    }
+   ]

@@ -1,0 +1,126 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3232836071390000\"",
+     "id": "qqlbh2241r6fu8mqh36653f3m8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cXFsYmgyMjQxcjZmdThtcWgzNjY1M2YzbTggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-03-22T13:00:35.000Z",
+     "updated": "2021-03-22T13:00:35.695Z",
+     "summary": "BMY BRISTOL MYERS SQUIBB PDUFA",
+     "description": "2022-01-28 The FDA has assigned a Prescription Drug User Fee Act (PDUFA) goal date of January 28, 2022. http://www.businesswire.com/news/home/20210319005189/en/U.S.-Food-and-Drug-Administration-FDA-Accepts-Bristol-Myers-Squibb%E2%80%99s-Application-for-Mavacamten-in-Symptomatic-Obstructive-Hypertrophic-Cardiomyopathy-oHCM",
+     "creator": {
+      "email": "jclee8@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-01-28"
+     },
+     "end": {
+      "date": "2022-01-28"
+     },
+     "iCalUID": "qqlbh2241r6fu8mqh36653f3m8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3241994412100000\"",
+     "id": "5khi3vop7bnkmij5o81pupkva0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NWtoaTN2b3A3Ym5rbWlqNW84MXB1cGt2YTAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-05-14T13:00:06.000Z",
+     "updated": "2021-05-14T13:00:06.050Z",
+     "summary": "SBBP Strongbridge Biopharma plc PDUFA",
+     "description": "2022-01-01 Within the Day 74 letter, the FDA set a Prescription Drug User Fee Act (PDUFA) target action date of January 1, 2022, which reflects a projected 10-month standard review period. https://www.sec.gov/Archives/edgar/data/0001634432/000163443221000029/sbbp-20210513ex991961732.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-01-01"
+     },
+     "end": {
+      "date": "2022-01-01"
+     },
+     "iCalUID": "5khi3vop7bnkmij5o81pupkva0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3243895213208000\"",
+     "id": "oduv2tpmin0l05q04529hbkies",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=b2R1djJ0cG1pbjBsMDVxMDQ1MjloYmtpZXMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-05-25T13:00:06.000Z",
+     "updated": "2021-05-25T13:00:06.604Z",
+     "summary": "XERS XERIS PHARMACEUTICALS INC PDUFA",
+     "description": "2022-01-01 **** Source: Strongbridge Investor Presentation May 2021 ~8,000 Cushings syndrome patients in the U.S. are prescription drug-treated** and ~3,200 are not well controlled*** Significant commercial opportunity, with peak sales of potentially $250-350M annually* Endocrinologists had positive reaction to RECORLEV clinical profile; indicated a likelihood to prescribe if approved Represents potential to capitalize on a $2B+ total addressable annual market**** Progress RECORLEV NDA accepted for filing Prescription Drug User Fee Act (PDUFA) target action date set for January 1, 2022, with Potential Launch in Q1 2022 https://www.sec.gov/Archives/edgar/data/0001346302/000119312521169955/d184327dex993.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-01-01"
+     },
+     "end": {
+      "date": "2022-01-01"
+     },
+     "iCalUID": "oduv2tpmin0l05q04529hbkies@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3274142426798000\"",
+     "id": "e7c7tarfkchscnipaucbptigsc",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZTdjN3RhcmZrY2hzY25pcGF1Y2JwdGlnc2MgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-11-16T14:00:13.000Z",
+     "updated": "2021-11-16T14:00:13.399Z",
+     "summary": "ETON Eton Pharmaceuticals PDUFA",
+     "description": "2022-01-29 The FDA has assigned the product application a new target action date of January 29, 2022, but the FDA has yet to conduct or schedule the onsite inspection. https://www.globenewswire.com/news-release/2021/11/15/2334699/0/en/Eton-Pharmaceuticals-Reports-Third-Quarter-Financial-Results.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-01-29"
+     },
+     "end": {
+      "date": "2022-01-29"
+     },
+     "iCalUID": "e7c7tarfkchscnipaucbptigsc@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    }
+   ]

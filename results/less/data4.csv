@@ -1,0 +1,3 @@
+,drugId,displayName,indication,company,country,probabilityOfSuccess,phase,startDate,endDate,successPercentage
+14,101768,afamitresgene autoleucel,Soft tissue sarcoma,Adaptimmune Therapeutics plc,US,95%,Pre-Reg,23-Dec-2022,10-Dec-2023,95%
+23,106247,"trastuzumab biosimilar, EirGenix",Stomach tumor,EirGenix Inc,US,95%,Pre-Reg,20-Dec-2021,14-Apr-2024,95%

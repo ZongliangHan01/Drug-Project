@@ -1,0 +1,250 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3263248810576000\"",
+     "id": "9rgn87efiaegm8m7l8uivec92c",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=OXJnbjg3ZWZpYWVnbThtN2w4dWl2ZWM5MmMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-09-14T13:00:05.000Z",
+     "updated": "2021-09-14T13:00:05.288Z",
+     "summary": "BGNE BEIGENE, LTD. PDUFA",
+     "description": "2022-07-12 In the U.S., a Biologics License Application for tislelizumab as a treatment for patients with unresectable recurrent locally advanced or metastatic ESCC after prior systemic therapy is currently under review by the U.S. Food and Drug Administration with a PDUFA target action date of July 12, 2022. http://www.businesswire.com/news/home/20210912005031/en/BeiGene-Announces-U.S.-FDA-Acceptance-of-Biologics-License-Application-for-Tislelizumab-in-Esophageal-Squamous-Cell-Carcinoma",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-07-12"
+     },
+     "end": {
+      "date": "2022-07-12"
+     },
+     "iCalUID": "9rgn87efiaegm8m7l8uivec92c@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3280536012974000\"",
+     "id": "ngp1fuv18pgu1avrrdj2l59r88",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bmdwMWZ1djE4cGd1MWF2cnJkajJsNTlyODggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-12-23T14:00:06.000Z",
+     "updated": "2021-12-23T14:00:06.487Z",
+     "summary": "ARQT Arcutis Biotherapeutics, Inc. PDUFA",
+     "description": "2022-07-29 FDA has set a target action date of July 29, 2022 https://www.globenewswire.com/news-release/2021/12/22/2357039/0/en/FDA-Accepts-Arcutis-Biotherapeutics-New-Drug-Application-for-Roflumilast-Cream-for-Adults-and-Adolescents-with-Plaque-Psoriasis.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-07-29"
+     },
+     "end": {
+      "date": "2022-07-29"
+     },
+     "iCalUID": "ngp1fuv18pgu1avrrdj2l59r88@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3282609612800000\"",
+     "id": "22ncom7jj1b6tb9tjdgs5cqnk8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MjJuY29tN2pqMWI2dGI5dGpkZ3M1Y3FuazggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-01-04T14:00:06.000Z",
+     "updated": "2022-01-04T14:00:06.400Z",
+     "summary": "SPRO Spero Therapeutics, Inc. PDUFA",
+     "description": "2022-06-27 The Agency is planning to hold an Advisory Committee meeting to discuss this application and has also set a Prescription Drug User Fee Act (PDUFA) target action date of June 27, 2022. https://www.globenewswire.com/news-release/2022/01/03/2360040/0/en/Spero-Therapeutics-Announces-FDA-Acceptance-and-Priority-Review-of-New-Drug-Application-for-Tebipenem-HBr-for-the-Treatment-of-Complicated-Urinary-Tract-Infections-including-Pyelon.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-06-27"
+     },
+     "end": {
+      "date": "2022-06-27"
+     },
+     "iCalUID": "22ncom7jj1b6tb9tjdgs5cqnk8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3292286410644000\"",
+     "id": "m3qsu5dmag5k2d8ne2vq2av4ak",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bTNxc3U1ZG1hZzVrMmQ4bmUydnEyYXY0YWsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-03-01T14:00:05.000Z",
+     "updated": "2022-03-01T14:00:05.322Z",
+     "summary": "BMY BRISTOL MYERS SQUIBB PDUFA",
+     "description": "2022-07-13 The FDA granted the application Priority Review status and assigned a Prescription Drug User Fee Act (PDUFA) goal date of July 13, 2022. http://www.businesswire.com/news/home/20220225005538/en/U.S.-Food-and-Drug-Administration-Accepts-for-Priority-Review-Bristol-Myers-Squibb%E2%80%99s-Application-for-Opdivo-nivolumab-Plus-Chemotherapy-as-Neoadjuvant-Treatment-for-Resectable-Non-Small-Cell-Lung-Cancer",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-07-13"
+     },
+     "end": {
+      "date": "2022-07-13"
+     },
+     "iCalUID": "m3qsu5dmag5k2d8ne2vq2av4ak@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3294698425946000\"",
+     "id": "3hls5v7ipkcn0rqbgao4ls8704",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=M2hsczV2N2lwa2NuMHJxYmdhbzRsczg3MDQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-03-15T13:00:12.000Z",
+     "updated": "2022-03-15T13:00:12.973Z",
+     "summary": "INCY INCYTE CORPORATION PDUFA",
+     "description": "2022-07-18 The Prescription Drug User Fee Act (PDUFA) action date has been extended by three months to July 18, 2022. http://www.businesswire.com/news/home/20220314005251/en/Incyte-Announces-U.S.-FDA-Has-Extended-the-Supplemental-New-Drug-Application-Review-Period-for-Ruxolitinib-Cream-Opzelura%E2%84%A2-for-the-Treatment-of-Vitiligo",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-07-18"
+     },
+     "end": {
+      "date": "2022-07-18"
+     },
+     "iCalUID": "3hls5v7ipkcn0rqbgao4ls8704@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3298154407494000\"",
+     "id": "vn09enuh08iljro7ck9qb79f7o",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=dm4wOWVudWgwOGlsanJvN2NrOXFiNzlmN28gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-04-04T13:00:03.000Z",
+     "updated": "2022-04-04T13:00:03.747Z",
+     "summary": "MRK MERCK & CO., INC. PDUFA",
+     "description": "2022-07-01 KENILWORTH, N.J.--(BUSINESS WIRE)--Merck (NYSE: MRK), known as MSD outside the United States and Canada, today announced that the U.S. Food and Drug Administration (FDA) has extended the Prescription Drug User Fee Act (PDUFA) date of the supplemental biologics license application (sBLA) for VAXNEUVANCE (Pneumococcal 15-valent Conjugate Vaccine) in infants and children to July 1, 2022. http://www.businesswire.com/news/home/20220401005105/en/Merck-Provides-Update-on-FDA-Review-of-Supplemental-Biologics-License-Application-for-VAXNEUVANCE%E2%84%A2-Pneumococcal-15-valent-Conjugate-Vaccine-for-Use-in-Infants-and-Children",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-07-01"
+     },
+     "end": {
+      "date": "2022-07-01"
+     },
+     "iCalUID": "vn09enuh08iljro7ck9qb79f7o@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3298327233694000\"",
+     "id": "1efjh6c6k4fdhhji5c7k6eovoc",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MWVmamg2YzZrNGZkaGhqaTVjN2s2ZW92b2MgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-04-05T13:00:16.000Z",
+     "updated": "2022-04-05T13:00:16.847Z",
+     "summary": "ALNY ALNYLAM PHARMACEUTICALS, INC. PDUFA",
+     "description": "2022-07-14 The updated Prescription Drug User Fee Act action date to allow for this review is July 14, 2022. https://www.sec.gov/Archives/edgar/data/0001178670/000119312522094409/d259809d8k.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-07-14"
+     },
+     "end": {
+      "date": "2022-07-14"
+     },
+     "iCalUID": "1efjh6c6k4fdhhji5c7k6eovoc@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3303511211278000\"",
+     "id": "naraealti3rnsoiq1qukm9vs9o",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bmFyYWVhbHRpM3Juc29pcTFxdWttOXZzOW8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-05-05T13:00:05.000Z",
+     "updated": "2022-05-05T13:00:05.639Z",
+     "summary": "HZNP Horizon Therapeutics Public Ltd Co PDUFA",
+     "description": "2022-07-07 The Prescription Drug User Fee Act (PDUFA) action date is July 7, 2022. https://www.sec.gov/Archives/edgar/data/0001492426/000119312522139452/d331278dex991.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-07-07"
+     },
+     "end": {
+      "date": "2022-07-07"
+     },
+     "iCalUID": "naraealti3rnsoiq1qukm9vs9o@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    }
+   ]

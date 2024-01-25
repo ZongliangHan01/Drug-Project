@@ -1,0 +1,126 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3265668010204000\"",
+     "id": "s6ja9ig9hjju8p7vm1m39f1nd8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=czZqYTlpZzloamp1OHA3dm0xbTM5ZjFuZDggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-09-28T13:00:05.000Z",
+     "updated": "2021-09-28T13:00:05.102Z",
+     "summary": "BMY BRISTOL MYERS SQUIBB PDUFA",
+     "description": "2022-05-28 The U.S. Food and Drug Administration assigned a target action date of May 28, 2022 http://www.businesswire.com/news/home/20210927005391/en/U.S.-Food-and-Drug-Administration-Accepts-Bristol-Myers-Squibb%E2%80%99s-Applications-for-Opdivo-nivolumab-Yervoy-ipilimumab-and-Opdivo-Chemotherapy-for-Unresectable-Advanced-Recurrent-or-Metastatic-Esophageal-Squamous-Cell-Carcinoma",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-05-28"
+     },
+     "end": {
+      "date": "2022-05-28"
+     },
+     "iCalUID": "s6ja9ig9hjju8p7vm1m39f1nd8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3272932828486000\"",
+     "id": "r31n6t3bk62sig2496l3c13snc",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cjMxbjZ0M2JrNjJzaWcyNDk2bDNjMTNzbmMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-11-09T14:00:14.000Z",
+     "updated": "2021-11-09T14:00:14.243Z",
+     "summary": "PHAT Phathom Pharmaceuticals, Inc. PDUFA",
+     "description": "2022-05-03 The NDAs were granted Priority Review designation with a Prescription Drug User Fee Act (PDUFA) target action date of May 3, 2022. https://www.sec.gov/Archives/edgar/data/0001783183/000119312521322361/d237375dex991.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-05-03"
+     },
+     "end": {
+      "date": "2022-05-03"
+     },
+     "iCalUID": "r31n6t3bk62sig2496l3c13snc@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3275352030392000\"",
+     "id": "c7gp51c9a4orbmgtqd74iv4938",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YzdncDUxYzlhNG9yYm1ndHFkNzRpdjQ5MzggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-11-23T14:00:15.000Z",
+     "updated": "2021-11-23T14:00:15.196Z",
+     "summary": "BLUE BLUEBIRD BIO, INC. PDUFA",
+     "description": "2022-05-20 The agency has set a Prescription Drug User Fee Act (PDUFA) goal date of May 20, 2022. http://www.businesswire.com/news/home/20211122005845/en/bluebird-bio-Announces-FDA-Priority-Review-of-Biologics-License-Application-for-beti-cel-Gene-Therapy-for-Patients-with-%CE%B2-thalassemia-Who-Require-Regular-Red-Blood-Cell-Transfusions",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-05-20"
+     },
+     "end": {
+      "date": "2022-05-20"
+     },
+     "iCalUID": "c7gp51c9a4orbmgtqd74iv4938@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3279326408872000\"",
+     "id": "9m4n0as4hqpt1cc1cbtv6dl13o",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=OW00bjBhczRocXB0MWNjMWNidHY2ZGwxM28gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2021-12-16T14:00:04.000Z",
+     "updated": "2021-12-16T14:00:04.436Z",
+     "summary": "VRCA Verrica Pharmaceuticals Inc. PDUFA",
+     "description": "2022-05-24 WEST CHESTER, Pa., Dec. 15, 2021 (GLOBE NEWSWIRE) -- Verrica Pharmaceuticals Inc. (Verrica) (Nasdaq: VRCA), a dermatology therapeutics company developing medications for skin diseases requiring medical interventions, today announced that the U.S. Food and Drug Administration (FDA) acknowledged that Verricas resubmitted New Drug Application (NDA) for VP-102 for the treatment of molluscum contagiosum (molluscum) was complete and assigned a Prescription Drug User Fee Act (PDUFA) goal date of May 24, 2022. https://www.globenewswire.com/news-release/2021/12/15/2353095/0/en/Verrica-Pharmaceuticals-Announces-Acceptance-by-FDA-of-NDA-Resubmission-for-VP-102-for-the-Treatment-of-Molluscum-Contagiosum.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-05-24"
+     },
+     "end": {
+      "date": "2022-05-24"
+     },
+     "iCalUID": "9m4n0as4hqpt1cc1cbtv6dl13o@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    }
+   ]

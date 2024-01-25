@@ -1,0 +1,10 @@
+,drugId,displayName,indication,company,country,probabilityOfSuccess,phase,startDate,endDate,successPercentage
+3,51160,nintedanib,Interstitial lung disease,Boehringer Ingelheim International GmbH,US,95%,Pre-Reg,25-Jul-2023,18-Mar-2024,95%
+17,55266,zolbetuximab,Metastatic stomach cancer,Astellas Pharma Inc,US,95%,Pre-Reg,06-Jul-2023,26-Jan-2024,95%
+23,55266,zolbetuximab,Metastatic esophageal cancer,Astellas Pharma Inc,US,95%,Pre-Reg,06-Jul-2023,26-Jan-2024,95%
+37,69095,capivasertib,Metastatic breast cancer,AstraZeneca PLC,US,95%,Pre-Reg,12-Jun-2023,09-Apr-2024,95%
+50,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Breast tumor,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,10-Feb-2024,95%
+52,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Esophagus tumor,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,03-Feb-2024,95%
+54,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Metastatic breast cancer,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,10-Feb-2024,95%
+56,80976,"trastuzumab biosimilar, Shanghai Henlius/Jacobson Pharma",Metastatic stomach cancer,Accord Healthcare Inc,US,95%,Pre-Reg,14-Feb-2023,08-Feb-2024,95%
+64,99330,sabizabulin,Coronavirus disease 19 infection,Veru Inc,US,93%,Pre-Reg,07-Jun-2022,05-Mar-2024,93%

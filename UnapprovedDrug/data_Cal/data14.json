@@ -1,0 +1,126 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3289694439414000\"",
+     "id": "rb9t1kihd2281g8m5fc0jlspv4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cmI5dDFraWhkMjI4MWc4bTVmYzBqbHNwdjQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-02-14T14:00:19.000Z",
+     "updated": "2022-02-14T14:00:19.707Z",
+     "summary": "SPPI SPECTRUM PHARMACEUTICALS PDUFA",
+     "description": "2022-11-24 The product has received Fast Track designation and the agency has set a Prescription Drug User Fee Act (PDUFA) date of November 24, 2022. http://www.businesswire.com/news/home/20220211005068/en/Spectrum-Pharmaceuticals-Announces-Acceptance-of-New-Drug-Application-Filing-for-Poziotinib",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-11-24"
+     },
+     "end": {
+      "date": "2022-11-24"
+     },
+     "iCalUID": "rb9t1kihd2281g8m5fc0jlspv4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3318717612384000\"",
+     "id": "aspbroltlucihra7cpu1rsgvt0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YXNwYnJvbHRsdWNpaHJhN2NwdTFyc2d2dDAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-01T13:00:06.000Z",
+     "updated": "2022-08-01T13:00:06.192Z",
+     "summary": "SGEN SEAGEN INC. PDUFA",
+     "description": "2022-11-16 The sBLA was granted Priority Review with a target action date of November 16, 2022. http://www.businesswire.com/news/home/20220728005910/en/Seagen-Reports-Second-Quarter-2022-Financial-Results",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-11-16"
+     },
+     "end": {
+      "date": "2022-11-16"
+     },
+     "iCalUID": "aspbroltlucihra7cpu1rsgvt0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3320100014360000\"",
+     "id": "p717va0t0idb99qdcap0d9g928",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cDcxN3ZhMHQwaWRiOTlxZGNhcDBkOWc5MjggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-09T13:00:07.000Z",
+     "updated": "2022-08-09T13:00:07.180Z",
+     "summary": "LGND LIGAND PHARMACEUTICALS INCORPORATED PDUFA",
+     "description": "2022-11-17 The FDA assigned a Prescription Drug User Fee Act (PDUFA) target action date of November 17, 2022. http://www.businesswire.com/news/home/20220808005723/en/Ligand-Reports-Second-Quarter-2022-Financial-Results",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-11-17"
+     },
+     "end": {
+      "date": "2022-11-17"
+     },
+     "iCalUID": "p717va0t0idb99qdcap0d9g928@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3320100031144000\"",
+     "id": "pg9inh6j8fstthh89q7bc0mm8c",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cGc5aW5oNmo4ZnN0dGhoODlxN2JjMG1tOGMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-09T13:00:15.000Z",
+     "updated": "2022-08-09T13:00:15.572Z",
+     "summary": "MGNX MacroGenics, Inc. PDUFA",
+     "description": "2022-11-17 The extended Prescription Drug User Fee Act (PDUFA) target date is November 17, 2022. https://www.globenewswire.com/news-release/2022/08/08/2494235/0/en/MacroGenics-Provides-Update-on-Corporate-Progress-and-Second-Quarter-2022-Financial-Results.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-11-17"
+     },
+     "end": {
+      "date": "2022-11-17"
+     },
+     "iCalUID": "pg9inh6j8fstthh89q7bc0mm8c@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    }
+   ]

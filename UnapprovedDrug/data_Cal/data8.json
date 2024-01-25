@@ -1,0 +1,405 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3318199271878000\"",
+     "id": "b8vg4e7qjdg4u4k5smhbf6j3c4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Yjh2ZzRlN3FqZGc0dTRrNXNtaGJmNmozYzQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-07-29T13:00:35.000Z",
+     "updated": "2022-07-29T13:00:35.939Z",
+     "summary": "IBRX IMMUNITYBIO PDUFA",
+     "description": "2023-05-23 The Prescription Drug User Fee Act (PDUFA) target action date is May 23, 2023. http://www.businesswire.com/news/home/20220728006046/en/ImmunityBio-Announces-FDA-Acceptance-of-Biologics-License-Application-for-N-803-in-BCG-Unresponsive-Non-Muscle-Invasive-Bladder-Cancer-Carcinoma-In-Situ",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-23"
+     },
+     "end": {
+      "date": "2023-05-23"
+     },
+     "iCalUID": "b8vg4e7qjdg4u4k5smhbf6j3c4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3338251208466000\"",
+     "id": "rfkvpnpc2i6tod4hn295mi859o",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cmZrdnBucGMyaTZ0b2Q0aG4yOTVtaTg1OW8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-11-22T14:00:04.000Z",
+     "updated": "2022-11-22T14:00:04.233Z",
+     "summary": "GMAB GENMAB PDUFA",
+     "description": "2023-05-21 Under the Prescription Drug User Fee Act (PDUFA), the FDA has set a target action date of May 21, 2023. http://www.businesswire.com/news/home/20221121005063/en/Genmab-Announces-U.S.-Food-and-Drug-Administration-Accepts-for-Priority-Review-Biologics-License-Application-BLA-for-Epcoritamab-DuoBody%C2%AE-CD3xCD20-for-the-Treatment-of-RelapsedRefractory-Large-B-Cell-Lymphoma-LBCL",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-21"
+     },
+     "end": {
+      "date": "2023-05-21"
+     },
+     "iCalUID": "rfkvpnpc2i6tod4hn295mi859o@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3338596806268000\"",
+     "id": "q1h2ppflhh46u780tr1hqv1l9k",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cTFoMnBwZmxoaDQ2dTc4MHRyMWhxdjFsOWsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-11-24T14:00:03.000Z",
+     "updated": "2022-11-24T14:00:03.134Z",
+     "summary": "GMDA GAMIDA CELL LTD. PDUFA",
+     "description": "2023-05-01 The BLA for omidubicel has been assigned a Prescription Drug User Fee Act (PDUFA) target action date of May 1, 2023. http://www.businesswire.com/news/home/20221123005159/en/Gamida-Cell-to-Present-Corporate-Highlights-at-Multiple-Upcoming-Investor-Conferences",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-01"
+     },
+     "end": {
+      "date": "2023-05-01"
+     },
+     "iCalUID": "q1h2ppflhh46u780tr1hqv1l9k@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3342052805212000\"",
+     "id": "92jg1pbbkgf0oepo97s8rplisg",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=OTJqZzFwYmJrZ2Ywb2Vwbzk3czhycGxpc2cgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-12-14T14:00:02.000Z",
+     "updated": "2022-12-14T14:00:02.606Z",
+     "summary": "EYEN EYENOVIA, INC. PDUFA",
+     "description": "2023-05-08 The agency has assigned the resubmitted NDA a standard review with a Prescription Drug User Fee Act (PDUFA) target action date of May 8, 2023. https://www.sec.gov/Archives/edgar/data/0001682639/000110465922126464/tm2232488d1_ex99-1.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-08"
+     },
+     "end": {
+      "date": "2023-05-08"
+     },
+     "iCalUID": "92jg1pbbkgf0oepo97s8rplisg@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3345681607426000\"",
+     "id": "jof3a783b8pff2q9stefuhvcm0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=am9mM2E3ODNiOHBmZjJxOXN0ZWZ1aHZjbTAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-01-04T14:00:03.000Z",
+     "updated": "2023-01-04T14:00:03.713Z",
+     "summary": "PLX Protalix BioTherapeutics, Inc. PDUFA",
+     "description": "2023-05-09 The FDA accepted the submission for review and set an action date of May 9, 2023 under the Prescription Drug User Fee Act (PDUFA). https://www.sec.gov/Archives/edgar/data/0001006281/000155837023000003/plx-20230103xex99d1.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-09"
+     },
+     "end": {
+      "date": "2023-05-09"
+     },
+     "iCalUID": "jof3a783b8pff2q9stefuhvcm0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3348446407674000\"",
+     "id": "sue746n13uan2vnolqrjmjnfls",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=c3VlNzQ2bjEzdWFuMnZub2xxcmptam5mbHMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-01-20T14:00:03.000Z",
+     "updated": "2023-01-20T14:00:03.837Z",
+     "summary": "OPNT Opiant Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-05-22 The NDA was granted a Priority Review designation and has been given a Prescription Drug User Fee Act (PDUFA) action date of May 22, 2023, accelerating the review time from ten months to six months from the date of filing. https://www.globenewswire.com/news-release/2023/01/19/2592131/37234/en/Opiant-Pharmaceuticals-Announces-FDA-Acceptance-and-Priority-Review-of-NDA-for-OPNT003-Nasal-Nalmefene-for-Opioid-Overdose.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-22"
+     },
+     "end": {
+      "date": "2023-05-22"
+     },
+     "iCalUID": "sue746n13uan2vnolqrjmjnfls@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3349137605820000\"",
+     "id": "ki2o4fcsh7mvl13jbd0finh73c",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=a2kybzRmY3NoN212bDEzamJkMGZpbmg3M2MgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-01-24T14:00:02.000Z",
+     "updated": "2023-01-24T14:00:02.910Z",
+     "summary": "BPMC Blueprint Medicines Corporation PDUFA",
+     "description": "2023-05-22 The FDA granted priority review with an action date of May 22, 2023 under the Prescription Drug User Fee Act (PDUFA). https://www.prnewswire.com/news-releases/blueprint-medicines-announces-fda-acceptance-of-supplemental-new-drug-application-for-ayvakit-avapritinib-for-the-treatment-of-indolent-systemic-mastocytosis-301727726.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-22"
+     },
+     "end": {
+      "date": "2023-05-22"
+     },
+     "iCalUID": "ki2o4fcsh7mvl13jbd0finh73c@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3354321643158000\"",
+     "id": "ovqcecqr1in5hu5mr2m312usgs",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=b3ZxY2VjcXIxaW41aHU1bXIybTMxMnVzZ3MgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-23T14:00:21.000Z",
+     "updated": "2023-02-23T14:00:21.579Z",
+     "summary": "GNMSF GENMAB A/S PDUFA",
+     "description": "2023-05-21 The EMA validated for review the MAA in October 2022 and in November 2022 the FDA accepted for Priority Review the BLA with a target action date of May 21, 2023. https://www.sec.gov/Archives/edgar/data/0001434265/000155837023001716/gmab-20221231x20f.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-21"
+     },
+     "end": {
+      "date": "2023-05-21"
+     },
+     "iCalUID": "ovqcecqr1in5hu5mr2m312usgs@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3355185605882000\"",
+     "id": "97eieme54g7fipasnh55ofpoco",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=OTdlaWVtZTU0ZzdmaXBhc25oNTVvZnBvY28gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-28T14:00:02.000Z",
+     "updated": "2023-02-28T14:00:02.941Z",
+     "summary": "KRYS Krystal Biotech, Inc. PDUFA",
+     "description": "2023-05-19  B-VEC PDUFA date May 19, 2023 https://www.globenewswire.com/news-release/2023/02/27/2615924/0/en/Krystal-Biotech-Announces-Fourth-Quarter-and-Full-Year-2022-Financial-Results-and-Operational-Progress.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-19"
+     },
+     "end": {
+      "date": "2023-05-19"
+     },
+     "iCalUID": "97eieme54g7fipasnh55ofpoco@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3366064807784000\"",
+     "id": "2epqhe8v5ek46uhgni17u60lkc",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MmVwcWhlOHY1ZWs0NnVoZ25pMTd1NjBsa2MgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-05-02T13:00:03.000Z",
+     "updated": "2023-05-02T13:00:03.892Z",
+     "summary": "VRTX VERTEX PHARMACEUTICALS INCORPORATED PDUFA",
+     "description": "2023-05-03 The FDA granted Priority Review designation and assigned a PDUFA date of May 3, 2023. http://www.businesswire.com/news/home/20230501005276/en/Vertex-Reports-First-Quarter-2023-Financial-Results",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-03"
+     },
+     "end": {
+      "date": "2023-05-03"
+     },
+     "iCalUID": "2epqhe8v5ek46uhgni17u60lkc@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3367620019180000\"",
+     "id": "qf2dm5csbtn1cd8889v62gbd50",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cWYyZG01Y3NidG4xY2Q4ODg5djYyZ2JkNTAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-05-11T13:00:09.000Z",
+     "updated": "2023-05-11T13:00:09.590Z",
+     "summary": "LXRX Lexicon Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-05-27 Lexicons NDA for sotagliflozin for the treatment of heart failure is on track for its May 27, 2023 PDUFA action date. https://www.globenewswire.com/news-release/2023/05/10/2666098/0/en/New-Analysis-Finds-Sotagliflozin-to-Be-a-Cost-Effective-Treatment-at-Commonly-Accepted-Willingness-to-Pay-Threshold-in-Patients-with-Worsening-Heart-Failure.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-27"
+     },
+     "end": {
+      "date": "2023-05-27"
+     },
+     "iCalUID": "qf2dm5csbtn1cd8889v62gbd50@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3357770430926000\"",
+        "id": "il6r84rdna5fl6aafva7u92ui4",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=aWw2cjg0cmRuYTVmbDZhYWZ2YTd1OTJ1aTQgZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2023-03-15T13:00:15.000Z",
+        "updated": "2023-03-15T13:00:15.463Z",
+        "summary": "ICPT Intercept Pharmaceuticals, Inc. FDA AdCom",
+        "description": "2023-05-19 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. The committee will discuss new drug application (NDA) 212833, obeticholic acid (OCA) 25 mg oral tablets, submitted by Intercept Pharmaceuticals, Inc., for the treatment of pre-cirrhotic liver fibrosis due to nonalcoholic steatohepatitis. https://www.fda.gov/advisory-committees/committees-and-meeting-materials/may-19-2023-meeting-gastrointestinal-drugs-advisory-committee-meeting-announcement-05192023",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2023-05-19"
+        },
+        "end": {
+         "date": "2023-05-19"
+        },
+        "iCalUID": "il6r84rdna5fl6aafva7u92ui4@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+       },
+       {
+        "kind": "calendar#event",
+        "etag": "\"3360535244526000\"",
+        "id": "o53bvgaln9i4m2mm4n2oa1t3q4",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=bzUzYnZnYWxuOWk0bTJtbTRuMm9hMXQzcTQgZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2023-03-31T13:00:22.000Z",
+        "updated": "2023-03-31T13:00:22.263Z",
+        "summary": "SPRY ARS Pharmaceuticals, Inc. FDA AdCom",
+        "description": "2023-05-11 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. The committee will discuss new drug application (NDA) 214697, for epinephrine nasal spray, submitted by ARS Pharmaceuticals Inc., for the proposed indication of emergency treatment of allergic reactions (Type I) including anaphylaxis in adults and children ≥ 30 kilograms. https://www.fda.gov/advisory-committees/advisory-committee-calendar/may-11-2023-pulmonary-allergy-drugs-advisory-committee-meeting-announcement-05112023",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2023-05-11"
+        },
+        "end": {
+         "date": "2023-05-11"
+        },
+        "iCalUID": "o53bvgaln9i4m2mm4n2oa1t3q4@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+       }
+   ]

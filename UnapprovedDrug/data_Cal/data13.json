@@ -1,0 +1,312 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3290040010396000\"",
+     "id": "e479ksck7u55ev8pjmvph5rbvo",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZTQ3OWtzY2s3dTU1ZXY4cGptdnBoNXJidm8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-02-16T14:00:05.000Z",
+     "updated": "2022-02-16T14:00:05.198Z",
+     "summary": "MRTX Mirati Therapeutics, Inc. PDUFA",
+     "description": "2022-12-14 The Prescription Drug User Fee Action (PDUFA) date for adagrasib is December 14, 2022. https://www.sec.gov/Archives/edgar/data/0001576263/000119312522043421/d509096dex991.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-12-14"
+     },
+     "end": {
+      "date": "2022-12-14"
+     },
+     "iCalUID": "e479ksck7u55ev8pjmvph5rbvo@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3292459209758000\"",
+     "id": "qo0ovc1ml51tfvpa5kuvrkdf2c",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cW8wb3ZjMW1sNTF0ZnZwYTVrdXZya2RmMmMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-03-02T14:00:04.000Z",
+     "updated": "2022-03-02T14:00:04.879Z",
+     "summary": "ZLAB Zai Lab Ltd PDUFA",
+     "description": "2022-12-14 Potential FDA approval, with a PDUFA target action date of December 14, 2022, and commercial launch. https://www.sec.gov/Archives/edgar/data/0001704292/000119312522061344/d258445dex991.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-12-14"
+     },
+     "end": {
+      "date": "2022-12-14"
+     },
+     "iCalUID": "qo0ovc1ml51tfvpa5kuvrkdf2c@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3306794410524000\"",
+     "id": "ficbon3ouceg2doj4aj1dnt330",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZmljYm9uM291Y2VnMmRvajRhajFkbnQzMzAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-05-24T13:00:05.000Z",
+     "updated": "2022-05-24T13:00:05.262Z",
+     "summary": "IMGN ImmunoGen, Inc. PDUFA",
+     "description": "2022-11-28 The application has been granted Priority Review designation and the FDA has set a Prescription Drug User Fee Act action date of November 28, 2022. https://www.sec.gov/Archives/edgar/data/0000855654/000110465922063608/tm2216560d1_8k.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-11-28"
+     },
+     "end": {
+      "date": "2022-11-28"
+     },
+     "iCalUID": "ficbon3ouceg2doj4aj1dnt330@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3307312826948000\"",
+     "id": "5m65454bn6nrvjtbp2r9kitsgk",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NW02NTQ1NGJuNm5ydmp0YnAycjlraXRzZ2sgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-05-27T13:00:13.000Z",
+     "updated": "2022-05-27T13:00:13.474Z",
+     "summary": "RETA REATA PHARMACEUTICALS, INC. PDUFA",
+     "description": "2022-11-30 The FDA has assigned a Prescription Drug User Fee Act (PDUFA) target action date of November 30, 2022. http://www.businesswire.com/news/home/20220526005274/en/Reata-Pharmaceuticals-Announces-FDA-Filing-Acceptance-and-Priority-Review-Designation-for-the-NDA-for-Omaveloxolone-for-the-Treatment-of-Patients-with-Friedreich%E2%80%99s-Ataxia",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-11-30"
+     },
+     "end": {
+      "date": "2022-11-30"
+     },
+     "iCalUID": "5m65454bn6nrvjtbp2r9kitsgk@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3308176845734000\"",
+     "id": "401fs61n41fagno14ofqtj2i6k",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NDAxZnM2MW40MWZhZ25vMTRvZnF0ajJpNmsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-06-01T13:00:22.000Z",
+     "updated": "2022-06-01T13:00:22.867Z",
+     "summary": "YMAB Y-mAbs Therapeutics, Inc. PDUFA",
+     "description": "2022-11-30 The FDA set an action date of November 30, 2022, under the Prescription Drug User Fee Act (PDUFA). https://www.sec.gov/Archives/edgar/data/0001722964/000110465922066300/tm2217253d1_ex99-1.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-11-30"
+     },
+     "end": {
+      "date": "2022-11-30"
+     },
+     "iCalUID": "401fs61n41fagno14ofqtj2i6k@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3312842411180000\"",
+     "id": "4hdb11biadah7le9mtq4lrjvok",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NGhkYjExYmlhZGFoN2xlOW10cTRscmp2b2sgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-06-28T13:00:05.000Z",
+     "updated": "2022-06-28T13:00:05.590Z",
+     "summary": "TGTX TG Therapeutics, Inc. PDUFA",
+     "description": "2022-12-28 As a company, our primary focus remains on obtaining FDA approval of ublituximab by December 28, 2022, the PDUFA goal data.\n\nePoster Presentation: Ublituximab Efficacy Outcomes in Relapsing Multiple Sclerosis Patient Subgroups in the ULTIMATE I and II Studies https://www.globenewswire.com/news-release/2022/06/27/2469411/8790/en/TG-Therapeutics-Announces-Presentation-of-Exploratory-Analyses-from-the-ULTIMATE-I-II-Phase-3-Trials-of-Ublituximab-in-Multiple-Sclerosis-at-the-8Th-Congress-of-the-European-Academ.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-12-28"
+     },
+     "end": {
+      "date": "2022-12-28"
+     },
+     "iCalUID": "4hdb11biadah7le9mtq4lrjvok@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3314397612130000\"",
+     "id": "g649tgcl6oab1pgiergfstigck",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZzY0OXRnY2w2b2FiMXBnaWVyZ2ZzdGlnY2sgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-07-07T13:00:06.000Z",
+     "updated": "2022-07-07T13:00:06.065Z",
+     "summary": "CHRS Coherus BioSciences, Inc. PDUFA",
+     "description": "2022-12-23 - FDA has set a target action date of December 23, 2022 for the toripalimab BLA - https://www.globenewswire.com/news-release/2022/07/06/2474922/33333/en/Coherus-and-Junshi-Biosciences-Announce-FDA-Acceptance-of-Resubmission-of-BLA-for-Toripalimab-for-the-Treatment-of-Nasopharyngeal-Carcinoma.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-12-23"
+     },
+     "end": {
+      "date": "2022-12-23"
+     },
+     "iCalUID": "g649tgcl6oab1pgiergfstigck@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3318890411996000\"",
+     "id": "acg0cob75jdoesqdm2a95ng3kk",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YWNnMGNvYjc1amRvZXNxZG0yYTk1bmcza2sgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-02T13:00:05.000Z",
+     "updated": "2022-08-02T13:00:05.998Z",
+     "summary": "SCYX Scynexis PDUFA",
+     "description": "2022-11-30 The FDA granted the submission Priority Review and assigned the Prescription Drug User Fee Act (PDUFA) target decision date as November 30, 2022. https://www.globenewswire.com/news-release/2022/08/01/2489391/0/en/SCYNEXIS-Announces-U-S-Food-and-Drug-Administration-Acceptance-and-Priority-Review-of-the-Supplemental-New-Drug-Application-for-BREXAFEMME-ibrexafungerp-tablets-for-Prevention-of-R.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-11-30"
+     },
+     "end": {
+      "date": "2022-11-30"
+     },
+     "iCalUID": "acg0cob75jdoesqdm2a95ng3kk@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3319063227122000\"",
+     "id": "6jctgvv2ij7di9lfbv3gqmf06g",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NmpjdGd2djJpajdkaTlsZmJ2M2dxbWYwNmcgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-03T13:00:13.000Z",
+     "updated": "2022-08-03T13:00:13.561Z",
+     "summary": "GILD GILEAD SCIENCES, INC. PDUFA",
+     "description": "2022-12-27 FDA has assigned a Prescription Drug User Fee Act date of December 27, 2022. http://www.businesswire.com/news/home/20220801005842/en/Gilead-Sciences-Announces-Second-Quarter-2022-Financial-Results",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-12-27"
+     },
+     "end": {
+      "date": "2022-12-27"
+     },
+     "iCalUID": "6jctgvv2ij7di9lfbv3gqmf06g@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3321309626526000\"",
+     "id": "n4utem7a7qs27b1q1ae91h1ao8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bjR1dGVtN2E3cXMyN2IxcTFhZTkxaDFhbzggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-16T13:00:13.000Z",
+     "updated": "2022-08-16T13:00:13.263Z",
+     "summary": "ACER Acer Therapeutics Inc. PDUFA",
+     "description": "2022-12-31 However, if ACER-001 Approval does not occur prior to December 31, 2022, then the Term Loan will not be available to us unless we are able to obtain an extension for the time period beyond December 31, 2022, to the actual PDUFA target action date, and we may not have sufficient available cash or be able to obtain financing at the time we are required to make payments under our indebtedness. https://www.sec.gov/Archives/edgar/data/0001069308/000156459022029495/acer-10q_20220630.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2022-12-31"
+     },
+     "end": {
+      "date": "2022-12-31"
+     },
+     "iCalUID": "n4utem7a7qs27b1q1ae91h1ao8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    }
+   ]

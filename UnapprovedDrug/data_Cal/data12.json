@@ -1,0 +1,343 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3307140011972000\"",
+     "id": "se9o5768r80n28r21iecgv9egg",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=c2U5bzU3NjhyODBuMjhyMjFpZWNndjllZ2cgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-05-26T13:00:05.000Z",
+     "updated": "2022-05-26T13:00:05.986Z",
+     "summary": "PHAT Phathom Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-01-11 The FDA has assigned the application standard review and a Prescription Drug User Fee Act (PDUFA) target action date of January 11, 2023. https://www.sec.gov/Archives/edgar/data/0001783183/000119312522159128/d281994d8k.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-11"
+     },
+     "end": {
+      "date": "2023-01-11"
+     },
+     "iCalUID": "se9o5768r80n28r21iecgv9egg@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3310423224802000\"",
+     "id": "sp758td6idsht7tmdag3hekglo",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=c3A3NTh0ZDZpZHNodDd0bWRhZzNoZWtnbG8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-06-14T13:00:12.000Z",
+     "updated": "2022-06-14T13:00:12.401Z",
+     "summary": "BGNE BEIGENE PDUFA",
+     "description": "2023-01-20 &amp; BASEL, Switzerland &amp; BEIJING--(BUSINESS WIRE)--BeiGene (NASDAQ: BGNE; HKEX: 06160; SSE: 688235), a global, science-driven biotechnology company focused on developing innovative and affordable medicines to improve treatment outcomes and access for patients worldwide, today announced that the U.S. Food and Drug Administration (FDA) has extended the Prescription Drug User Fee Act (PDUFA) goal date by three months to January 20, 2023 for the supplementary new drug application (sNDA) for BRUKINSA as a treatment for adult patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL). http://www.businesswire.com/news/home/20220613005329/en/BeiGene-Announces-PDUFA-Goal-Date-Extension-for-U.S.-sNDA-for-BRUKINSA-for-the-Treatment-of-CLLSLL",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-20"
+     },
+     "end": {
+      "date": "2023-01-20"
+     },
+     "iCalUID": "sp758td6idsht7tmdag3hekglo@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3314224809136000\"",
+     "id": "9qph8759qfbavhrgbsj7u92dug",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=OXFwaDg3NTlxZmJhdmhyZ2Jzajd1OTJkdWcgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-07-06T13:00:04.000Z",
+     "updated": "2022-07-06T13:00:04.568Z",
+     "summary": "BIIB Eisai Inc. PDUFA",
+     "description": "2023-01-06 Eisai's application, which was completed in early May 2022, has been granted Priority Review, with a Prescription Drug User Fee Act (PDUFA) action date of January 6, 2023. https://www.prnewswire.com/news-releases/the-us-fda-accepts-and-grants-priority-review-for-eisais-biologics-license-application-of-lecanemab-for-early-alzheimers-disease-under-the-accelerated-approval-pathway-301580919.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-06"
+     },
+     "end": {
+      "date": "2023-01-06"
+     },
+     "iCalUID": "9qph8759qfbavhrgbsj7u92dug@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3317853612844000\"",
+     "id": "k3sclbahau6677t13snb59lbi0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=azNzY2xiYWhhdTY2Nzd0MTNzbmI1OWxiaTAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-07-27T13:00:06.000Z",
+     "updated": "2022-07-27T13:00:06.422Z",
+     "summary": "IONS Ionis Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-01-25 The application has been granted priority review and given a Prescription Drug User Fee Act action date of Jan. 25, 2023. https://www.prnewswire.com/news-releases/ionis-announces-that-fda-accepts-new-drug-application-and-grants-priority-review-of-tofersen-for-a-rare-genetic-form-of-als-301592936.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-25"
+     },
+     "end": {
+      "date": "2023-01-25"
+     },
+     "iCalUID": "k3sclbahau6677t13snb59lbi0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3318199287750000\"",
+     "id": "39gvlq7aj4sa07kecqrfug2ir0",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MzlndmxxN2FqNHNhMDdrZWNxcmZ1ZzJpcjAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-07-29T13:00:43.000Z",
+     "updated": "2022-07-29T13:00:43.875Z",
+     "summary": "ACER Acer Therapeutics Inc. PDUFA",
+     "description": "2023-01-15 The FDA designated the NDA as a Class 2 resubmission and set a Prescription Drug User Fee Act (PDUFA) target action date of January 15, 2023. https://www.sec.gov/Archives/edgar/data/0001069308/000156459022026793/acer-ex991_7.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-15"
+     },
+     "end": {
+      "date": "2023-01-15"
+     },
+     "iCalUID": "39gvlq7aj4sa07kecqrfug2ir0@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3318890428556000\"",
+     "id": "isbti72gp4p62cji3aiq92nres",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=aXNidGk3MmdwNHA2MmNqaTNhaXE5Mm5yZXMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-02T13:00:14.000Z",
+     "updated": "2022-08-02T13:00:14.278Z",
+     "summary": "GMDA Gamida Cell Ltd. PDUFA",
+     "description": "2023-01-20 The FDA granted Priority Review for the BLA and has set a target action date of January 20, 2023. https://www.sec.gov/Archives/edgar/data/0001600847/000121390022043160/ea163570-8k_gamidacell.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-20"
+     },
+     "end": {
+      "date": "2023-01-20"
+     },
+     "iCalUID": "isbti72gp4p62cji3aiq92nres@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3319236010042000\"",
+     "id": "bdbh3obfdpajonmisjn3abt2fo",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YmRiaDNvYmZkcGFqb25taXNqbjNhYnQyZm8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-04T13:00:04.000Z",
+     "updated": "2022-08-04T13:00:05.021Z",
+     "summary": "MDWD MediWound Ltd. PDUFA",
+     "description": "2023-01-01 The FDA assigned a Prescription Drug User Fee Act (PDUFA) target date of January 1, 2023. https://www.globenewswire.com/news-release/2022/08/03/2491251/30505/en/MediWound-Announces-U-S-FDA-Acceptance-of-Biologics-License-Application-for-NexoBrid-for-the-Treatment-of-Severe-Thermal-Burns.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-01"
+     },
+     "end": {
+      "date": "2023-01-01"
+     },
+     "iCalUID": "bdbh3obfdpajonmisjn3abt2fo@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3319236027262000\"",
+     "id": "id66b0qml9tu2uloaorh4o8mqo",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=aWQ2NmIwcW1sOXR1MnVsb2Fvcmg0bzhtcW8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-04T13:00:13.000Z",
+     "updated": "2022-08-04T13:00:13.631Z",
+     "summary": "VCEL Vericel Corporation PDUFA",
+     "description": "2023-01-01 NexoBrid BLA resubmission accepted for review by the FDA, with a Prescription Drug User Fee Act date of January 1, 2023 https://www.globenewswire.com/news-release/2022/08/03/2491297/34447/en/Vericel-Reports-Second-Quarter-2022-Financial-Results.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-01"
+     },
+     "end": {
+      "date": "2023-01-01"
+     },
+     "iCalUID": "id66b0qml9tu2uloaorh4o8mqo@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3319408810050000\"",
+     "id": "epodb1dme4gmcs9aqukftmpfe8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZXBvZGIxZG1lNGdtY3M5YXF1a2Z0bXBmZTggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-08-05T13:00:04.000Z",
+     "updated": "2022-08-05T13:00:05.025Z",
+     "summary": "RLFTY Relief Therapeutics Holding SA PDUFA",
+     "description": "2023-01-15 The FDA designated the NDA as a Class 2 resubmission and set a Prescription Drug User Fee Act (PDUFA) target action date of January 15, 2023. https://www.sec.gov/Archives/edgar/data/0001854078/000116169722000381/ex_99-1.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-15"
+     },
+     "end": {
+      "date": "2023-01-15"
+     },
+     "iCalUID": "epodb1dme4gmcs9aqukftmpfe8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3327357606946000\"",
+     "id": "0lkhg8ijqdv959jilakg1hvc2o",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MGxraGc4aWpxZHY5NTlqaWxha2cxaHZjMm8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-09-20T13:00:03.000Z",
+     "updated": "2022-09-20T13:00:03.473Z",
+     "summary": "SGEN SEAGEN INC. PDUFA",
+     "description": "2023-01-19 Under the Prescription Drug User Fee Act (PDUFA), the FDA has set a target action date of January 19, 2023. http://www.businesswire.com/news/home/20220919005223/en/Seagen-Announces-TUKYSA%C2%AE-tucatinib-in-Combination-with-Trastuzumab-Granted-Priority-Review-by-FDA-for-Previously-Treated-HER2-Positive-Metastatic-Colorectal-Cancer",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-01-19"
+     },
+     "end": {
+      "date": "2023-01-19"
+     },
+     "iCalUID": "0lkhg8ijqdv959jilakg1hvc2o@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3339460805632000\"",
+        "id": "7d455gi4jjskvc08r10tjuvn2g",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=N2Q0NTVnaTRqanNrdmMwOHIxMHRqdXZuMmcgZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2022-11-29T14:00:02.000Z",
+        "updated": "2022-11-29T14:00:02.816Z",
+        "summary": "REGN Regeneron Pharmaceuticals, Inc. FDA AdCom",
+        "description": "2023-01-09 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. The committee will discuss supplemental biologics license application (sBLA) 125387, aflibercept solution for intravitreal injection, submitted by Regeneron Pharmaceuticals, Inc. The supplement was submitted in response to FDA’s pediatric written request. FDA’s written request was for studies of aflibercept in the treatment of retinopathy of prematurity. https://www.fda.gov/advisory-committees/advisory-committee-calendar/january-9-2023-cardiovascular-and-renal-drugs-advisory-committee-meeting-01092023",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2023-01-09"
+        },
+        "end": {
+         "date": "2023-01-09"
+        },
+        "iCalUID": "7d455gi4jjskvc08r10tjuvn2g@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+       }
+   ]

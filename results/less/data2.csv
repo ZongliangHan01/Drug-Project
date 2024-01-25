@@ -1,0 +1,4 @@
+,drugId,displayName,indication,company,country,probabilityOfSuccess,phase,startDate,endDate,successPercentage
+5,90233,odronextamab,Follicle center lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Pre-Reg,29-Sep-2023,14-Apr-2024,95%
+9,90233,odronextamab,Diffuse large B-cell lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Pre-Reg,29-Sep-2023,14-Apr-2024,95%
+20,99602,lutetium (177Lu) vipivotide tetraxetan,Hormone refractory prostate cancer,Novartis AG,US,95%,Pre-Reg,31-Mar-2023,02-Jan-2024,95%

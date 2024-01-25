@@ -1,0 +1,425 @@
+,phase,startDate,endDate,successPercentage,predictedDateL50,predictedDateU50,phaseDuration,isPredicted,startDateFlag,endDateFlag,successPercentageFlag,predictedDate_L50_Flag,predictedDate_U50_Flag,drugId,displayName
+0,Phase 3,24-Nov-2015,29-Sep-2023,,,,7.8,False,False,False,False,False,False,11589,imetelstat
+1,Pre-Reg,29-Sep-2023,16-Nov-2024,92%,,,1.1,True,False,False,False,False,False,11589,imetelstat
+2,Reg,16-Nov-2024,,,26-Jul-2024,27-Dec-2024,,True,False,False,False,False,False,11589,imetelstat
+3,Phase 3,24-Nov-2015,13-Oct-2026,95%,,,10.9,True,False,False,False,False,False,11589,imetelstat
+4,Pre-Reg,13-Oct-2026,11-Aug-2027,95%,14-Dec-2025,30-Jan-2027,0.8,True,False,False,False,False,False,11589,imetelstat
+5,Reg,11-Aug-2027,,,29-Apr-2027,14-Sep-2027,,True,False,False,False,False,False,11589,imetelstat
+6,Phase 2,13-Jan-2014,24-Nov-2015,,,,1.9,False,False,False,False,False,False,11589,imetelstat
+7,Phase 3,24-Nov-2015,20-Jun-2023,,,,7.6,False,False,False,False,False,False,11589,imetelstat
+8,Pre-Reg,20-Jun-2023,02-Jun-2024,90%,,,1.0,True,False,False,False,False,False,11589,imetelstat
+9,Reg,02-Jun-2024,,,01-Mar-2024,06-Jul-2024,,True,False,False,False,False,False,11589,imetelstat
+10,Phase 2,05-Jun-2023,15-Jun-2026,23%,,,3.0,True,False,False,False,False,False,11589,imetelstat
+11,Phase 3,15-Jun-2026,05-Jan-2029,29%,28-May-2025,22-Nov-2026,2.6,True,False,False,False,False,False,11589,imetelstat
+12,Pre-Reg,05-Jan-2029,01-Jan-2030,85%,27-Nov-2027,21-May-2029,1.0,True,False,False,False,False,False,11589,imetelstat
+13,Reg,01-Jan-2030,,,01-Sep-2029,12-Feb-2030,,True,False,False,False,False,False,11589,imetelstat
+14,Phase 2,30-Jun-2015,12-Apr-2021,,,,5.8,False,False,False,False,False,False,11589,imetelstat
+15,Phase 3,12-Apr-2021,27-Apr-2026,95%,,,5.0,True,False,False,False,False,False,11589,imetelstat
+16,Pre-Reg,27-Apr-2026,23-Mar-2027,95%,07-Jan-2026,25-Jul-2026,0.9,True,False,False,False,False,False,11589,imetelstat
+17,Reg,23-Mar-2027,,,08-Dec-2026,27-Apr-2027,,True,False,False,False,False,False,11589,imetelstat
+18,Phase 3,12-Apr-2021,27-Apr-2026,95%,,,5.0,True,False,False,False,False,False,11589,imetelstat
+19,Pre-Reg,27-Apr-2026,09-May-2027,95%,22-Oct-2025,09-Sep-2026,1.0,True,False,False,False,False,False,11589,imetelstat
+20,Reg,09-May-2027,,,05-Jan-2027,29-Jun-2027,,True,False,False,False,False,False,11589,imetelstat
+21,Phase 2,29-Oct-2012,12-Apr-2021,,,,8.5,False,False,False,False,False,False,11589,imetelstat
+22,Phase 3,12-Apr-2021,27-Apr-2026,95%,,,5.0,True,False,False,False,False,False,11589,imetelstat
+23,Pre-Reg,27-Apr-2026,22-Apr-2027,95%,13-Oct-2025,16-Sep-2026,1.0,True,False,False,False,False,False,11589,imetelstat
+24,Reg,22-Apr-2027,,,22-Dec-2026,01-Jun-2027,,True,False,False,False,False,False,11589,imetelstat
+25,Phase 2,30-Jun-2015,11-Mar-2021,,,,5.7,False,False,False,False,False,False,11589,imetelstat
+26,Phase 3,11-Mar-2021,27-Apr-2026,95%,,,5.1,True,False,False,False,False,False,11589,imetelstat
+27,Pre-Reg,27-Apr-2026,04-May-2027,95%,05-Oct-2025,21-Sep-2026,1.0,True,False,False,False,False,False,11589,imetelstat
+28,Reg,04-May-2027,,,30-Dec-2026,23-Jun-2027,,True,False,False,False,False,False,11589,imetelstat
+29,Phase 3,21-Feb-2012,03-May-2017,,,,5.2,False,False,False,False,False,False,37671,fexapotide triflutate
+30,Pre-Reg,03-May-2017,,,,,0.0,False,False,False,False,False,False,37671,fexapotide triflutate
+31,Phase 2,21-Feb-2012,,,,,0.0,False,False,False,False,False,False,37671,fexapotide triflutate
+32,Phase 2,04-Aug-2005,30-Apr-2009,,,,3.7,False,False,False,False,False,False,37671,fexapotide triflutate
+33,Phase 3,30-Apr-2009,03-Mar-2022,,,,12.8,False,False,False,False,False,False,37671,fexapotide triflutate
+34,Pre-Reg,03-Mar-2022,,,,,0.0,False,False,False,False,False,False,37671,fexapotide triflutate
+35,Phase 3,26-Jul-2018,16-Sep-2024,43%,,,6.1,True,False,False,False,False,False,40735,dovitinib
+36,Pre-Reg,16-Sep-2024,04-Nov-2025,91%,18-Jan-2024,23-May-2025,1.1,True,False,False,False,False,False,40735,dovitinib
+37,Reg,04-Nov-2025,,,23-Jun-2025,13-Jan-2026,,True,False,False,False,False,False,40735,dovitinib
+38,Phase 3,15-Jan-2018,21-Jan-2025,48%,,,7.0,True,False,False,False,False,False,40735,dovitinib
+39,Pre-Reg,21-Jan-2025,14-Mar-2026,87%,10-Feb-2024,08-Jul-2025,1.1,True,False,False,False,False,False,40735,dovitinib
+40,Reg,14-Mar-2026,,,31-Oct-2025,21-May-2026,,True,False,False,False,False,False,40735,dovitinib
+41,Phase 3,03-Apr-2019,22-Dec-2021,,,,2.7,False,False,False,False,False,False,40735,dovitinib
+42,Pre-Reg,22-Dec-2021,10-May-2024,91%,,,2.4,True,False,False,False,False,False,40735,dovitinib
+43,Reg,10-May-2024,,,15-Dec-2023,09-Aug-2024,,True,False,False,False,False,False,40735,dovitinib
+44,Phase 2,31-Oct-2011,,,,,0.0,False,False,False,False,False,False,40735,dovitinib
+45,Phase 1,07-Oct-2022,16-Dec-2024,75%,,,2.2,True,False,False,False,False,False,40735,dovitinib
+46,Phase 2,16-Dec-2024,21-May-2027,37%,02-Apr-2024,01-May-2025,2.4,True,False,False,False,False,False,40735,dovitinib
+47,Phase 3,21-May-2027,25-Jan-2030,50%,11-Mar-2026,26-Oct-2027,2.7,True,False,False,False,False,False,40735,dovitinib
+48,Pre-Reg,25-Jan-2030,07-Jan-2031,91%,07-Dec-2028,03-Jul-2030,1.0,True,False,False,False,False,False,40735,dovitinib
+49,Reg,07-Jan-2031,,,17-Sep-2030,17-Feb-2031,,True,False,False,False,False,False,40735,dovitinib
+50,Phase 1,20-Mar-2023,24-Jan-2025,86%,,,1.8,True,False,False,False,False,False,40735,dovitinib
+51,Phase 2,24-Jan-2025,07-Aug-2027,28%,19-Apr-2024,01-Jun-2025,2.5,True,False,False,False,False,False,40735,dovitinib
+52,Phase 3,07-Aug-2027,07-Apr-2030,52%,11-May-2026,01-Feb-2028,2.7,True,False,False,False,False,False,40735,dovitinib
+53,Pre-Reg,07-Apr-2030,02-Apr-2031,93%,17-Feb-2029,08-Sep-2030,1.0,True,False,False,False,False,False,40735,dovitinib
+54,Reg,02-Apr-2031,,,04-Dec-2030,12-May-2031,,True,False,False,False,False,False,40735,dovitinib
+55,Phase 1,15-Oct-2008,22-Dec-2010,,,,2.2,False,False,False,False,False,False,53551,entolimod
+56,Phase 2,22-Dec-2010,15-Jun-2015,,,,4.5,False,False,False,False,False,False,53551,entolimod
+57,Pre-Reg,15-Jun-2015,,,,,0.0,False,False,False,False,False,False,53551,entolimod
+58,Phase 1,31-Jan-2012,,,,,0.0,False,False,False,False,False,False,53551,entolimod
+59,Phase 1,02-Apr-2015,05-Jan-2019,,,,3.8,False,False,False,False,False,False,55559,fluciclovine (18F)
+60,Phase 2,05-Jan-2019,24-Mar-2019,,,,0.2,False,False,False,False,False,False,55559,fluciclovine (18F)
+61,Pre-Reg,24-Mar-2019,,,,,0.0,False,False,False,False,False,False,55559,fluciclovine (18F)
+62,Pre-Reg,31-Dec-2018,,,,,0.0,False,False,False,False,False,False,55559,fluciclovine (18F)
+63,Phase 1,23-Sep-2019,,,,,0.0,False,False,False,False,False,False,55559,fluciclovine (18F)
+64,Phase 1,23-Sep-2019,,,,,0.0,False,False,False,False,False,False,55559,fluciclovine (18F)
+65,Phase 2,10-Jan-2023,30-Jun-2025,86%,,,2.5,True,False,False,False,False,False,55559,fluciclovine (18F)
+66,Phase 3,30-Jun-2025,25-Nov-2027,78%,16-Sep-2024,19-Nov-2025,2.4,True,False,False,False,False,False,55559,fluciclovine (18F)
+67,Pre-Reg,25-Nov-2027,09-Aug-2028,95%,09-Nov-2026,14-Apr-2028,0.7,True,False,False,False,False,False,55559,fluciclovine (18F)
+68,Reg,09-Aug-2028,,,16-May-2028,16-Sep-2028,,True,False,False,False,False,False,55559,fluciclovine (18F)
+69,Phase 1,16-Jul-2021,31-Dec-2024,91%,,,3.5,True,False,False,False,False,False,55559,fluciclovine (18F)
+70,Phase 2,31-Dec-2024,12-Jun-2026,76%,11-Jul-2024,16-May-2025,1.4,True,False,False,False,False,False,55559,fluciclovine (18F)
+71,Phase 3,12-Jun-2026,07-Sep-2028,78%,23-Sep-2025,01-Oct-2026,2.2,True,False,False,False,False,False,55559,fluciclovine (18F)
+72,Pre-Reg,07-Sep-2028,18-Jun-2029,95%,15-Sep-2027,26-Jan-2029,0.8,True,False,False,False,False,False,55559,fluciclovine (18F)
+73,Reg,18-Jun-2029,,,11-Mar-2029,18-Jul-2029,,True,False,False,False,False,False,55559,fluciclovine (18F)
+74,Phase 2,01-Mar-2017,,,,,0.0,False,False,False,False,False,False,55559,fluciclovine (18F)
+75,Phase 2,19-Jan-2011,01-Sep-2015,,,,4.6,False,False,False,False,False,False,55559,fluciclovine (18F)
+76,Phase 3,01-Sep-2015,,,,,0.0,False,False,False,False,False,False,55559,fluciclovine (18F)
+77,Pre-Reg,27-Dec-2016,,,,,0.0,False,False,False,False,False,False,56308,CBT-1
+78,Phase 2,31-Jul-2009,31-May-2019,,,,9.1,False,False,False,False,False,False,56712,padeliporfin potassium
+79,Pre-Reg,31-May-2019,,,,,0.0,False,False,False,False,False,False,56712,padeliporfin potassium
+80,Phase 1,26-Apr-2017,09-Jun-2024,89%,,,7.1,True,False,False,False,False,False,56712,padeliporfin potassium
+81,Phase 2,09-Jun-2024,26-Aug-2026,37%,01-Jan-2024,25-Sep-2024,2.2,True,False,False,False,False,False,56712,padeliporfin potassium
+82,Phase 3,26-Aug-2026,07-Jan-2029,54%,14-Jul-2025,26-Jan-2027,2.4,True,False,False,False,False,False,56712,padeliporfin potassium
+83,Pre-Reg,07-Jan-2029,11-Nov-2029,90%,30-Dec-2027,27-May-2029,0.8,True,False,False,False,False,False,56712,padeliporfin potassium
+84,Reg,11-Nov-2029,,,06-Aug-2029,27-Dec-2029,,True,False,False,False,False,False,56712,padeliporfin potassium
+85,Phase 3,22-Mar-2021,25-Jan-2029,89%,,,7.8,True,False,False,False,False,False,56712,padeliporfin potassium
+86,Pre-Reg,25-Jan-2029,28-Dec-2029,91%,13-Sep-2028,01-May-2029,0.9,True,False,False,False,False,False,56712,padeliporfin potassium
+87,Reg,28-Dec-2029,,,13-Sep-2029,04-Feb-2030,,True,False,False,False,False,False,56712,padeliporfin potassium
+88,Phase 1,21-Jun-2018,22-Mar-2021,,,,2.9,False,False,False,False,False,False,56712,padeliporfin potassium
+89,Phase 3,22-Mar-2021,25-Jan-2029,84%,,,7.8,True,False,False,False,False,False,56712,padeliporfin potassium
+90,Pre-Reg,25-Jan-2029,25-Jan-2030,91%,13-Sep-2028,01-May-2029,1.0,True,False,False,False,False,False,56712,padeliporfin potassium
+91,Reg,25-Jan-2030,,,24-Sep-2029,13-Mar-2030,,True,False,False,False,False,False,56712,padeliporfin potassium
+92,Phase 2,12-Feb-2018,10-Dec-2023,50%,,,5.8,True,False,False,False,False,False,61456,avasopasem manganese
+93,Phase 3,10-Dec-2023,13-Apr-2026,36%,20-Apr-2023,14-Jul-2024,2.3,True,False,False,False,False,False,61456,avasopasem manganese
+94,Pre-Reg,13-Apr-2026,09-Feb-2027,91%,08-Apr-2025,04-Sep-2026,0.8,True,False,False,False,False,False,61456,avasopasem manganese
+95,Reg,09-Feb-2027,,,28-Oct-2026,18-Mar-2027,,True,False,False,False,False,False,61456,avasopasem manganese
+96,Phase 2,19-Dec-2019,10-Dec-2023,95%,,,4.0,True,False,False,False,False,False,61456,avasopasem manganese
+97,Phase 3,10-Dec-2023,04-Apr-2026,33%,20-May-2023,05-Jun-2024,2.3,True,False,False,False,False,False,61456,avasopasem manganese
+98,Pre-Reg,04-Apr-2026,02-Feb-2027,93%,06-Apr-2025,20-Aug-2026,0.8,True,False,False,False,False,False,61456,avasopasem manganese
+99,Reg,02-Feb-2027,,,27-Oct-2026,18-Mar-2027,,True,False,False,False,False,False,61456,avasopasem manganese
+100,Phase 2,09-Sep-2020,08-Apr-2024,66%,,,3.6,True,False,False,False,False,False,61456,avasopasem manganese
+101,Phase 3,08-Apr-2024,15-Apr-2026,48%,02-Jan-2024,27-Jun-2024,2.0,True,False,False,False,False,False,61456,avasopasem manganese
+102,Pre-Reg,15-Apr-2026,27-Jan-2027,95%,31-May-2025,20-Aug-2026,0.8,True,False,False,False,False,False,61456,avasopasem manganese
+103,Reg,27-Jan-2027,,,14-Oct-2026,26-Feb-2027,,True,False,False,False,False,False,61456,avasopasem manganese
+104,Phase 1,16-Jun-2010,31-Aug-2013,,,,3.2,False,False,False,False,False,False,61456,avasopasem manganese
+105,Phase 2,31-Aug-2013,03-Oct-2018,,,,5.1,False,False,False,False,False,False,61456,avasopasem manganese
+106,Phase 3,03-Oct-2018,12-Dec-2022,,,,4.2,False,False,False,False,False,False,61456,avasopasem manganese
+107,Pre-Reg,12-Dec-2022,02-Apr-2024,12%,,,1.3,True,False,False,False,False,False,61456,avasopasem manganese
+108,Reg,02-Apr-2024,,,28-Feb-2024,02-May-2024,,True,False,False,False,False,False,61456,avasopasem manganese
+109,Phase 2,01-Jun-2020,10-Dec-2023,95%,,,3.5,True,False,False,False,False,False,61456,avasopasem manganese
+110,Phase 3,10-Dec-2023,14-Feb-2026,79%,14-May-2023,04-May-2024,2.2,True,False,False,False,False,False,61456,avasopasem manganese
+111,Pre-Reg,14-Feb-2026,17-Jan-2027,95%,25-Feb-2025,26-Jun-2026,0.9,True,False,False,False,False,False,61456,avasopasem manganese
+112,Reg,17-Jan-2027,,,01-Oct-2026,26-Feb-2027,,True,False,False,False,False,False,61456,avasopasem manganese
+113,Phase 2,09-Sep-2020,05-Apr-2024,66%,,,3.6,True,False,False,False,False,False,61456,avasopasem manganese
+114,Phase 3,05-Apr-2024,28-Apr-2026,36%,01-Jan-2024,11-Jun-2024,2.1,True,False,False,False,False,False,61456,avasopasem manganese
+115,Pre-Reg,28-Apr-2026,23-Feb-2027,89%,05-Jun-2025,31-Aug-2026,0.8,True,False,False,False,False,False,61456,avasopasem manganese
+116,Reg,23-Feb-2027,,,10-Nov-2026,28-Mar-2027,,True,False,False,False,False,False,61456,avasopasem manganese
+117,Pre-Reg,22-Nov-2016,22-Jun-2017,,,,0.6,False,False,False,False,False,False,62015,"rituximab + hyaluronidase (Non-Hodgkin's lymphoma/diffuse large B-cell lymphoma/chronic lymphocytic leukemia, Enhanze), Roche/Halozyme"
+118,Reg,22-Jun-2017,,,,,,False,False,False,False,False,False,62015,"rituximab + hyaluronidase (Non-Hodgkin's lymphoma/diffuse large B-cell lymphoma/chronic lymphocytic leukemia, Enhanze), Roche/Halozyme"
+119,Phase 2,31-Jan-2006,,,,,0.0,False,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+120,Phase 1,31-Mar-2006,,,,,0.0,False,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+121,Phase 3,12-Apr-2021,18-Mar-2024,63%,,,2.9,True,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+122,Pre-Reg,18-Mar-2024,05-Feb-2025,88%,30-Dec-2023,24-May-2024,0.9,True,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+123,Reg,05-Feb-2025,,,26-Oct-2024,16-Mar-2025,,True,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+124,Phase 3,15-Aug-2019,15-Aug-2019,,,,0.0,False,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+125,Pre-Reg,15-Aug-2019,,,,,0.0,False,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+126,Phase 2,30-Sep-2004,15-Aug-2019,,,,14.9,False,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+127,Phase 3,15-Aug-2019,15-Aug-2019,,,,0.0,False,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+128,Pre-Reg,15-Aug-2019,,,,,0.0,False,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+129,Phase 3,15-Aug-2019,15-Aug-2019,,,,0.0,False,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+130,Pre-Reg,15-Aug-2019,,,,,0.0,False,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+131,Phase 3,15-Aug-2023,28-Aug-2025,56%,,,2.0,True,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+132,Pre-Reg,28-Aug-2025,09-Jul-2026,95%,08-Oct-2024,01-Jan-2026,0.9,True,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+133,Reg,09-Jul-2026,,,30-Mar-2026,20-Aug-2026,,True,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+134,Phase 3,12-Apr-2021,10-Dec-2023,81%,,,2.7,True,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+135,Pre-Reg,10-Dec-2023,29-Oct-2024,88%,22-Sep-2023,15-Feb-2024,0.9,True,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+136,Reg,29-Oct-2024,,,19-Jul-2024,07-Dec-2024,,True,False,False,False,False,False,63262,"sodium pyruvate (inhaled, COPD/pulmonary fibrosis/interstitial lung disease/cystic fibrosis/ashtma/viral infections/COVID-19), EmphyCorp/PharmaMax"
+137,Phase 2,30-Jun-2000,30-Jun-2005,,,,5.0,False,False,False,False,False,False,71145,eflornithine + sulindac
+138,Phase 3,30-Jun-2005,,,,,0.0,False,False,False,False,False,False,71145,eflornithine + sulindac
+139,Phase 3,31-Oct-2013,29-Jun-2020,,,,6.7,False,False,False,False,False,False,71145,eflornithine + sulindac
+140,Pre-Reg,29-Jun-2020,,,,,0.0,False,False,False,False,False,False,71145,eflornithine + sulindac
+141,Phase 3,31-Oct-2013,,,,,0.0,False,False,False,False,False,False,71145,eflornithine + sulindac
+142,Phase 2,30-Jun-2000,30-Jun-2005,,,,5.0,False,False,False,False,False,False,71145,eflornithine + sulindac
+143,Phase 3,30-Jun-2005,,,,,0.0,False,False,False,False,False,False,71145,eflornithine + sulindac
+144,Phase 2,30-Sep-2004,28-Feb-2006,,,,1.4,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+145,Phase 3,28-Feb-2006,15-Aug-2012,,,,6.5,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+146,Pre-Reg,15-Aug-2012,,,,,0.0,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+147,Phase 2,30-Jun-2014,,,,,0.0,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+148,Phase 2,30-Jun-2014,07-May-2018,,,,3.9,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+149,Phase 3,07-May-2018,10-Dec-2023,95%,,,5.6,True,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+150,Pre-Reg,10-Dec-2023,02-Nov-2024,95%,26-Jul-2023,25-Apr-2024,0.9,True,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+151,Reg,02-Nov-2024,,,23-Jul-2024,11-Dec-2024,,True,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+152,Phase 2,30-Jun-2014,07-May-2018,,,,3.9,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+153,Phase 3,07-May-2018,,,,,0.0,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+154,Phase 2,30-Jun-2014,07-May-2018,,,,3.9,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+155,Phase 3,07-May-2018,,,,,0.0,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+156,Phase 2,04-Dec-2019,09-Jan-2024,93%,,,4.1,True,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+157,Phase 3,09-Jan-2024,31-May-2026,70%,03-Jul-2023,22-May-2024,2.4,True,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+158,Pre-Reg,31-May-2026,27-May-2027,95%,19-May-2025,18-Oct-2026,1.0,True,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+159,Reg,27-May-2027,,,26-Jan-2027,08-Jul-2027,,True,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+160,Phase 3,28-Feb-2006,14-Feb-2023,,,,17.0,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+161,Pre-Reg,14-Feb-2023,14-Aug-2023,,,,0.5,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+162,Reg,14-Aug-2023,,,,,,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+163,Phase 2,28-Feb-2014,06-Jul-2016,,,,2.4,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+164,Phase 3,06-Jul-2016,,,,,0.0,False,False,False,False,False,False,72209,"melphalan (percutaneous hepatic perfusion, hepatocellular carcinoma/cholangiocarcinoma/metastatic ocular melanoma), Delcath"
+165,Phase 1,01-Oct-2014,15-Dec-2017,,,,3.2,False,False,False,False,False,False,76613,trastuzumab duocarmazine
+166,Phase 3,15-Dec-2017,10-Dec-2023,65%,,,6.0,True,False,False,False,False,False,76613,trastuzumab duocarmazine
+167,Pre-Reg,10-Dec-2023,07-Dec-2024,95%,19-Mar-2023,30-Mar-2024,1.0,True,False,False,False,False,False,76613,trastuzumab duocarmazine
+168,Reg,07-Dec-2024,,,07-Aug-2024,22-Jan-2025,,True,False,False,False,False,False,76613,trastuzumab duocarmazine
+169,Phase 3,30-Nov-2017,10-Dec-2023,95%,,,6.0,True,False,False,False,False,False,76613,trastuzumab duocarmazine
+170,Pre-Reg,10-Dec-2023,05-Dec-2024,95%,12-Feb-2023,20-May-2024,1.0,True,False,False,False,False,False,76613,trastuzumab duocarmazine
+171,Reg,05-Dec-2024,,,05-Aug-2024,14-Jan-2025,,True,False,False,False,False,False,76613,trastuzumab duocarmazine
+172,Pre-Reg,30-Sep-2021,28-Sep-2022,,,,1.0,False,False,False,False,False,False,78939,"bevacizumab biosimilar, Celltrion"
+173,Reg,28-Sep-2022,,,,,,False,False,False,False,False,False,78939,"bevacizumab biosimilar, Celltrion"
+174,Pre-Reg,09-Mar-2020,,,,,0.0,False,False,False,False,False,False,79064,"bevacizumab biosimilar, Mylan/Biocon"
+175,Phase 3,07-May-2015,,,,,0.0,False,False,False,False,False,False,79064,"bevacizumab biosimilar, Mylan/Biocon"
+176,Phase 3,11-Jul-2016,,,,,0.0,False,False,False,False,False,False,79064,"bevacizumab biosimilar, Mylan/Biocon"
+177,Phase 3,09-Mar-2020,09-Mar-2020,,,,0.0,False,False,False,False,False,False,79064,"bevacizumab biosimilar, Mylan/Biocon"
+178,Pre-Reg,09-Mar-2020,,,,,0.0,False,False,False,False,False,False,79064,"bevacizumab biosimilar, Mylan/Biocon"
+179,Pre-Reg,09-Mar-2020,,,,,0.0,False,False,False,False,False,False,79064,"bevacizumab biosimilar, Mylan/Biocon"
+180,Pre-Reg,09-Mar-2020,,,,,0.0,False,False,False,False,False,False,79064,"bevacizumab biosimilar, Mylan/Biocon"
+181,Pre-Reg,09-Mar-2020,,,,,0.0,False,False,False,False,False,False,79064,"bevacizumab biosimilar, Mylan/Biocon"
+182,Phase 1,30-Mar-2015,05-Apr-2017,,,,2.0,False,False,False,False,False,False,81415,lifileucel
+183,Phase 2,05-Apr-2017,16-Dec-2030,95%,,,13.7,True,False,False,False,False,False,81415,lifileucel
+184,Phase 3,16-Dec-2030,16-Jun-2031,68%,16-Nov-2029,21-Jun-2031,0.5,True,False,False,False,False,False,81415,lifileucel
+185,Pre-Reg,16-Jun-2031,01-Jun-2032,86%,17-Dec-2030,01-Nov-2031,1.0,True,False,False,False,False,False,81415,lifileucel
+186,Reg,01-Jun-2032,,,06-Feb-2032,12-Jul-2032,,True,False,False,False,False,False,81415,lifileucel
+187,Phase 2,11-Oct-2018,16-Dec-2030,44%,,,12.2,True,False,False,False,False,False,81415,lifileucel
+188,Phase 3,16-Dec-2030,08-Jul-2033,10%,22-Dec-2029,21-Jul-2031,2.6,True,False,False,False,False,False,81415,lifileucel
+189,Pre-Reg,08-Jul-2033,22-Sep-2034,75%,29-May-2032,21-Nov-2033,1.2,True,False,False,False,False,False,81415,lifileucel
+190,Reg,22-Sep-2034,,,28-Apr-2034,09-Dec-2034,,True,False,False,False,False,False,81415,lifileucel
+191,Phase 2,27-Apr-2018,02-Jan-2025,19%,,,6.7,True,False,False,False,False,False,81415,lifileucel
+192,Phase 3,02-Jan-2025,26-Jul-2027,16%,20-Mar-2024,04-Sep-2025,2.6,True,False,False,False,False,False,81415,lifileucel
+193,Pre-Reg,26-Jul-2027,25-Jul-2028,79%,16-Jun-2026,09-Dec-2027,1.0,True,False,False,False,False,False,81415,lifileucel
+194,Reg,25-Jul-2028,,,25-Mar-2028,12-Sep-2028,,True,False,False,False,False,False,81415,lifileucel
+195,Phase 2,17-Aug-2018,22-Apr-2025,14%,,,6.7,True,False,False,False,False,False,81415,lifileucel
+196,Phase 3,22-Apr-2025,12-Jan-2028,17%,17-Mar-2024,21-Feb-2026,2.7,True,False,False,False,False,False,81415,lifileucel
+197,Pre-Reg,12-Jan-2028,01-Jan-2029,90%,17-Nov-2026,18-Jun-2028,1.0,True,False,False,False,False,False,81415,lifileucel
+198,Reg,01-Jan-2029,,,07-Sep-2028,11-Feb-2029,,True,False,False,False,False,False,81415,lifileucel
+199,Phase 2,27-Apr-2018,21-Jul-2025,18%,,,7.2,True,False,False,False,False,False,81415,lifileucel
+200,Phase 3,21-Jul-2025,19-Apr-2028,17%,21-May-2024,21-May-2026,2.7,True,False,False,False,False,False,81415,lifileucel
+201,Pre-Reg,19-Apr-2028,08-Apr-2029,90%,22-Feb-2027,02-Oct-2028,1.0,True,False,False,False,False,False,81415,lifileucel
+202,Reg,08-Apr-2029,,,13-Dec-2028,18-May-2029,,True,False,False,False,False,False,81415,lifileucel
+203,Phase 2,30-Sep-2015,15-Jan-2025,36%,,,9.3,True,False,False,False,False,False,81415,lifileucel
+204,Phase 3,15-Jan-2025,25-Aug-2027,19%,22-Feb-2024,10-Dec-2025,2.6,True,False,False,False,False,False,81415,lifileucel
+205,Pre-Reg,25-Aug-2027,04-Oct-2028,70%,13-Jul-2026,16-Jan-2028,1.1,True,False,False,False,False,False,81415,lifileucel
+206,Reg,04-Oct-2028,,,24-May-2028,03-Dec-2028,,True,False,False,False,False,False,81415,lifileucel
+207,Pre-Reg,25-Aug-2022,10-Feb-2024,83%,,,1.5,True,False,False,False,False,False,81415,lifileucel
+208,Reg,10-Feb-2024,,,19-Dec-2023,21-Mar-2024,,True,False,False,False,False,False,81415,lifileucel
+209,Phase 2,30-Sep-2015,15-Jan-2025,36%,,,9.3,True,False,False,False,False,False,81415,lifileucel
+210,Phase 3,15-Jan-2025,08-Aug-2027,16%,31-May-2024,14-Nov-2025,2.6,True,False,False,False,False,False,81415,lifileucel
+211,Pre-Reg,08-Aug-2027,19-Sep-2028,62%,29-Jun-2026,22-Dec-2027,1.1,True,False,False,False,False,False,81415,lifileucel
+212,Reg,19-Sep-2028,,,07-May-2028,20-Nov-2028,,True,False,False,False,False,False,81415,lifileucel
+213,Phase 2,30-Sep-2013,25-Aug-2022,,,,8.1,False,False,False,False,False,False,81415,lifileucel
+214,Pre-Reg,25-Aug-2022,10-Feb-2024,77%,,,1.5,True,False,False,False,False,False,81415,lifileucel
+215,Reg,10-Feb-2024,,,26-Dec-2023,22-Mar-2024,,True,False,False,False,False,False,81415,lifileucel
+216,Phase 2,27-Apr-2018,04-Feb-2025,15%,,,6.8,True,False,False,False,False,False,81415,lifileucel
+217,Phase 3,04-Feb-2025,06-Oct-2027,20%,10-Apr-2024,22-Oct-2025,2.7,True,False,False,False,False,False,81415,lifileucel
+218,Pre-Reg,06-Oct-2027,09-Sep-2028,79%,18-Aug-2026,08-Mar-2028,0.9,True,False,False,False,False,False,81415,lifileucel
+219,Reg,09-Sep-2028,,,25-May-2028,17-Oct-2028,,True,False,False,False,False,False,81415,lifileucel
+220,Phase 2,23-Dec-2019,13-Nov-2024,18%,,,4.9,True,False,False,False,False,False,81415,lifileucel
+221,Phase 3,13-Nov-2024,06-Jun-2027,17%,20-Feb-2024,06-Jun-2025,2.6,True,False,False,False,False,False,81415,lifileucel
+222,Pre-Reg,06-Jun-2027,05-Jun-2028,77%,27-Apr-2026,20-Oct-2027,1.0,True,False,False,False,False,False,81415,lifileucel
+223,Reg,05-Jun-2028,,,03-Feb-2028,22-Jul-2028,,True,False,False,False,False,False,81415,lifileucel
+224,Phase 2,17-Aug-2018,22-Feb-2025,14%,,,6.5,True,False,False,False,False,False,81415,lifileucel
+225,Phase 3,22-Feb-2025,15-Sep-2027,11%,22-Feb-2024,05-Nov-2025,2.6,True,False,False,False,False,False,81415,lifileucel
+226,Pre-Reg,15-Sep-2027,10-Sep-2028,74%,06-Aug-2026,29-Jan-2028,1.0,True,False,False,False,False,False,81415,lifileucel
+227,Reg,10-Sep-2028,,,14-May-2028,19-Oct-2028,,True,False,False,False,False,False,81415,lifileucel
+228,Phase 1,11-Oct-2017,19-Oct-2018,,,,1.0,False,False,False,False,False,False,81415,lifileucel
+229,Phase 2,19-Oct-2018,10-Dec-2023,36%,,,5.1,True,False,False,False,False,False,81415,lifileucel
+230,Pre-Reg,10-Dec-2023,14-Nov-2024,74%,13-Nov-2022,15-Aug-2024,0.9,True,False,False,False,False,False,81415,lifileucel
+231,Reg,14-Nov-2024,,,29-Jul-2024,22-Dec-2024,,True,False,False,False,False,False,81415,lifileucel
+232,Phase 2,13-May-2019,10-Dec-2023,40%,,,4.6,True,False,False,False,False,False,81415,lifileucel
+233,Phase 3,10-Dec-2023,16-Apr-2026,16%,17-Mar-2023,05-Jul-2024,2.3,True,False,False,False,False,False,81415,lifileucel
+234,Pre-Reg,16-Apr-2026,25-May-2027,72%,16-Apr-2025,10-Sep-2026,1.1,True,False,False,False,False,False,81415,lifileucel
+235,Reg,25-May-2027,,,13-Jan-2027,25-Jul-2027,,True,False,False,False,False,False,81415,lifileucel
+236,Phase 2,08-Mar-2017,23-Jan-2024,34%,,,6.9,True,False,False,False,False,False,81415,lifileucel
+237,Phase 3,23-Jan-2024,23-Sep-2026,20%,10-Feb-2023,19-Aug-2024,2.7,True,False,False,False,False,False,81415,lifileucel
+238,Pre-Reg,23-Sep-2026,28-Aug-2027,79%,05-Aug-2025,24-Feb-2027,0.9,True,False,False,False,False,False,81415,lifileucel
+239,Reg,28-Aug-2027,,,13-May-2027,05-Oct-2027,,True,False,False,False,False,False,81415,lifileucel
+240,Phase 2,09-May-2019,23-Jan-2024,36%,,,4.7,True,False,False,False,False,False,81415,lifileucel
+241,Phase 3,23-Jan-2024,29-Sep-2026,22%,20-Feb-2023,12-Sep-2024,2.7,True,False,False,False,False,False,81415,lifileucel
+242,Pre-Reg,29-Sep-2026,04-Nov-2027,79%,09-Aug-2025,02-Mar-2027,1.1,True,False,False,False,False,False,81415,lifileucel
+243,Reg,04-Nov-2027,,,27-Jun-2027,05-Jan-2028,,True,False,False,False,False,False,81415,lifileucel
+244,Phase 2,17-Aug-2018,02-Mar-2025,19%,,,6.5,True,False,False,False,False,False,81415,lifileucel
+245,Phase 3,02-Mar-2025,01-Nov-2027,21%,25-Feb-2024,14-Nov-2025,2.7,True,False,False,False,False,False,81415,lifileucel
+246,Pre-Reg,01-Nov-2027,30-Oct-2028,89%,13-Sep-2026,03-Apr-2028,1.0,True,False,False,False,False,False,81415,lifileucel
+247,Reg,30-Oct-2028,,,30-Jun-2028,16-Dec-2028,,True,False,False,False,False,False,81415,lifileucel
+248,Phase 2,25-Dec-2018,,,,,0.0,False,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+249,Pre-Reg,25-Nov-2020,24-Oct-2024,95%,,,3.9,True,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+250,Reg,24-Oct-2024,,,02-Feb-2024,06-Jul-2025,,True,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+251,Pre-Reg,28-Jan-2021,,,,,0.0,False,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+252,Pre-Reg,25-Nov-2020,24-Oct-2024,95%,,,3.9,True,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+253,Reg,24-Oct-2024,,,02-Feb-2024,06-Jul-2025,,True,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+254,Pre-Reg,28-Jan-2021,,,,,0.0,False,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+255,Pre-Reg,25-Nov-2020,02-Oct-2024,95%,,,3.9,True,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+256,Reg,02-Oct-2024,,,14-Jan-2024,09-Apr-2025,,True,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+257,Pre-Reg,25-Nov-2020,,,,,0.0,False,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+258,Pre-Reg,25-Nov-2020,10-Dec-2023,95%,,,3.0,True,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+259,Reg,10-Dec-2023,,,23-Mar-2023,16-Jun-2024,,True,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+260,Pre-Reg,30-Nov-2020,,,,,0.0,False,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+261,Pre-Reg,25-Nov-2020,,,,,0.0,False,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+262,Pre-Reg,30-Nov-2020,,,,,0.0,False,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+263,Pre-Reg,25-Nov-2020,,,,,0.0,False,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+264,Pre-Reg,28-Jan-2021,,,,,0.0,False,False,False,False,False,False,91145,"bevacizumab biosimilar, Bio-Thera Solutions"
+265,Phase 3,08-Apr-2020,18-Jun-2024,70%,,,4.2,True,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+266,Pre-Reg,18-Jun-2024,31-May-2025,95%,19-Jan-2024,18-Sep-2024,1.0,True,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+267,Reg,31-May-2025,,,08-Feb-2025,11-Jul-2025,,True,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+268,Phase 3,01-Feb-2019,12-Jul-2023,,,,4.4,False,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+269,Pre-Reg,12-Jul-2023,03-Aug-2024,95%,,,1.1,True,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+270,Reg,03-Aug-2024,,,05-Apr-2024,22-Sep-2024,,True,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+271,Phase 3,02-Oct-2019,23-Apr-2024,71%,,,4.6,True,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+272,Pre-Reg,23-Apr-2024,13-Apr-2025,95%,06-Jan-2024,11-Aug-2024,1.0,True,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+273,Reg,13-Apr-2025,,,15-Dec-2024,22-May-2025,,True,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+274,Phase 3,01-Feb-2019,12-Jul-2023,,,,4.4,False,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+275,Pre-Reg,12-Jul-2023,05-Jul-2024,95%,,,1.0,True,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+276,Reg,05-Jul-2024,,,12-Mar-2024,12-Aug-2024,,True,False,False,False,False,False,93978,"rituximab biosimilar, Dr Reddy's Laboratories"
+277,Pre-Reg,30-Sep-2019,,,,,0.0,False,False,False,False,False,False,97321,"bevacizumab biosimilar, Samsung Bioepis"
+278,Phase 2,03-Jun-2020,19-Apr-2024,95%,,,3.9,True,False,False,False,False,False,100235,penpulimab
+279,Phase 3,19-Apr-2024,10-Jun-2026,95%,31-Dec-2023,19-Jul-2024,2.1,True,False,False,False,False,False,100235,penpulimab
+280,Pre-Reg,10-Jun-2026,26-Jul-2027,95%,27-Jun-2025,15-Oct-2026,1.1,True,False,False,False,False,False,100235,penpulimab
+281,Reg,26-Jul-2027,,,13-Mar-2027,28-Sep-2027,,True,False,False,False,False,False,100235,penpulimab
+282,Phase 2,03-Jun-2020,28-Mar-2024,95%,,,3.8,True,False,False,False,False,False,100235,penpulimab
+283,Phase 3,28-Mar-2024,24-May-2026,95%,29-Dec-2023,08-Jun-2024,2.2,True,False,False,False,False,False,100235,penpulimab
+284,Pre-Reg,24-May-2026,08-Jul-2027,95%,06-Jun-2025,27-Sep-2026,1.1,True,False,False,False,False,False,100235,penpulimab
+285,Reg,08-Jul-2027,,,23-Feb-2027,10-Sep-2027,,True,False,False,False,False,False,100235,penpulimab
+286,Phase 2,03-Jun-2020,,,,,0.0,False,False,False,False,False,False,100235,penpulimab
+287,Phase 2,15-Sep-2021,20-Jul-2024,95%,,,2.8,True,False,False,False,False,False,100235,penpulimab
+288,Phase 3,20-Jul-2024,23-Aug-2026,95%,20-Apr-2024,31-Aug-2024,2.1,True,False,False,False,False,False,100235,penpulimab
+289,Pre-Reg,23-Aug-2026,30-Sep-2027,95%,23-Sep-2025,26-Dec-2026,1.1,True,False,False,False,False,False,100235,penpulimab
+290,Reg,30-Sep-2027,,,21-May-2027,01-Dec-2027,,True,False,False,False,False,False,100235,penpulimab
+291,Phase 2,28-Dec-2020,13-Mar-2024,95%,,,3.2,True,False,False,False,False,False,100235,penpulimab
+292,Phase 3,13-Mar-2024,29-Jan-2026,95%,30-Dec-2023,14-May-2024,1.9,True,False,False,False,False,False,100235,penpulimab
+293,Pre-Reg,29-Jan-2026,05-Mar-2027,95%,10-Apr-2025,29-May-2026,1.1,True,False,False,False,False,False,100235,penpulimab
+294,Reg,05-Mar-2027,,,26-Oct-2026,04-May-2027,,True,False,False,False,False,False,100235,penpulimab
+295,Phase 2,30-Jun-2019,11-Aug-2020,,,,1.1,False,False,False,False,False,False,100235,penpulimab
+296,Phase 3,11-Aug-2020,10-Dec-2023,94%,,,3.3,True,False,False,False,False,False,100235,penpulimab
+297,Pre-Reg,10-Dec-2023,28-Jan-2025,95%,10-Aug-2023,09-Feb-2024,1.1,True,False,False,False,False,False,100235,penpulimab
+298,Reg,28-Jan-2025,,,16-Sep-2024,07-Apr-2025,,True,False,False,False,False,False,100235,penpulimab
+299,Phase 2,30-Jun-2019,05-Aug-2021,,,,2.1,False,False,False,False,False,False,100235,penpulimab
+300,Pre-Reg,05-Aug-2021,01-Mar-2025,95%,,,3.6,True,False,False,False,False,False,100235,penpulimab
+301,Reg,01-Mar-2025,,,25-Feb-2024,14-Mar-2026,,True,False,False,False,False,False,100235,penpulimab
+302,Pre-Reg,24-May-2021,,,,,0.0,False,False,False,False,False,False,100235,penpulimab
+303,Phase 2,03-Jun-2020,10-Dec-2023,95%,,,3.5,True,False,False,False,False,False,100235,penpulimab
+304,Phase 3,10-Dec-2023,24-Jan-2026,95%,11-Sep-2023,20-Feb-2024,2.1,True,False,False,False,False,False,100235,penpulimab
+305,Pre-Reg,24-Jan-2026,12-Mar-2027,95%,15-Feb-2025,30-May-2026,1.1,True,False,False,False,False,False,100235,penpulimab
+306,Reg,12-Mar-2027,,,28-Oct-2026,15-May-2027,,True,False,False,False,False,False,100235,penpulimab
+307,Phase 2,05-Sep-2021,29-Mar-2024,95%,,,2.6,True,False,False,False,False,False,100235,penpulimab
+308,Phase 3,29-Mar-2024,11-Apr-2026,95%,26-Dec-2023,17-May-2024,2.0,True,False,False,False,False,False,100235,penpulimab
+309,Pre-Reg,11-Apr-2026,06-May-2027,95%,20-May-2025,13-Aug-2026,1.1,True,False,False,False,False,False,100235,penpulimab
+310,Reg,06-May-2027,,,28-Dec-2026,30-Jun-2027,,True,False,False,False,False,False,100235,penpulimab
+311,Phase 3,10-Aug-2020,10-May-2024,95%,,,3.8,True,False,False,False,False,False,100235,penpulimab
+312,Pre-Reg,10-May-2024,30-Jun-2025,95%,08-Jan-2024,17-Jul-2024,1.1,True,False,False,False,False,False,100235,penpulimab
+313,Reg,30-Jun-2025,,,16-Feb-2025,06-Sep-2025,,True,False,False,False,False,False,100235,penpulimab
+314,Phase 3,10-Aug-2020,14-May-2024,95%,,,3.8,True,False,False,False,False,False,100235,penpulimab
+315,Pre-Reg,14-May-2024,02-Jul-2025,95%,09-Jan-2024,05-Aug-2024,1.1,True,False,False,False,False,False,100235,penpulimab
+316,Reg,02-Jul-2025,,,18-Feb-2025,10-Sep-2025,,True,False,False,False,False,False,100235,penpulimab
+317,Phase 2,01-Jun-2022,01-Jul-2026,95%,,,4.1,True,False,False,False,False,False,100235,penpulimab
+318,Phase 3,01-Jul-2026,10-Aug-2028,95%,15-Feb-2026,25-Sep-2026,2.1,True,False,False,False,False,False,100235,penpulimab
+319,Pre-Reg,10-Aug-2028,23-Sep-2029,95%,04-Sep-2027,12-Dec-2028,1.1,True,False,False,False,False,False,100235,penpulimab
+320,Reg,23-Sep-2029,,,11-May-2029,26-Nov-2029,,True,False,False,False,False,False,100235,penpulimab
+321,Phase 2,09-May-2020,08-May-2024,93%,,,4.0,True,False,False,False,False,False,100235,penpulimab
+322,Phase 3,08-May-2024,18-Jun-2026,95%,27-Dec-2023,04-Aug-2024,2.1,True,False,False,False,False,False,100235,penpulimab
+323,Pre-Reg,18-Jun-2026,17-Jul-2027,95%,12-Jul-2025,20-Oct-2026,1.1,True,False,False,False,False,False,100235,penpulimab
+324,Reg,17-Jul-2027,,,11-Mar-2027,12-Sep-2027,,True,False,False,False,False,False,100235,penpulimab
+325,Phase 2,30-Jun-2019,,,,,0.0,False,False,False,False,False,False,100235,penpulimab
+326,Phase 2,15-Sep-2021,20-Jul-2024,95%,,,2.8,True,False,False,False,False,False,100235,penpulimab
+327,Phase 3,20-Jul-2024,23-Aug-2026,95%,28-Apr-2024,01-Sep-2024,2.1,True,False,False,False,False,False,100235,penpulimab
+328,Pre-Reg,23-Aug-2026,30-Sep-2027,95%,23-Sep-2025,26-Dec-2026,1.1,True,False,False,False,False,False,100235,penpulimab
+329,Reg,30-Sep-2027,,,21-May-2027,01-Dec-2027,,True,False,False,False,False,False,100235,penpulimab
+330,Phase 2,28-Dec-2020,04-Mar-2024,95%,,,3.2,True,False,False,False,False,False,100235,penpulimab
+331,Phase 3,04-Mar-2024,20-Jan-2026,91%,30-Dec-2023,25-Apr-2024,1.9,True,False,False,False,False,False,100235,penpulimab
+332,Pre-Reg,20-Jan-2026,17-Feb-2027,95%,01-Apr-2025,20-May-2026,1.1,True,False,False,False,False,False,100235,penpulimab
+333,Reg,17-Feb-2027,,,12-Oct-2026,14-Apr-2027,,True,False,False,False,False,False,100235,penpulimab
+334,Phase 2,22-Nov-2018,11-Aug-2020,,,,1.7,False,False,False,False,False,False,100235,penpulimab
+335,Phase 3,11-Aug-2020,10-Dec-2023,95%,,,3.3,True,False,False,False,False,False,100235,penpulimab
+336,Pre-Reg,10-Dec-2023,20-Jan-2025,95%,10-Aug-2023,09-Feb-2024,1.1,True,False,False,False,False,False,100235,penpulimab
+337,Reg,20-Jan-2025,,,08-Sep-2024,23-Mar-2025,,True,False,False,False,False,False,100235,penpulimab
+338,Phase 2,27-Mar-2019,05-Aug-2021,,,,2.4,False,False,False,False,False,False,100235,penpulimab
+339,Pre-Reg,05-Aug-2021,17-Jan-2025,95%,,,3.4,True,False,False,False,False,False,100235,penpulimab
+340,Reg,17-Jan-2025,,,01-Jan-2024,21-Jan-2026,,True,False,False,False,False,False,100235,penpulimab
+341,Pre-Reg,24-May-2021,,,,,0.0,False,False,False,False,False,False,100235,penpulimab
+342,Phase 2,05-Sep-2021,25-Mar-2024,95%,,,2.6,True,False,False,False,False,False,100235,penpulimab
+343,Phase 3,25-Mar-2024,07-Apr-2026,95%,23-Dec-2023,09-May-2024,2.0,True,False,False,False,False,False,100235,penpulimab
+344,Pre-Reg,07-Apr-2026,02-May-2027,95%,16-May-2025,09-Aug-2026,1.1,True,False,False,False,False,False,100235,penpulimab
+345,Reg,02-May-2027,,,24-Dec-2026,26-Jun-2027,,True,False,False,False,False,False,100235,penpulimab
+346,Phase 3,10-Aug-2020,10-May-2024,92%,,,3.8,True,False,False,False,False,False,100235,penpulimab
+347,Pre-Reg,10-May-2024,22-Jun-2025,95%,08-Jan-2024,17-Jul-2024,1.1,True,False,False,False,False,False,100235,penpulimab
+348,Reg,22-Jun-2025,,,07-Feb-2025,23-Aug-2025,,True,False,False,False,False,False,100235,penpulimab
+349,Phase 3,10-Aug-2020,14-May-2024,93%,,,3.8,True,False,False,False,False,False,100235,penpulimab
+350,Pre-Reg,14-May-2024,23-Jun-2025,95%,09-Jan-2024,05-Aug-2024,1.1,True,False,False,False,False,False,100235,penpulimab
+351,Reg,23-Jun-2025,,,11-Feb-2025,23-Aug-2025,,True,False,False,False,False,False,100235,penpulimab
+352,Phase 2,01-Jun-2022,31-Dec-2024,95%,,,2.6,True,False,False,False,False,False,100235,penpulimab
+353,Phase 3,31-Dec-2024,10-Feb-2027,95%,23-Aug-2024,26-Mar-2025,2.1,True,False,False,False,False,False,100235,penpulimab
+354,Pre-Reg,10-Feb-2027,25-Mar-2028,95%,06-Mar-2026,14-Jun-2027,1.1,True,False,False,False,False,False,100235,penpulimab
+355,Reg,25-Mar-2028,,,11-Nov-2027,28-May-2028,,True,False,False,False,False,False,100235,penpulimab
+356,Phase 2,10-Sep-2019,,,,,0.0,False,False,False,False,False,False,100235,penpulimab
+357,Phase 1,21-Apr-2016,,,,,0.0,False,False,False,False,False,False,101768,afamitresgene autoleucel
+358,Phase 1,21-Apr-2016,,,,,0.0,False,False,False,False,False,False,101768,afamitresgene autoleucel
+359,Phase 1,21-Apr-2016,,,,,0.0,False,False,False,False,False,False,101768,afamitresgene autoleucel
+360,Phase 1,21-Apr-2016,09-Jan-2024,91%,,,7.7,True,False,False,False,False,False,101768,afamitresgene autoleucel
+361,Phase 2,09-Jan-2024,07-Jan-2026,13%,26-Apr-2023,15-Sep-2024,2.0,True,False,False,False,False,False,101768,afamitresgene autoleucel
+362,Phase 3,07-Jan-2026,04-Apr-2028,28%,31-Dec-2024,05-Jun-2026,2.2,True,False,False,False,False,False,101768,afamitresgene autoleucel
+363,Pre-Reg,04-Apr-2028,31-Mar-2029,94%,12-Apr-2027,23-Aug-2028,1.0,True,False,False,False,False,False,101768,afamitresgene autoleucel
+364,Reg,31-Mar-2029,,,01-Dec-2028,09-May-2029,,True,False,False,False,False,False,101768,afamitresgene autoleucel
+365,Phase 1,21-Apr-2016,,,,,0.0,False,False,False,False,False,False,101768,afamitresgene autoleucel
+366,Phase 1,21-Apr-2016,,,,,0.0,False,False,False,False,False,False,101768,afamitresgene autoleucel
+367,Phase 1,21-Apr-2016,,,,,0.0,False,False,False,False,False,False,101768,afamitresgene autoleucel
+368,Phase 1,27-Apr-2018,25-Jul-2019,,,,1.2,False,False,False,False,False,False,101768,afamitresgene autoleucel
+369,Phase 2,25-Jul-2019,10-Dec-2023,35%,,,4.4,True,False,False,False,False,False,101768,afamitresgene autoleucel
+370,Phase 3,10-Dec-2023,09-Jun-2024,26%,16-Feb-2023,14-Aug-2024,0.5,True,False,False,False,False,False,101768,afamitresgene autoleucel
+371,Pre-Reg,09-Jun-2024,20-May-2025,95%,11-Dec-2023,28-Oct-2024,0.9,True,False,False,False,False,False,101768,afamitresgene autoleucel
+372,Reg,20-May-2025,,,24-Jan-2025,29-Jun-2025,,True,False,False,False,False,False,101768,afamitresgene autoleucel
+373,Phase 2,25-Jul-2019,10-Dec-2023,37%,,,4.4,True,False,False,False,False,False,101768,afamitresgene autoleucel
+374,Phase 3,10-Dec-2023,01-May-2026,29%,16-Feb-2023,14-Aug-2024,2.4,True,False,False,False,False,False,101768,afamitresgene autoleucel
+375,Pre-Reg,01-May-2026,14-Jun-2027,95%,19-Apr-2025,18-Sep-2026,1.1,True,False,False,False,False,False,101768,afamitresgene autoleucel
+376,Reg,14-Jun-2027,,,30-Jan-2027,15-Aug-2027,,True,False,False,False,False,False,101768,afamitresgene autoleucel
+377,Phase 1,27-Apr-2018,25-Jul-2019,,,,1.2,False,False,False,False,False,False,101768,afamitresgene autoleucel
+378,Phase 2,25-Jul-2019,23-Dec-2022,,,,3.4,False,False,False,False,False,False,101768,afamitresgene autoleucel
+379,Pre-Reg,23-Dec-2022,10-Dec-2023,95%,,,1.0,True,False,False,False,False,False,101768,afamitresgene autoleucel
+380,Reg,10-Dec-2023,,,10-Nov-2023,09-Jan-2024,,True,False,False,False,False,False,101768,afamitresgene autoleucel
+381,Phase 2,25-Jul-2019,10-Dec-2023,95%,,,4.4,True,False,False,False,False,False,101768,afamitresgene autoleucel
+382,Phase 3,10-Dec-2023,23-Jan-2026,91%,25-Apr-2023,17-May-2024,2.1,True,False,False,False,False,False,101768,afamitresgene autoleucel
+383,Pre-Reg,23-Jan-2026,12-Jan-2027,95%,14-Feb-2025,28-May-2026,1.0,True,False,False,False,False,False,101768,afamitresgene autoleucel
+384,Reg,12-Jan-2027,,,16-Sep-2026,21-Feb-2027,,True,False,False,False,False,False,101768,afamitresgene autoleucel
+385,Phase 2,02-Jul-2020,22-Jul-2024,10%,,,4.1,True,False,False,False,False,False,101768,afamitresgene autoleucel
+386,Phase 3,22-Jul-2024,24-Nov-2026,33%,19-Jan-2024,19-Dec-2024,2.3,True,False,False,False,False,False,101768,afamitresgene autoleucel
+387,Pre-Reg,24-Nov-2026,23-Oct-2027,94%,19-Nov-2025,17-Apr-2027,0.9,True,False,False,False,False,False,101768,afamitresgene autoleucel
+388,Reg,23-Oct-2027,,,10-Jul-2027,27-Nov-2027,,True,False,False,False,False,False,101768,afamitresgene autoleucel
+389,Phase 3,04-Oct-2016,30-Jun-2023,,,,6.7,False,False,False,False,False,False,102625,BT-595
+390,Pre-Reg,30-Jun-2023,29-Jun-2024,94%,,,1.0,True,False,False,False,False,False,102625,BT-595
+391,Reg,29-Jun-2024,,,06-Apr-2024,08-Aug-2024,,True,False,False,False,False,False,102625,BT-595
+392,Phase 1,31-Mar-2016,16-Oct-2018,,,,2.6,False,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+393,Phase 3,16-Oct-2018,22-Dec-2021,,,,3.2,False,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+394,Pre-Reg,22-Dec-2021,10-Dec-2023,95%,,,2.0,True,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+395,Reg,10-Dec-2023,,,07-Jun-2023,04-May-2024,,True,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+396,Phase 3,16-Oct-2018,10-Dec-2023,95%,,,5.2,True,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+397,Pre-Reg,10-Dec-2023,29-Nov-2024,95%,22-Sep-2023,24-Jan-2024,1.0,True,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+398,Reg,29-Nov-2024,,,03-Aug-2024,09-Jan-2025,,True,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+399,Phase 3,16-Oct-2018,18-Dec-2021,,,,3.2,False,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+400,Pre-Reg,18-Dec-2021,08-May-2024,95%,,,2.4,True,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+401,Reg,08-May-2024,,,31-Dec-2023,07-Aug-2024,,True,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+402,Phase 1,31-Mar-2016,22-Dec-2021,,,,5.8,False,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+403,Pre-Reg,22-Dec-2021,10-Dec-2023,95%,,,2.0,True,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+404,Reg,10-Dec-2023,,,11-Jul-2023,25-Mar-2024,,True,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+405,Pre-Reg,20-Dec-2021,14-Apr-2024,95%,,,2.3,True,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+406,Reg,14-Apr-2024,,,18-Dec-2023,17-Jun-2024,,True,False,False,False,False,False,106247,"trastuzumab biosimilar, EirGenix"
+407,Phase 3,28-Jun-2018,10-Dec-2023,95%,,,5.5,True,False,False,False,False,False,106283,"trastuzumab biosimilar, Tanvex BioPharma"
+408,Pre-Reg,10-Dec-2023,12-Dec-2024,95%,13-Jul-2023,08-Apr-2024,1.0,True,False,False,False,False,False,106283,"trastuzumab biosimilar, Tanvex BioPharma"
+409,Reg,12-Dec-2024,,,11-Aug-2024,01-Feb-2025,,True,False,False,False,False,False,106283,"trastuzumab biosimilar, Tanvex BioPharma"
+410,Pre-Reg,03-Aug-2021,21-May-2024,95%,,,2.8,True,False,False,False,False,False,106283,"trastuzumab biosimilar, Tanvex BioPharma"
+411,Reg,21-May-2024,,,02-Jan-2024,22-Aug-2024,,True,False,False,False,False,False,106283,"trastuzumab biosimilar, Tanvex BioPharma"
+412,Pre-Reg,03-Aug-2021,,,,,0.0,False,False,False,False,False,False,106283,"trastuzumab biosimilar, Tanvex BioPharma"
+413,Pre-Reg,23-Sep-2022,09-Jan-2024,21%,,,1.3,True,False,False,False,False,False,137795,HND-033
+414,Reg,09-Jan-2024,,,10-Dec-2023,08-Feb-2024,,True,False,False,False,False,False,137795,HND-033
+415,Pre-Reg,23-Sep-2022,12-Jan-2024,22%,,,1.3,True,False,False,False,False,False,137795,HND-033
+416,Reg,12-Jan-2024,,,13-Dec-2023,11-Feb-2024,,True,False,False,False,False,False,137795,HND-033
+417,Pre-Reg,23-Sep-2022,12-Jan-2024,22%,,,1.3,True,False,False,False,False,False,137795,HND-033
+418,Reg,12-Jan-2024,,,13-Dec-2023,11-Feb-2024,,True,False,False,False,False,False,137795,HND-033
+419,Pre-Reg,27-Jan-2022,,,,,0.0,False,False,False,False,False,False,145468,dasatinib hydrate
+420,Pre-Reg,30-Sep-2021,,,,,0.0,False,False,False,False,False,False,149177,"paclitaxel (albumin-bound particles, injectable suspension, cancer), Teva Pharmaceuticals"
+421,Pre-Reg,30-Sep-2021,,,,,0.0,False,False,False,False,False,False,149177,"paclitaxel (albumin-bound particles, injectable suspension, cancer), Teva Pharmaceuticals"
+422,Pre-Reg,30-Sep-2021,,,,,0.0,False,False,False,False,False,False,149177,"paclitaxel (albumin-bound particles, injectable suspension, cancer), Teva Pharmaceuticals"
+423,Pre-Reg,30-Sep-2021,,,,,0.0,False,False,False,False,False,False,149177,"paclitaxel (albumin-bound particles, injectable suspension, cancer), Teva Pharmaceuticals"

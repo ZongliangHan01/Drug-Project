@@ -1,0 +1,7 @@
+,drugId,displayName,indication,company,country,probabilityOfSuccess,phase,startDate,endDate,successPercentage
+12,101768,afamitresgene autoleucel,Soft tissue sarcoma,Adaptimmune Therapeutics plc,US,95%,Phase 1,27-Apr-2018,25-Jul-2019,
+13,101768,afamitresgene autoleucel,Soft tissue sarcoma,Adaptimmune Therapeutics plc,US,95%,Phase 2,25-Jul-2019,23-Dec-2022,
+14,101768,afamitresgene autoleucel,Soft tissue sarcoma,Adaptimmune Therapeutics plc,US,95%,Pre-Reg,23-Dec-2022,10-Dec-2023,95%
+15,101768,afamitresgene autoleucel,Soft tissue sarcoma,Adaptimmune Therapeutics plc,US,95%,Reg,10-Dec-2023,,
+23,106247,"trastuzumab biosimilar, EirGenix",Stomach tumor,EirGenix Inc,US,95%,Pre-Reg,20-Dec-2021,14-Apr-2024,95%
+24,106247,"trastuzumab biosimilar, EirGenix",Stomach tumor,EirGenix Inc,US,95%,Reg,14-Apr-2024,,

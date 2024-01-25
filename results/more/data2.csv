@@ -1,0 +1,13 @@
+,drugId,displayName,indication,company,country,probabilityOfSuccess,phase,startDate,endDate,successPercentage
+3,90233,odronextamab,Follicle center lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Phase 1,09-Jan-2015,13-Nov-2019,
+4,90233,odronextamab,Follicle center lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Phase 2,13-Nov-2019,29-Sep-2023,
+5,90233,odronextamab,Follicle center lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Pre-Reg,29-Sep-2023,14-Apr-2024,95%
+6,90233,odronextamab,Follicle center lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Reg,14-Apr-2024,,
+7,90233,odronextamab,Diffuse large B-cell lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Phase 1,09-Jan-2015,13-Nov-2019,
+8,90233,odronextamab,Diffuse large B-cell lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Phase 2,13-Nov-2019,29-Sep-2023,
+9,90233,odronextamab,Diffuse large B-cell lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Pre-Reg,29-Sep-2023,14-Apr-2024,95%
+10,90233,odronextamab,Diffuse large B-cell lymphoma,Regeneron Pharmaceuticals Inc,US,95%,Reg,14-Apr-2024,,
+18,99602,lutetium (177Lu) vipivotide tetraxetan,Hormone refractory prostate cancer,Novartis AG,US,95%,Phase 2,12-Jul-2017,23-May-2018,
+19,99602,lutetium (177Lu) vipivotide tetraxetan,Hormone refractory prostate cancer,Novartis AG,US,95%,Phase 3,23-May-2018,31-Mar-2023,
+20,99602,lutetium (177Lu) vipivotide tetraxetan,Hormone refractory prostate cancer,Novartis AG,US,95%,Pre-Reg,31-Mar-2023,02-Jan-2024,95%
+21,99602,lutetium (177Lu) vipivotide tetraxetan,Hormone refractory prostate cancer,Novartis AG,US,95%,Reg,02-Jan-2024,,

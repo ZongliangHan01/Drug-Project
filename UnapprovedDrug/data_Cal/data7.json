@@ -1,0 +1,467 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3336177606096000\"",
+     "id": "vdqp7tkrr5a240tin1snfi7opg",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=dmRxcDd0a3JyNWEyNDB0aW4xc25maTdvcGcgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-11-10T14:00:03.000Z",
+     "updated": "2022-11-10T14:00:03.048Z",
+     "summary": "CLVS Clovis Oncology, Inc. PDUFA",
+     "description": "2023-06-25 The letter confirmed that the sNDA has been accepted for a standard review with a PDUFA date of June 25, 2023. https://www.sec.gov/Archives/edgar/data/0001466301/000155837022017027/clvs-20220930x10q.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-25"
+     },
+     "end": {
+      "date": "2023-06-25"
+     },
+     "iCalUID": "vdqp7tkrr5a240tin1snfi7opg@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3340670406178000\"",
+     "id": "l96f63o2j8r1mvk8bn0li31obo",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bDk2ZjYzbzJqOHIxbXZrOGJuMGxpMzFvYm8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-12-06T14:00:03.000Z",
+     "updated": "2022-12-06T14:00:03.089Z",
+     "summary": "INVA INNOVIVA, INC. PDUFA",
+     "description": "2023-05-29 The target PDUFA date (or action date) is May 29, 2023. http://www.businesswire.com/news/home/20221130006085/en/Innoviva-Announces-FDA-Acceptance-and-Priority-Review-of-New-Drug-Application-for-Sulbactam-Durlobactam-SUL-DUR",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-29"
+     },
+     "end": {
+      "date": "2023-05-29"
+     },
+     "iCalUID": "l96f63o2j8r1mvk8bn0li31obo@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3346718405594000\"",
+     "id": "6br9pq760qhul44nmcstlt38sk",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=NmJyOXBxNzYwcWh1bDQ0bm1jc3RsdDM4c2sgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-01-10T14:00:02.000Z",
+     "updated": "2023-01-10T14:00:02.797Z",
+     "summary": "SRPT Sarepta Therapeutics, Inc. PDUFA",
+     "description": "2023-05-29 SEPT OCT NOV DEC JAN FEB MAR APR MAY JUN SRP-9001 pathway BLA Filed BLA Accepted Priority Review Granted PDUFA Date (May 29, 2023) First Patient Treated SUMMER 2023 2022 https://www.sec.gov/Archives/edgar/data/0000873303/000095017023000495/srpt-ex99_2.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-29"
+     },
+     "end": {
+      "date": "2023-05-29"
+     },
+     "iCalUID": "6br9pq760qhul44nmcstlt38sk@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3348446419612000\"",
+     "id": "bap5it56a9hveb2uc7n6iui72g",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YmFwNWl0NTZhOWh2ZWIydWM3bjZpdWk3MmcgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-01-20T14:00:09.000Z",
+     "updated": "2023-01-20T14:00:09.806Z",
+     "summary": "ICPT INTERCEPT PHARMACEUTICALS, INC. PDUFA",
+     "description": "2023-06-22 FDA indicated that it considers this a complete, Class 2 resubmission and has assigned a Prescription Drug User Fee Act (PDUFA) target action date of June 22, 2023 for the NDA. https://www.sec.gov/Archives/edgar/data/0001270073/000110465923004841/tm233889d1_ex99-1.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-22"
+     },
+     "end": {
+      "date": "2023-06-22"
+     },
+     "iCalUID": "bap5it56a9hveb2uc7n6iui72g@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3352766420378000\"",
+     "id": "0hc6l3t941j923t33vb3opbp9s",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MGhjNmwzdDk0MWo5MjN0MzN2YjNvcGJwOXMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-14T14:00:10.000Z",
+     "updated": "2023-02-14T14:00:10.189Z",
+     "summary": "CLVSQ Clovis Oncology, Inc. PDUFA",
+     "description": "2023-06-25 The sNDA was accepted for a standard review with a PDUFA date of June 25, 2023. https://www.sec.gov/Archives/edgar/data/0001466301/000119312523032941/d400299d8k.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-25"
+     },
+     "end": {
+      "date": "2023-06-25"
+     },
+     "iCalUID": "0hc6l3t941j923t33vb3opbp9s@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3352939206284000\"",
+     "id": "q0m0lap3ao3q0n8rt9n80bdv9k",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cTBtMGxhcDNhbzNxMG44cnQ5bjgwYmR2OWsgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-15T14:00:03.000Z",
+     "updated": "2023-02-15T14:00:03.142Z",
+     "summary": "ALBO Albireo Pharma, Inc. PDUFA",
+     "description": "2023-06-15 BOSTON, Feb. 14, 2023 (GLOBE NEWSWIRE) -- Albireo Pharma, Inc. (Nasdaq: ALBO), a rare disease company developing novel bile acid modulators to treat pediatric and adult liver diseases, today announced that the U.S. Food and Drug Administration (FDA) has accepted the Companys supplemental New Drug Application (sNDA) and issued a Prescription Drug User Fee Act (PDUFA) action date of June 15, 2023 for a second Bylvay (odevixibat) indication for patients with Alagille syndrome (ALGS). https://www.globenewswire.com/news-release/2023/02/14/2607628/0/en/FDA-Grants-June-15-2023-PDUFA-Date-to-Albireo-for-Bylvay-in-Alagille-Syndrome.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-15"
+     },
+     "end": {
+      "date": "2023-06-15"
+     },
+     "iCalUID": "q0m0lap3ao3q0n8rt9n80bdv9k@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3353284819124000\"",
+     "id": "be7mqkkaac93g2k6t0fk8ej6m8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YmU3bXFra2FhYzkzZzJrNnQwZms4ZWo2bTggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-17T14:00:09.000Z",
+     "updated": "2023-02-17T14:00:09.562Z",
+     "summary": "IRWD IRONWOOD PHARMACEUTICALS INC PDUFA",
+     "description": "2023-06-14 In February 2023, the U.S. FDA granted priority review to our sNDA and assigned a Prescription Drug User Free Act, or PDUFA, date of June 14, 2023. https://www.sec.gov/Archives/edgar/data/0001446847/000155837023001462/irwd-20221231x10k.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-14"
+     },
+     "end": {
+      "date": "2023-06-14"
+     },
+     "iCalUID": "be7mqkkaac93g2k6t0fk8ej6m8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3353803208362000\"",
+     "id": "2kbrakiaa0qnm3p7paaqs0bfhs",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MmticmFraWFhMHFubTNwN3BhYXFzMGJmaHMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-20T14:00:04.000Z",
+     "updated": "2023-02-20T14:00:04.181Z",
+     "summary": "MRK MERCK & CO., INC. PDUFA",
+     "description": "2023-06-05 The FDA granted priority review for the sNDA for PREVYMIS for prophylaxis of cytomegalovirus (CMV) disease in adult kidney transplant recipients at high risk (D+/R-); the Prescription Drug User Fee Act (PDUFA), or target action date, is June 5, 2023. http://www.businesswire.com/news/home/20230217005097/en/U.S.-FDA-Accepts-for-Priority-Review-the-Supplemental-New-Drug-Application-for-Merck%E2%80%99s-PREVYMIS%E2%84%A2-for-Prophylaxis-of-Cytomegalovirus-Disease-in-Kidney-Transplant-Recipients-at-High-Risk",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-05"
+     },
+     "end": {
+      "date": "2023-06-05"
+     },
+     "iCalUID": "2kbrakiaa0qnm3p7paaqs0bfhs@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3354148843786000\"",
+     "id": "d6fs3nanlolc4sov1at3lqsk5g",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZDZmczNuYW5sb2xjNHNvdjFhdDNscXNrNWcgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-22T14:00:21.000Z",
+     "updated": "2023-02-22T14:00:21.893Z",
+     "summary": "HALO Halozyme Therapeutics, Inc. PDUFA",
+     "description": "2023-06-20 In January 2023, argenx announced that the FDA extended the PDUFA date to June 20, 2023. https://www.prnewswire.com/news-releases/halozyme-reports-fourth-quarter-and-full-year-2022-financial-and-operating-results-301752201.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-20"
+     },
+     "end": {
+      "date": "2023-06-20"
+     },
+     "iCalUID": "d6fs3nanlolc4sov1at3lqsk5g@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3354321606518000\"",
+     "id": "h09jrtjemd53q8pl5sj6on2mn8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=aDA5anJ0amVtZDUzcThwbDVzajZvbjJtbjggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-23T14:00:03.000Z",
+     "updated": "2023-02-23T14:00:03.259Z",
+     "summary": "ZLAB Zai Lab Limited PDUFA",
+     "description": "2023-05-29 The Prescription Drug User Fee Act (PDUFA) target date is May 29, 2023. https://www.globenewswire.com/news-release/2023/02/22/2613094/0/en/Zai-Lab-Announces-NDA-Acceptance-of-Sulbactam-Durlobactam-SUL-DUR-for-Infections-Caused-by-Acinetobacter-baumannii-in-China-by-the-NMPA.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-05-29"
+     },
+     "end": {
+      "date": "2023-05-29"
+     },
+     "iCalUID": "h09jrtjemd53q8pl5sj6on2mn8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3355531221038000\"",
+     "id": "l3eqshe9t5r5498af3ag74qihg",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bDNlcXNoZTl0NXI1NDk4YWYzYWc3NHFpaGcgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-02T14:00:10.000Z",
+     "updated": "2023-03-02T14:00:10.519Z",
+     "summary": "ZLAB Zai Lab Limited PDUFA",
+     "description": "2023-06-20 Potential BLA approval by the FDA for SC efgartigimod for gMG in the first half of 2023, with the Prescription Drug User Fee Act (PDUFA) date of June 20, 2023. https://www.globenewswire.com/news-release/2023/03/01/2618687/0/en/Zai-Lab-Announces-Full-Year-2022-Financial-Results-and-Recent-Corporate-Updates.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-20"
+     },
+     "end": {
+      "date": "2023-06-20"
+     },
+     "iCalUID": "l3eqshe9t5r5498af3ag74qihg@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3355704007586000\"",
+     "id": "trpd30qd3r8n0hm9uoaklakua4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=dHJwZDMwcWQzcjhuMGhtOXVvYWtsYWt1YTQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-03T14:00:03.000Z",
+     "updated": "2023-03-03T14:00:03.793Z",
+     "summary": "ARGX ARGENX SE PDUFA",
+     "description": "2023-06-20 FDA review ongoing for SC efgartigimod BLA with PDUFA target action date of June 20, 2023; MAA filed in Japan with approval decision expected by first quarter of 2024 https://www.sec.gov/Archives/edgar/data/0001697862/000110465923027703/tm238287d1_ex99-2.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-20"
+     },
+     "end": {
+      "date": "2023-06-20"
+     },
+     "iCalUID": "trpd30qd3r8n0hm9uoaklakua4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3355704019668000\"",
+     "id": "cinl356r2u36g854703q5cpo90",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=Y2lubDM1NnIydTM2Zzg1NDcwM3E1Y3BvOTAgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-03T14:00:09.000Z",
+     "updated": "2023-03-03T14:00:09.834Z",
+     "summary": "ALDX Aldeyra Therapeutics, Inc. PDUFA",
+     "description": "2023-06-21 This release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including, but not limited to, statements relating to the likelihood and timing of the FDAs potential approval of the NDA for ADX-2191 by the PDUFA date of June 21, 2023, or at any other time and the potential profile, the adequacy of the data included in the NDA submission for ADX-2191, the timing of the potential launch of ADX-2191, if approved, for treatment of primary vitreoretinal lymphoma, benefit and market size of ADX-2191 in primary vitreoretinal lymphoma should the NDA for ADX-2191 be approved by the FDA. https://www.sec.gov/Archives/edgar/data/0001341235/000115752323000387/a53354388ex99_1.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-06-21"
+     },
+     "end": {
+      "date": "2023-06-21"
+     },
+     "iCalUID": "cinl356r2u36g854703q5cpo90@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3362781607684000\"",
+        "id": "tedh0h7rnpshdr2kgdtat48flg",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=dGVkaDBoN3JucHNoZHIya2dkdGF0NDhmbGcgZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2023-04-13T13:00:03.000Z",
+        "updated": "2023-04-13T13:00:03.842Z",
+        "summary": "ESAIY Eisai Co., Ltd. FDA AdCom",
+        "description": "2023-06-09 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. The committee will discuss supplemental biologics license application (sBLA) 761269/s-001, for LEQEMBI (lecanemab) solution for intravenous infusion, submitted by Eisai, Inc., for the treatment of early Alzheimer's disease. This product was approved under 21 CFR 314.500 (subpart H, accelerated approval regulations) for the treatment of Alzheimer’s disease. Confirmatory studies are studies to verify and describe the clinical benefit of a product after it receives accelerated approval. The committee will discuss the confirmatory study, BAN2401-G000-301, conducted to fulfill post-marketing requirement 4384-1 detailed in the January 6, 2023, approval letter, available at https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/761269Orig1s000ltr.pdf. https://www.fda.gov/advisory-committees/advisory-committee-calendar/june-9-2023-meeting-peripheral-and-central-nervous-system-drugs-advisory-committee-meeting",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2023-06-09"
+        },
+        "end": {
+         "date": "2023-06-09"
+        },
+        "iCalUID": "tedh0h7rnpshdr2kgdtat48flg@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+       },
+       {
+        "kind": "calendar#event",
+        "etag": "\"3366583243384000\"",
+        "id": "eg1i7rthvmo2l8s98tf29cuunc",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZWcxaTdydGh2bW8ybDhzOTh0ZjI5Y3V1bmMgZXZnb2hvdm0ybTN0dXZxYWtkZjRoZmVxODRAZw&ctz=America/Los_Angeles",
+        "created": "2023-05-05T13:00:21.000Z",
+        "updated": "2023-05-05T13:00:21.692Z",
+        "summary": "AZN AstraZeneca PLC FDA AdCom",
+        "description": "2023-06-08 The meeting presentations will be heard, viewed, captioned, and recorded through an online teleconferencing platform. The committee will discuss biologics license application (BLA) 761328, for nirsevimab, a long-acting respiratory syncytial virus (RSV) F protein inhibitor monoclonal antibody for intramuscular use, submitted by AstraZeneca AB. The proposed indication is prevention of RSV lower respiratory tract disease in: https://www.fda.gov/advisory-committees/advisory-committee-calendar/june-8-2023-meeting-antimicrobial-drugs-advisory-committee-meeting-announcement-06082023",
+        "creator": {
+         "email": "fdatracker@gmail.com"
+        },
+        "organizer": {
+         "email": "evgohovm2m3tuvqakdf4hfeq84@group.calendar.google.com",
+         "displayName": "Adcom",
+         "self": true
+        },
+        "start": {
+         "date": "2023-06-08"
+        },
+        "end": {
+         "date": "2023-06-08"
+        },
+        "iCalUID": "eg1i7rthvmo2l8s98tf29cuunc@google.com",
+        "sequence": 0,
+        "reminders": {
+         "useDefault": false
+        },
+        "eventType": "default"
+       }
+   ]

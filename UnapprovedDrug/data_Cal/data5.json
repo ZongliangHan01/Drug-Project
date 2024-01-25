@@ -1,0 +1,343 @@
+[
+    {
+     "kind": "calendar#event",
+     "etag": "\"3336177618134000\"",
+     "id": "ov231pr0v59q6r1iifs3vvjoi4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=b3YyMzFwcjB2NTlxNnIxaWlmczN2dmpvaTQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-11-10T14:00:09.000Z",
+     "updated": "2022-11-10T14:00:09.067Z",
+     "summary": "TARS Tarsus Pharmaceuticals, Inc PDUFA",
+     "description": "2023-08-25 Its lead product candidate, TP-03, is a novel therapeutic which has demonstrated positive results in two pivotal trials for the treatment of Demodex blepharitis, and the New Drug Application has been accepted by the U.S. Food &amp; Drug Administration (FDA) with a PDUFA target action date of August 25, 2023. https://www.globenewswire.com/news-release/2022/11/09/2551798/0/en/Tarsus-Reports-Third-Quarter-2022-Financial-Results-and-Recent-Business-Achievements.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-25"
+     },
+     "end": {
+      "date": "2023-08-25"
+     },
+     "iCalUID": "ov231pr0v59q6r1iifs3vvjoi4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3336350418110000\"",
+     "id": "bd7m72t9ei4ucs0ae8d4juld7k",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=YmQ3bTcydDllaTR1Y3MwYWU4ZDRqdWxkN2sgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-11-11T14:00:09.000Z",
+     "updated": "2022-11-11T14:00:09.055Z",
+     "summary": "LIAN LianBio PDUFA",
+     "description": "2023-08-25 The FDA accepted the submission and set a Prescription Drug User Fee Act (PDUFA) target action date of August 25, 2023. https://www.globenewswire.com/news-release/2022/11/10/2553807/0/en/LianBio-Reports-Third-Quarter-2022-Financial-Results-and-Provides-Corporate-Update.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-25"
+     },
+     "end": {
+      "date": "2023-08-25"
+     },
+     "iCalUID": "bd7m72t9ei4ucs0ae8d4juld7k@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3343608019066000\"",
+     "id": "39q8rn8qahjda5qffng0o002v8",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MzlxOHJuOHFhaGpkYTVxZmZuZzBvMDAydjggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2022-12-23T14:00:09.000Z",
+     "updated": "2022-12-23T14:00:09.533Z",
+     "summary": "NBIX Neurocrine Biosciences, Inc. PDUFA",
+     "description": "2023-08-20 The agency set a Prescription Drug User Fee Act (PDUFA) target action date of August 20, 2023. https://www.prnewswire.com/news-releases/neurocrine-biosciences-announces-us-fda-accepts-supplemental-new-drug-application-for-valbenazine-as-a-treatment-for-chorea-associated-with-huntington-disease-301709335.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-20"
+     },
+     "end": {
+      "date": "2023-08-20"
+     },
+     "iCalUID": "39q8rn8qahjda5qffng0o002v8@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3346545605902000\"",
+     "id": "njq4oadt77nm0e4uo4ddmu2pto",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=bmpxNG9hZHQ3N25tMGU0dW80ZGRtdTJwdG8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-01-09T14:00:02.000Z",
+     "updated": "2023-01-09T14:00:02.951Z",
+     "summary": "RVNC REVANCE THERAPEUTICS, INC. PDUFA",
+     "description": "2023-08-19 - Prescription Drug User Fee Act (PDUFA) date of August 19, 2023 - http://www.businesswire.com/news/home/20230106005453/en/Revance-Announces-U.S.-FDA-Acceptance-of-Supplemental-Biologics-License-Application-sBLA-for-DAXXIFY%C2%AE-DaxibotulinumtoxinA-lanm-for-Injection-for-the-Treatment-of-Cervical-Dystonia",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-19"
+     },
+     "end": {
+      "date": "2023-08-19"
+     },
+     "iCalUID": "njq4oadt77nm0e4uo4ddmu2pto@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3351556806516000\"",
+     "id": "dpba6vdve4ni5kn40jqg0s13vo",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZHBiYTZ2ZHZlNG5pNWtuNDBqcWcwczEzdm8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-07T14:00:03.000Z",
+     "updated": "2023-02-07T14:00:03.258Z",
+     "summary": "BIIB Biogen Inc. PDUFA",
+     "description": "2023-08-05 The application has been granted priority review and the FDA has assigned a Prescription Drug User Fee Act (PDUFA) action date of August 5, 2023. https://www.globenewswire.com/news-release/2023/02/06/2601896/0/en/Biogen-and-Sage-Therapeutics-Announce-FDA-Accepts-Filing-of-New-Drug-Application-and-Grants-Priority-Review-of-Zuranolone-in-the-Treatment-of-Major-Depressive-Disorder-and-Postpart.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-05"
+     },
+     "end": {
+      "date": "2023-08-05"
+     },
+     "iCalUID": "dpba6vdve4ni5kn40jqg0s13vo@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3351556818562000\"",
+     "id": "ejl37cm487nbi6uph1tg4r4me4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=ZWpsMzdjbTQ4N25iaTZ1cGgxdGc0cjRtZTQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-07T14:00:09.000Z",
+     "updated": "2023-02-07T14:00:09.281Z",
+     "summary": "SAGE SAGE THERAPEUTICS, INC. PDUFA",
+     "description": "2023-08-05 The application has been granted priority review and the FDA has assigned a Prescription Drug User Fee Act (PDUFA) action date of August 5, 2023. http://www.businesswire.com/news/home/20230205005025/en/Sage-Therapeutics-and-Biogen-Announce-FDA-Accepts-Filing-of-New-Drug-Application-and-Grants-Priority-Review-of-Zuranolone-in-the-Treatment-of-Major-Depressive-Disorder-and-Postpartum-Depression",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-05"
+     },
+     "end": {
+      "date": "2023-08-05"
+     },
+     "iCalUID": "ejl37cm487nbi6uph1tg4r4me4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3353112007090000\"",
+     "id": "04gii34tk8o9v6jv6uq4hjcbt4",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=MDRnaWkzNHRrOG85djZqdjZ1cTRoamNidDQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-16T14:00:03.000Z",
+     "updated": "2023-02-16T14:00:03.545Z",
+     "summary": "GRTX Galera Therapeutics, Inc. PDUFA",
+     "description": "2023-08-09 The FDA has assigned a Prescription Drug User Fee Act, or PDUFA, target action date of August 9, 2023. https://www.sec.gov/Archives/edgar/data/0001563577/000119312523039798/d419811d8k.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-09"
+     },
+     "end": {
+      "date": "2023-08-09"
+     },
+     "iCalUID": "04gii34tk8o9v6jv6uq4hjcbt4@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3353284807082000\"",
+     "id": "kcvvl5ipnrgmg646si8ukl8h04",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=a2N2dmw1aXBucmdtZzY0NnNpOHVrbDhoMDQgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-17T14:00:03.000Z",
+     "updated": "2023-02-17T14:00:03.541Z",
+     "summary": "ISEE IVERIC BIO, INC. PDUFA",
+     "description": "2023-08-19 The NDA has been granted Priority Review with a Prescription Drug User Fee Act (PDUFA) goal date of August 19, 2023. http://www.businesswire.com/news/home/20230216005773/en/Iveric-Bio-Announces-FDA-Accepts-New-Drug-Application-and-Grants-Priority-Review-for-Avacincaptad-Pegol-for-the-Treatment-of-Geographic-Atrophy",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-19"
+     },
+     "end": {
+      "date": "2023-08-19"
+     },
+     "iCalUID": "kcvvl5ipnrgmg646si8ukl8h04@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3354148806896000\"",
+     "id": "rso8bd658r8p8gl8pk54m52698",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cnNvOGJkNjU4cjhwOGdsOHBrNTRtNTI2OTggNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-02-22T14:00:03.000Z",
+     "updated": "2023-02-22T14:00:03.448Z",
+     "summary": "REGN Regeneron Pharmaceuticals, Inc. PDUFA",
+     "description": "2023-08-20 The target action date for the FDA decision is August 20, 2023. https://www.globenewswire.com/news-release/2023/02/21/2611922/0/en/Pozelimab-C5-Antibody-BLA-for-Treatment-of-Children-and-Adults-with-Ultra-rare-CHAPLE-Disease-Accepted-for-FDA-Priority-Review.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-20"
+     },
+     "end": {
+      "date": "2023-08-20"
+     },
+     "iCalUID": "rso8bd658r8p8gl8pk54m52698@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3356568006970000\"",
+     "id": "8tkvhc09t7kddd7g287n6l269o",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=OHRrdmhjMDl0N2tkZGQ3ZzI4N242bDI2OW8gNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-08T14:00:03.000Z",
+     "updated": "2023-03-08T14:00:03.485Z",
+     "summary": "MESO Mesoblast Limited PDUFA",
+     "description": "2023-08-02 FDA considers the resubmission to be a complete response and has set a Prescription Drug User Fee Act (PDUFA) goal date of August 2, 2023. https://www.globenewswire.com/news-release/2023/03/08/2622620/0/en/FDA-Accepts-Mesoblast-s-Resubmission-of-the-Biologic-License-Application-for-Remestemcel-L-In-Children-with-Steroid-Refractory-Acute-Graft-Versus-Host-Disease-as-a-Complete-Respons.html",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-02"
+     },
+     "end": {
+      "date": "2023-08-02"
+     },
+     "iCalUID": "8tkvhc09t7kddd7g287n6l269o@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    },
+    {
+     "kind": "calendar#event",
+     "etag": "\"3360016807388000\"",
+     "id": "qvmhe9i4cr3b1dni9e7nsba61s",
+     "status": "confirmed",
+     "htmlLink": "https://www.google.com/calendar/event?eid=cXZtaGU5aTRjcjNiMWRuaTllN25zYmE2MXMgNWRzbzg1ODk0ODZpcnRqNTNzZGtyNGg2ZWtAZw&ctz=America/Los_Angeles",
+     "created": "2023-03-28T13:00:03.000Z",
+     "updated": "2023-03-28T13:00:03.694Z",
+     "summary": "DCTH DELCATH SYSTEMS, INC. PDUFA",
+     "description": "2023-08-14 FDA has established an August 14, 2023 PDUFA date for the resubmission. https://www.sec.gov/Archives/edgar/data/0000872912/000119312523080510/d382414dex991.htm",
+     "creator": {
+      "email": "fdatracker@gmail.com"
+     },
+     "organizer": {
+      "email": "5dso8589486irtj53sdkr4h6ek@group.calendar.google.com",
+      "displayName": "PDUFA",
+      "self": true
+     },
+     "start": {
+      "date": "2023-08-14"
+     },
+     "end": {
+      "date": "2023-08-14"
+     },
+     "iCalUID": "qvmhe9i4cr3b1dni9e7nsba61s@google.com",
+     "sequence": 0,
+     "reminders": {
+      "useDefault": false
+     },
+     "eventType": "default"
+    }
+   ]
