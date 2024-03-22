@@ -1,0 +1,3457 @@
+[
+    {
+        "id": 9987,
+        "drug_name": "KEYTRUDA (pembrolizumab) combined with chemotherapy",
+        "clinical_trial_id": "NCT03675737",
+        "has_trial_insight_page": 0,
+        "indication": "Advanced unresectable or metastatic gastric (GEJ) adenocarcinoma",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-11-17",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/MRK\/news\/170745",
+        "note": "Approved November 17, 2023.",
+        "company_entity_id": 383,
+        "company_ticker": "MRK",
+        "company_name": "Merck & Company Inc.",
+        "company_price": "122.6600",
+        "company_change": -0.10999999999999999,
+        "company_percent_change": -0.08999999999999997,
+        "company_optionable": 1,
+        "company_number_of_shares": 2532643872,
+        "price_change_sparkline": [
+            [
+                120.78,
+                1706677200
+            ],
+            [
+                126.38,
+                1706763600
+            ],
+            [
+                126.41,
+                1706850000
+            ],
+            [
+                126.18,
+                1707109200
+            ],
+            [
+                126.88,
+                1707195600
+            ],
+            [
+                127.47,
+                1707282000
+            ],
+            [
+                126.61,
+                1707368400
+            ],
+            [
+                125.45,
+                1707454800
+            ],
+            [
+                125.34,
+                1707714000
+            ],
+            [
+                125.43,
+                1707800400
+            ],
+            [
+                125.82,
+                1707886800
+            ],
+            [
+                126.54,
+                1707973200
+            ],
+            [
+                127.79,
+                1708059600
+            ],
+            [
+                127.37,
+                1708405200
+            ],
+            [
+                128.12,
+                1708491600
+            ],
+            [
+                129.26,
+                1708578000
+            ],
+            [
+                129.45,
+                1708664400
+            ],
+            [
+                128.84,
+                1708923600
+            ],
+            [
+                129.03,
+                1709010000
+            ],
+            [
+                128.19,
+                1709096400
+            ],
+            [
+                127.15,
+                1709182800
+            ],
+            [
+                126.96,
+                1709269200
+            ],
+            [
+                124.05,
+                1709528400
+            ],
+            [
+                122.83,
+                1709614800
+            ],
+            [
+                123.75,
+                1709701200
+            ],
+            [
+                123.99,
+                1709787600
+            ],
+            [
+                123.5,
+                1709874000
+            ],
+            [
+                122.77,
+                1710129600
+            ],
+            [
+                122.66,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 9882,
+        "drug_name": "Truqap (capivasertib) plus Faslodex",
+        "clinical_trial_id": null,
+        "has_trial_insight_page": 0,
+        "indication": "HR-positive breast cancer",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-11-17",
+        "link": "https:\/\/www.astrazeneca.com\/media-centre\/press-releases\/2023\/truqap-approved-in-us-for-hr-plus-breast-cancer.html",
+        "note": "Approved November 17, 2023.",
+        "company_entity_id": 374,
+        "company_ticker": "AZN",
+        "company_name": "AstraZeneca PLC",
+        "company_price": "67.4000",
+        "company_change": -0.27,
+        "company_percent_change": -0.4,
+        "company_optionable": 1,
+        "company_number_of_shares": 3100378676,
+        "price_change_sparkline": [
+            [
+                65.6319311986485,
+                1706677200
+            ],
+            [
+                65.8387545112493,
+                1706763600
+            ],
+            [
+                64.647058281502,
+                1706850000
+            ],
+            [
+                64.1546218229287,
+                1707109200
+            ],
+            [
+                66.0258803655072,
+                1707195600
+            ],
+            [
+                65.5432926361053,
+                1707282000
+            ],
+            [
+                62.5591276971512,
+                1707368400
+            ],
+            [
+                61.3181878215465,
+                1707454800
+            ],
+            [
+                60.4810458419719,
+                1707714000
+            ],
+            [
+                60.1067941334562,
+                1707800400
+            ],
+            [
+                60.7272640712585,
+                1707886800
+            ],
+            [
+                61.8894141134915,
+                1707973200
+            ],
+            [
+                63.2977823850111,
+                1708059600
+            ],
+            [
+                64.056134531214,
+                1708405200
+            ],
+            [
+                64.1053781770713,
+                1708491600
+            ],
+            [
+                64.13,
+                1708578000
+            ],
+            [
+                65.83,
+                1708664400
+            ],
+            [
+                65.93,
+                1708923600
+            ],
+            [
+                66.33,
+                1709010000
+            ],
+            [
+                65.35,
+                1709096400
+            ],
+            [
+                64.16,
+                1709182800
+            ],
+            [
+                64.6,
+                1709269200
+            ],
+            [
+                64.79,
+                1709528400
+            ],
+            [
+                64.81,
+                1709614800
+            ],
+            [
+                65.27,
+                1709701200
+            ],
+            [
+                66.19,
+                1709787600
+            ],
+            [
+                66.5,
+                1709874000
+            ],
+            [
+                67.67,
+                1710129600
+            ],
+            [
+                67.4,
+                1710216000
+            ]
+        ],
+        "statuses": [
+            {
+                "label": "Fast Track Designation (FTD)",
+                "abbreviation": "FTD",
+                "description": "Fast Track Designation (FTD)",
+                "description_html": "<p>Fast Track Designation (FTD)<\/p>\n"
+            }
+        ]
+    },
+    {
+        "id": 10861,
+        "drug_name": "Forteo (teriparatide injection)",
+        "clinical_trial_id": null,
+        "has_trial_insight_page": 0,
+        "indication": "Osteoporosis",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-11-17",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/TEVA\/news\/170808",
+        "note": "FDA approval of biosimilar generic drug, noted November 17, 2023.",
+        "company_entity_id": 390,
+        "company_ticker": "TEVA",
+        "company_name": "Teva Pharmaceutical Industries Limited American Depositary Shares",
+        "company_price": "13.4900",
+        "company_change": 0.14,
+        "company_percent_change": 1.05,
+        "company_optionable": 1,
+        "company_number_of_shares": 1121094011,
+        "price_change_sparkline": [
+            [
+                12.1,
+                1706677200
+            ],
+            [
+                12.46,
+                1706763600
+            ],
+            [
+                12.28,
+                1706850000
+            ],
+            [
+                12.38,
+                1707109200
+            ],
+            [
+                12.25,
+                1707195600
+            ],
+            [
+                12.14,
+                1707282000
+            ],
+            [
+                12.09,
+                1707368400
+            ],
+            [
+                12.01,
+                1707454800
+            ],
+            [
+                12.91,
+                1707714000
+            ],
+            [
+                12.92,
+                1707800400
+            ],
+            [
+                13.17,
+                1707886800
+            ],
+            [
+                13.2,
+                1707973200
+            ],
+            [
+                13.02,
+                1708059600
+            ],
+            [
+                13.07,
+                1708405200
+            ],
+            [
+                13,
+                1708491600
+            ],
+            [
+                13.05,
+                1708578000
+            ],
+            [
+                12.89,
+                1708664400
+            ],
+            [
+                13.29,
+                1708923600
+            ],
+            [
+                13.3,
+                1709010000
+            ],
+            [
+                13.09,
+                1709096400
+            ],
+            [
+                13.15,
+                1709182800
+            ],
+            [
+                13.5,
+                1709269200
+            ],
+            [
+                13.44,
+                1709528400
+            ],
+            [
+                13.54,
+                1709614800
+            ],
+            [
+                13.53,
+                1709701200
+            ],
+            [
+                13.71,
+                1709787600
+            ],
+            [
+                13.62,
+                1709874000
+            ],
+            [
+                13.35,
+                1710129600
+            ],
+            [
+                13.49,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 6071,
+        "drug_name": "OGSIVEO (Nirogacestat) - (DeFi)",
+        "clinical_trial_id": "NCT03785964",
+        "has_trial_insight_page": 1,
+        "indication": "Desmoid tumors",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-11-27",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/SWTX\/news\/172018",
+        "note": "FDA Approved on November 27, 2023.",
+        "company_entity_id": 701,
+        "company_ticker": "SWTX",
+        "company_name": "SpringWorks Therapeutics Inc.",
+        "company_price": "49.7500",
+        "company_change": 1.31,
+        "company_percent_change": 2.7,
+        "company_optionable": 1,
+        "company_number_of_shares": 73786845,
+        "price_change_sparkline": [
+            [
+                44.13,
+                1706677200
+            ],
+            [
+                44.53,
+                1706763600
+            ],
+            [
+                46.155,
+                1706850000
+            ],
+            [
+                48.08,
+                1707109200
+            ],
+            [
+                49.07,
+                1707195600
+            ],
+            [
+                44.75,
+                1707282000
+            ],
+            [
+                46.43,
+                1707368400
+            ],
+            [
+                46.96,
+                1707454800
+            ],
+            [
+                45.91,
+                1707714000
+            ],
+            [
+                44.7,
+                1707800400
+            ],
+            [
+                46.53,
+                1707886800
+            ],
+            [
+                48.03,
+                1707973200
+            ],
+            [
+                52.38,
+                1708059600
+            ],
+            [
+                48.82,
+                1708405200
+            ],
+            [
+                49.22,
+                1708491600
+            ],
+            [
+                49.11,
+                1708578000
+            ],
+            [
+                49.12,
+                1708664400
+            ],
+            [
+                48.48,
+                1708923600
+            ],
+            [
+                52.07,
+                1709010000
+            ],
+            [
+                48.61,
+                1709096400
+            ],
+            [
+                49.26,
+                1709182800
+            ],
+            [
+                51.01,
+                1709269200
+            ],
+            [
+                49.75,
+                1709528400
+            ],
+            [
+                50.34,
+                1709614800
+            ],
+            [
+                52.42,
+                1709701200
+            ],
+            [
+                52.5,
+                1709787600
+            ],
+            [
+                51.07,
+                1709874000
+            ],
+            [
+                48.44,
+                1710129600
+            ],
+            [
+                49.75,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 10042,
+        "drug_name": "Fabhalta (iptacopan)",
+        "clinical_trial_id": "NCT04558918",
+        "has_trial_insight_page": 0,
+        "indication": "Paroxysmal nocturnal hemoglobinuria (PNH)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-06",
+        "link": "https:\/\/www.novartis.com\/news\/media-releases\/novartis-receives-fda-approval-fabhalta-iptacopan-offering-superior-hemoglobin-improvement-absence-transfusions-first-oral-monotherapy-adults-pnh",
+        "note": "Approved December 6, 2023.",
+        "company_entity_id": 386,
+        "company_ticker": "NVS",
+        "company_name": "Novartis AG",
+        "company_price": "99.7700",
+        "company_change": -1.6,
+        "company_percent_change": -1.58,
+        "company_optionable": 1,
+        "company_number_of_shares": 2044033986,
+        "price_change_sparkline": [
+            [
+                99.701426650332,
+                1706677200
+            ],
+            [
+                101.493681927897,
+                1706763600
+            ],
+            [
+                99.9423211768864,
+                1706850000
+            ],
+            [
+                99.701426650332,
+                1707109200
+            ],
+            [
+                99.9615927390107,
+                1707195600
+            ],
+            [
+                99.6917908692698,
+                1707282000
+            ],
+            [
+                97.6682768462129,
+                1707368400
+            ],
+            [
+                97.3502960711611,
+                1707454800
+            ],
+            [
+                96.8685070180523,
+                1707714000
+            ],
+            [
+                95.4520472019125,
+                1707800400
+            ],
+            [
+                95.4424114208503,
+                1707886800
+            ],
+            [
+                96.0012867224565,
+                1707973200
+            ],
+            [
+                96.5408904619384,
+                1708059600
+            ],
+            [
+                98.9787430706688,
+                1708405200
+            ],
+            [
+                98.824570573674,
+                1708491600
+            ],
+            [
+                99.0558293191662,
+                1708578000
+            ],
+            [
+                100.115765236006,
+                1708664400
+            ],
+            [
+                99.4894394669641,
+                1708923600
+            ],
+            [
+                99.3930816563424,
+                1709010000
+            ],
+            [
+                98.49695401756,
+                1709096400
+            ],
+            [
+                97.2924813847881,
+                1709182800
+            ],
+            [
+                98.3427815205652,
+                1709269200
+            ],
+            [
+                98.2560594910056,
+                1709528400
+            ],
+            [
+                98.3813246448139,
+                1709614800
+            ],
+            [
+                98.9016568221714,
+                1709701200
+            ],
+            [
+                99.93,
+                1709787600
+            ],
+            [
+                100.71,
+                1709874000
+            ],
+            [
+                101.37,
+                1710129600
+            ],
+            [
+                99.77,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 7741,
+        "drug_name": "Beyfortus (Nirsevimab) - (MEDLEY)",
+        "clinical_trial_id": "NCT03959488",
+        "has_trial_insight_page": 1,
+        "indication": "Respiratory Syncytial Virus",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-06",
+        "link": "https:\/\/www.sanofi.com\/assets\/dotcom\/content-app\/events\/investor-presentation\/2023\/r-and-d-day-2023\/Presentation.pdf",
+        "note": "Approved, noted December 6, 2023.",
+        "company_entity_id": 389,
+        "company_ticker": "SNY",
+        "company_name": "Sanofi",
+        "company_price": "48.4600",
+        "company_change": 0.11,
+        "company_percent_change": 0.23,
+        "company_optionable": 1,
+        "company_number_of_shares": 2529599938,
+        "price_change_sparkline": [
+            [
+                49.9,
+                1706677200
+            ],
+            [
+                48.41,
+                1706763600
+            ],
+            [
+                47.23,
+                1706850000
+            ],
+            [
+                46.95,
+                1707109200
+            ],
+            [
+                47.06,
+                1707195600
+            ],
+            [
+                46.92,
+                1707282000
+            ],
+            [
+                46.56,
+                1707368400
+            ],
+            [
+                46.5,
+                1707454800
+            ],
+            [
+                46.34,
+                1707714000
+            ],
+            [
+                45.75,
+                1707800400
+            ],
+            [
+                45.8,
+                1707886800
+            ],
+            [
+                46.39,
+                1707973200
+            ],
+            [
+                46.18,
+                1708059600
+            ],
+            [
+                46.85,
+                1708405200
+            ],
+            [
+                47.92,
+                1708491600
+            ],
+            [
+                47.8,
+                1708578000
+            ],
+            [
+                48.77,
+                1708664400
+            ],
+            [
+                48.2,
+                1708923600
+            ],
+            [
+                48.21,
+                1709010000
+            ],
+            [
+                48,
+                1709096400
+            ],
+            [
+                47.85,
+                1709182800
+            ],
+            [
+                47.29,
+                1709269200
+            ],
+            [
+                47.15,
+                1709528400
+            ],
+            [
+                47.5,
+                1709614800
+            ],
+            [
+                47.68,
+                1709701200
+            ],
+            [
+                48.06,
+                1709787600
+            ],
+            [
+                48.25,
+                1709874000
+            ],
+            [
+                48.35,
+                1710129600
+            ],
+            [
+                48.46,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 11292,
+        "drug_name": "CRESEMBA (isavuconazonium sulfate)",
+        "clinical_trial_id": null,
+        "has_trial_insight_page": 0,
+        "indication": "Invasive Aspergillosis and Invasive Mucormycosis in Children",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-08",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/ALPMY\/news\/191095",
+        "note": "Approved December 8, 2023.",
+        "company_entity_id": 2240,
+        "company_ticker": "ALPMY",
+        "company_name": "Astellas Pharma Inc. ADR",
+        "company_price": "10.7600",
+        "company_change": -0.13,
+        "company_percent_change": -1.19,
+        "company_optionable": 0,
+        "company_number_of_shares": 1808873137,
+        "price_change_sparkline": [
+            [
+                11.6,
+                1706677200
+            ],
+            [
+                11.55,
+                1706763600
+            ],
+            [
+                11.35,
+                1706850000
+            ],
+            [
+                11,
+                1707109200
+            ],
+            [
+                10.89,
+                1707195600
+            ],
+            [
+                10.92,
+                1707282000
+            ],
+            [
+                10.73,
+                1707368400
+            ],
+            [
+                10.79,
+                1707454800
+            ],
+            [
+                10.82,
+                1707714000
+            ],
+            [
+                10.89,
+                1707800400
+            ],
+            [
+                11.075,
+                1707886800
+            ],
+            [
+                11.05,
+                1707973200
+            ],
+            [
+                11.1,
+                1708059600
+            ],
+            [
+                11.14,
+                1708405200
+            ],
+            [
+                11.12,
+                1708491600
+            ],
+            [
+                10.96,
+                1708578000
+            ],
+            [
+                10.99,
+                1708664400
+            ],
+            [
+                11.03,
+                1708923600
+            ],
+            [
+                10.99,
+                1709010000
+            ],
+            [
+                10.98,
+                1709096400
+            ],
+            [
+                10.93,
+                1709182800
+            ],
+            [
+                11.15,
+                1709269200
+            ],
+            [
+                11.08,
+                1709528400
+            ],
+            [
+                10.8,
+                1709614800
+            ],
+            [
+                10.81,
+                1709701200
+            ],
+            [
+                10.75,
+                1709787600
+            ],
+            [
+                10.62,
+                1709874000
+            ],
+            [
+                10.89,
+                1710129600
+            ],
+            [
+                10.76,
+                1710216000
+            ]
+        ],
+        "statuses": [
+            {
+                "label": "Orphan Drug Designation (ODD)",
+                "abbreviation": "ODD",
+                "description": "Orphan Drug Designation (ODD)",
+                "description_html": "<p>Orphan Drug Designation (ODD)<\/p>\n"
+            }
+        ]
+    },
+    {
+        "id": 4741,
+        "drug_name": "Casgevy (Exagamglogene autotemcel (exa-cel))",
+        "clinical_trial_id": null,
+        "has_trial_insight_page": 0,
+        "indication": "Sickle cell disease",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-08",
+        "link": "https:\/\/www.statnews.com\/2023\/12\/08\/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease\/?utm_campaign=breaking_news&utm_medium=email&_hsmi=285761583&_hsenc=p2ANqtz--44VxqO_8gPBayRbtEFZqn_HP52sZDj7C5-dHs3lqFYfm5bje0rwbFDDWXLkVxNwRJyNGRlq8-7In_C0rnMBw_kBhrHA&utm_content=285761583&utm_source=hs_email",
+        "note": "Approved December 8, 2023",
+        "company_entity_id": 544,
+        "company_ticker": "CRSP",
+        "company_name": "CRISPR Therapeutics AG",
+        "company_price": "75.3000",
+        "company_change": -1.52,
+        "company_percent_change": -1.98,
+        "company_optionable": 1,
+        "company_number_of_shares": 80275950,
+        "price_change_sparkline": [
+            [
+                62.95,
+                1706677200
+            ],
+            [
+                64.67,
+                1706763600
+            ],
+            [
+                64.75,
+                1706850000
+            ],
+            [
+                64.51,
+                1707109200
+            ],
+            [
+                66.88,
+                1707195600
+            ],
+            [
+                65.72,
+                1707282000
+            ],
+            [
+                68.83,
+                1707368400
+            ],
+            [
+                70.01,
+                1707454800
+            ],
+            [
+                76.44,
+                1707714000
+            ],
+            [
+                72.78,
+                1707800400
+            ],
+            [
+                79.04,
+                1707886800
+            ],
+            [
+                84.48,
+                1707973200
+            ],
+            [
+                82.22,
+                1708059600
+            ],
+            [
+                78.73,
+                1708405200
+            ],
+            [
+                82.41,
+                1708491600
+            ],
+            [
+                86.19,
+                1708578000
+            ],
+            [
+                83.99,
+                1708664400
+            ],
+            [
+                86.06,
+                1708923600
+            ],
+            [
+                89.12,
+                1709010000
+            ],
+            [
+                87.68,
+                1709096400
+            ],
+            [
+                84.22,
+                1709182800
+            ],
+            [
+                83.75,
+                1709269200
+            ],
+            [
+                81.74,
+                1709528400
+            ],
+            [
+                80.99,
+                1709614800
+            ],
+            [
+                80.83,
+                1709701200
+            ],
+            [
+                79.37,
+                1709787600
+            ],
+            [
+                78.92,
+                1709874000
+            ],
+            [
+                76.82,
+                1710129600
+            ],
+            [
+                75.3,
+                1710216000
+            ]
+        ],
+        "statuses": [
+            {
+                "label": "Fast Track Designation (FTD)",
+                "abbreviation": "FTD",
+                "description": "Fast Track Designation (FTD)",
+                "description_html": "<p>Fast Track Designation (FTD)<\/p>\n"
+            },
+            {
+                "label": "Orphan Drug Designation (ODD)",
+                "abbreviation": "ODD",
+                "description": "Orphan Drug Designation (ODD)",
+                "description_html": "<p>Orphan Drug Designation (ODD)<\/p>\n"
+            }
+        ]
+    },
+    {
+        "id": 4741,
+        "drug_name": "Casgevy (Exagamglogene autotemcel (exa-cel))",
+        "clinical_trial_id": null,
+        "has_trial_insight_page": 0,
+        "indication": "Sickle cell disease",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-08",
+        "link": "https:\/\/www.statnews.com\/2023\/12\/08\/fda-approves-casgevy-crispr-based-medicine-for-treatment-of-sickle-cell-disease\/?utm_campaign=breaking_news&utm_medium=email&_hsmi=285761583&_hsenc=p2ANqtz--44VxqO_8gPBayRbtEFZqn_HP52sZDj7C5-dHs3lqFYfm5bje0rwbFDDWXLkVxNwRJyNGRlq8-7In_C0rnMBw_kBhrHA&utm_content=285761583&utm_source=hs_email",
+        "note": "Approved December 8, 2023",
+        "company_entity_id": 306,
+        "company_ticker": "VRTX",
+        "company_name": "Vertex Pharmaceuticals Incorporated",
+        "company_price": "412.4500",
+        "company_change": -2.02,
+        "company_percent_change": -0.49,
+        "company_optionable": 1,
+        "company_number_of_shares": 258307816,
+        "price_change_sparkline": [
+            [
+                433.38,
+                1706677200
+            ],
+            [
+                433.87,
+                1706763600
+            ],
+            [
+                424.68,
+                1706850000
+            ],
+            [
+                428.89,
+                1707109200
+            ],
+            [
+                416.13,
+                1707195600
+            ],
+            [
+                419.08,
+                1707282000
+            ],
+            [
+                423.06,
+                1707368400
+            ],
+            [
+                422.91,
+                1707454800
+            ],
+            [
+                418.53,
+                1707714000
+            ],
+            [
+                416.04,
+                1707800400
+            ],
+            [
+                417.88,
+                1707886800
+            ],
+            [
+                426.29,
+                1707973200
+            ],
+            [
+                422.2,
+                1708059600
+            ],
+            [
+                420.64,
+                1708405200
+            ],
+            [
+                419.63,
+                1708491600
+            ],
+            [
+                426.78,
+                1708578000
+            ],
+            [
+                430.11,
+                1708664400
+            ],
+            [
+                433.48,
+                1708923600
+            ],
+            [
+                430.92,
+                1709010000
+            ],
+            [
+                426.97,
+                1709096400
+            ],
+            [
+                420.74,
+                1709182800
+            ],
+            [
+                432.76,
+                1709269200
+            ],
+            [
+                424.03,
+                1709528400
+            ],
+            [
+                415.44,
+                1709614800
+            ],
+            [
+                411.85,
+                1709701200
+            ],
+            [
+                410.54,
+                1709787600
+            ],
+            [
+                413.59,
+                1709874000
+            ],
+            [
+                414.47,
+                1710129600
+            ],
+            [
+                412.45,
+                1710216000
+            ]
+        ],
+        "statuses": [
+            {
+                "label": "Fast Track Designation (FTD)",
+                "abbreviation": "FTD",
+                "description": "Fast Track Designation (FTD)",
+                "description_html": "<p>Fast Track Designation (FTD)<\/p>\n"
+            },
+            {
+                "label": "Orphan Drug Designation (ODD)",
+                "abbreviation": "ODD",
+                "description": "Orphan Drug Designation (ODD)",
+                "description_html": "<p>Orphan Drug Designation (ODD)<\/p>\n"
+            }
+        ]
+    },
+    {
+        "id": 3409,
+        "drug_name": "LYFGENIA (lovotibeglogene autotemcel)",
+        "clinical_trial_id": "NCT02140554",
+        "has_trial_insight_page": 0,
+        "indication": "Sickle cell disease",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-08",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/BLUE\/news\/174284",
+        "note": "Approved December 8, 2023.",
+        "company_entity_id": 68,
+        "company_ticker": "BLUE",
+        "company_name": "bluebird bio Inc.",
+        "company_price": "1.3450",
+        "company_change": -0.050000000000000044,
+        "company_percent_change": -3.24,
+        "company_optionable": 1,
+        "company_number_of_shares": 109336211,
+        "price_change_sparkline": [
+            [
+                1.02,
+                1706677200
+            ],
+            [
+                0.9987,
+                1706763600
+            ],
+            [
+                0.9561,
+                1706850000
+            ],
+            [
+                0.9052,
+                1707109200
+            ],
+            [
+                0.94,
+                1707195600
+            ],
+            [
+                0.9357,
+                1707282000
+            ],
+            [
+                1.05,
+                1707368400
+            ],
+            [
+                1.03,
+                1707454800
+            ],
+            [
+                1.09,
+                1707714000
+            ],
+            [
+                0.9826,
+                1707800400
+            ],
+            [
+                1.025,
+                1707886800
+            ],
+            [
+                1.08,
+                1707973200
+            ],
+            [
+                1.02,
+                1708059600
+            ],
+            [
+                1.1,
+                1708405200
+            ],
+            [
+                1.09,
+                1708491600
+            ],
+            [
+                1.18,
+                1708578000
+            ],
+            [
+                1.25,
+                1708664400
+            ],
+            [
+                1.46,
+                1708923600
+            ],
+            [
+                1.75,
+                1709010000
+            ],
+            [
+                1.68,
+                1709096400
+            ],
+            [
+                1.39,
+                1709182800
+            ],
+            [
+                1.565,
+                1709269200
+            ],
+            [
+                1.53,
+                1709528400
+            ],
+            [
+                1.39,
+                1709614800
+            ],
+            [
+                1.45,
+                1709701200
+            ],
+            [
+                1.45,
+                1709787600
+            ],
+            [
+                1.5,
+                1709874000
+            ],
+            [
+                1.39,
+                1710129600
+            ],
+            [
+                1.345,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2410,
+        "drug_name": "Cytisine - (ORCA-2)",
+        "clinical_trial_id": "NCT04576949",
+        "has_trial_insight_page": 1,
+        "indication": "Smoking cessation",
+        "label": "NDA Filing",
+        "value": "ndaFiling",
+        "simplified_stage": "phase4",
+        "stageid": 10,
+        "stage_name": "NDA Filing",
+        "date": "2023-12-12",
+        "link": "https:\/\/ir.achievelifesciences.com\/sec-filings\/all-sec-filings\/content\/0000950170-23-069392\/0000950170-23-069392.pdf",
+        "note": "Phase 3 conducted a pre-New Drug Application (NDA) meeting with the FDA. During that meeting, the FDA expressed support for an NDA submission based on adequate data to assess efficacy from the two\r\nrandomized and controlled Phase 3 trials. In addition, the FDA advised that long-term exposure data beyond 12 weeks would be needed. Following receipt of additional input from the FDA, anticipated in the 1Q 2024, the Company will provide an update on its projected NDA submission timing, noted December 12, 2023.",
+        "company_entity_id": 438,
+        "company_ticker": "ACHV",
+        "company_name": "Achieve Life Sciences Inc.",
+        "company_price": "4.3500",
+        "company_change": 0,
+        "company_percent_change": 0,
+        "company_optionable": 1,
+        "company_number_of_shares": 21165760,
+        "price_change_sparkline": [
+            [
+                4.93,
+                1706677200
+            ],
+            [
+                5,
+                1706763600
+            ],
+            [
+                4.85,
+                1706850000
+            ],
+            [
+                4.35,
+                1707109200
+            ],
+            [
+                4.5,
+                1707195600
+            ],
+            [
+                4.39,
+                1707282000
+            ],
+            [
+                4.37,
+                1707368400
+            ],
+            [
+                4.5,
+                1707454800
+            ],
+            [
+                4.67,
+                1707714000
+            ],
+            [
+                4.47,
+                1707800400
+            ],
+            [
+                4.39,
+                1707886800
+            ],
+            [
+                4.43,
+                1707973200
+            ],
+            [
+                4.32,
+                1708059600
+            ],
+            [
+                4.01,
+                1708405200
+            ],
+            [
+                4,
+                1708491600
+            ],
+            [
+                3.82,
+                1708578000
+            ],
+            [
+                3.96,
+                1708664400
+            ],
+            [
+                4.09,
+                1708923600
+            ],
+            [
+                4.5,
+                1709010000
+            ],
+            [
+                4.46,
+                1709096400
+            ],
+            [
+                4.05,
+                1709182800
+            ],
+            [
+                4.42,
+                1709269200
+            ],
+            [
+                4.42,
+                1709528400
+            ],
+            [
+                4.39,
+                1709614800
+            ],
+            [
+                4.43,
+                1709701200
+            ],
+            [
+                4.38,
+                1709787600
+            ],
+            [
+                4.39,
+                1709874000
+            ],
+            [
+                4.35,
+                1710129600
+            ],
+            [
+                4.35,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 10954,
+        "drug_name": "NEXLETOL\/NEXLIZET",
+        "clinical_trial_id": null,
+        "has_trial_insight_page": 0,
+        "indication": "Primary hyperlipidemia",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-13",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/ESPR\/news\/175214",
+        "note": "Approved December 13, 2023.",
+        "company_entity_id": 133,
+        "company_ticker": "ESPR",
+        "company_name": "Esperion Therapeutics Inc.",
+        "company_price": "2.0500",
+        "company_change": -0.06999999999999995,
+        "company_percent_change": -3.3,
+        "company_optionable": 1,
+        "company_number_of_shares": 185052705,
+        "price_change_sparkline": [
+            [
+                2.14,
+                1706677200
+            ],
+            [
+                2.07,
+                1706763600
+            ],
+            [
+                2.19,
+                1706850000
+            ],
+            [
+                2.38,
+                1707109200
+            ],
+            [
+                2.58,
+                1707195600
+            ],
+            [
+                2.63,
+                1707282000
+            ],
+            [
+                2.58,
+                1707368400
+            ],
+            [
+                2.58,
+                1707454800
+            ],
+            [
+                2.6,
+                1707714000
+            ],
+            [
+                2.54,
+                1707800400
+            ],
+            [
+                2.61,
+                1707886800
+            ],
+            [
+                2.66,
+                1707973200
+            ],
+            [
+                2.69,
+                1708059600
+            ],
+            [
+                2.68,
+                1708405200
+            ],
+            [
+                2.61,
+                1708491600
+            ],
+            [
+                2.63,
+                1708578000
+            ],
+            [
+                2.61,
+                1708664400
+            ],
+            [
+                2.63,
+                1708923600
+            ],
+            [
+                2.9,
+                1709010000
+            ],
+            [
+                2.57,
+                1709096400
+            ],
+            [
+                2.51,
+                1709182800
+            ],
+            [
+                2.55,
+                1709269200
+            ],
+            [
+                2.44,
+                1709528400
+            ],
+            [
+                2.4,
+                1709614800
+            ],
+            [
+                2.46,
+                1709701200
+            ],
+            [
+                2.28,
+                1709787600
+            ],
+            [
+                2.19,
+                1709874000
+            ],
+            [
+                2.12,
+                1710129600
+            ],
+            [
+                2.05,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 6455,
+        "drug_name": "iDose TR",
+        "clinical_trial_id": "NCT03519386",
+        "has_trial_insight_page": 1,
+        "indication": "Glaucoma",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-14",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/GKOS\/news\/175308",
+        "note": "FDA Approval on December 14, 2023.",
+        "company_entity_id": 725,
+        "company_ticker": "GKOS",
+        "company_name": "Glaukos Corporation",
+        "company_price": "87.0000",
+        "company_change": 0.14,
+        "company_percent_change": 0.16,
+        "company_optionable": 1,
+        "company_number_of_shares": 49470423,
+        "price_change_sparkline": [
+            [
+                89.03,
+                1706677200
+            ],
+            [
+                91.87,
+                1706763600
+            ],
+            [
+                91.94,
+                1706850000
+            ],
+            [
+                91.08,
+                1707109200
+            ],
+            [
+                93.31,
+                1707195600
+            ],
+            [
+                94.3,
+                1707282000
+            ],
+            [
+                95.99,
+                1707368400
+            ],
+            [
+                96.25,
+                1707454800
+            ],
+            [
+                96.33,
+                1707714000
+            ],
+            [
+                93.57,
+                1707800400
+            ],
+            [
+                94.73,
+                1707886800
+            ],
+            [
+                96.11,
+                1707973200
+            ],
+            [
+                92.63,
+                1708059600
+            ],
+            [
+                92.13,
+                1708405200
+            ],
+            [
+                92.79,
+                1708491600
+            ],
+            [
+                91.46,
+                1708578000
+            ],
+            [
+                89.57,
+                1708664400
+            ],
+            [
+                91.63,
+                1708923600
+            ],
+            [
+                90.47,
+                1709010000
+            ],
+            [
+                90.04,
+                1709096400
+            ],
+            [
+                88.59,
+                1709182800
+            ],
+            [
+                88.82,
+                1709269200
+            ],
+            [
+                88.56,
+                1709528400
+            ],
+            [
+                84.31,
+                1709614800
+            ],
+            [
+                85.5,
+                1709701200
+            ],
+            [
+                88.91,
+                1709787600
+            ],
+            [
+                87.46,
+                1709874000
+            ],
+            [
+                86.86,
+                1710129600
+            ],
+            [
+                87,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 10720,
+        "drug_name": "WELIREG (belzutifan)",
+        "clinical_trial_id": "NCT04195750",
+        "has_trial_insight_page": 0,
+        "indication": "Advanced Renal Cell Carcinoma (RCC)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-14",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/MRK\/news\/175544",
+        "note": "Approved December 14, 2023.",
+        "company_entity_id": 383,
+        "company_ticker": "MRK",
+        "company_name": "Merck & Company Inc.",
+        "company_price": "122.6600",
+        "company_change": -0.10999999999999999,
+        "company_percent_change": -0.08999999999999997,
+        "company_optionable": 1,
+        "company_number_of_shares": 2532643872,
+        "price_change_sparkline": [
+            [
+                120.78,
+                1706677200
+            ],
+            [
+                126.38,
+                1706763600
+            ],
+            [
+                126.41,
+                1706850000
+            ],
+            [
+                126.18,
+                1707109200
+            ],
+            [
+                126.88,
+                1707195600
+            ],
+            [
+                127.47,
+                1707282000
+            ],
+            [
+                126.61,
+                1707368400
+            ],
+            [
+                125.45,
+                1707454800
+            ],
+            [
+                125.34,
+                1707714000
+            ],
+            [
+                125.43,
+                1707800400
+            ],
+            [
+                125.82,
+                1707886800
+            ],
+            [
+                126.54,
+                1707973200
+            ],
+            [
+                127.79,
+                1708059600
+            ],
+            [
+                127.37,
+                1708405200
+            ],
+            [
+                128.12,
+                1708491600
+            ],
+            [
+                129.26,
+                1708578000
+            ],
+            [
+                129.45,
+                1708664400
+            ],
+            [
+                128.84,
+                1708923600
+            ],
+            [
+                129.03,
+                1709010000
+            ],
+            [
+                128.19,
+                1709096400
+            ],
+            [
+                127.15,
+                1709182800
+            ],
+            [
+                126.96,
+                1709269200
+            ],
+            [
+                124.05,
+                1709528400
+            ],
+            [
+                122.83,
+                1709614800
+            ],
+            [
+                123.75,
+                1709701200
+            ],
+            [
+                123.99,
+                1709787600
+            ],
+            [
+                123.5,
+                1709874000
+            ],
+            [
+                122.77,
+                1710129600
+            ],
+            [
+                122.66,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 10699,
+        "drug_name": "PADCEV (enfortumab vedotin-ejfv) in combination with KEYTRUDA (pembrolizumab) versus chemotherapy - (EV-302 \/KEYNOTE-A39)",
+        "clinical_trial_id": "NCT04223856",
+        "has_trial_insight_page": 0,
+        "indication": "Untreated locally advanced or metastatic urothelial cancer (la\/mUC)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-15",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/PFE\/news\/175662",
+        "note": "FDA Approval on December 15, 2023.",
+        "company_entity_id": 383,
+        "company_ticker": "MRK",
+        "company_name": "Merck & Company Inc.",
+        "company_price": "122.6600",
+        "company_change": -0.10999999999999999,
+        "company_percent_change": -0.08999999999999997,
+        "company_optionable": 1,
+        "company_number_of_shares": 2532643872,
+        "price_change_sparkline": [
+            [
+                120.78,
+                1706677200
+            ],
+            [
+                126.38,
+                1706763600
+            ],
+            [
+                126.41,
+                1706850000
+            ],
+            [
+                126.18,
+                1707109200
+            ],
+            [
+                126.88,
+                1707195600
+            ],
+            [
+                127.47,
+                1707282000
+            ],
+            [
+                126.61,
+                1707368400
+            ],
+            [
+                125.45,
+                1707454800
+            ],
+            [
+                125.34,
+                1707714000
+            ],
+            [
+                125.43,
+                1707800400
+            ],
+            [
+                125.82,
+                1707886800
+            ],
+            [
+                126.54,
+                1707973200
+            ],
+            [
+                127.79,
+                1708059600
+            ],
+            [
+                127.37,
+                1708405200
+            ],
+            [
+                128.12,
+                1708491600
+            ],
+            [
+                129.26,
+                1708578000
+            ],
+            [
+                129.45,
+                1708664400
+            ],
+            [
+                128.84,
+                1708923600
+            ],
+            [
+                129.03,
+                1709010000
+            ],
+            [
+                128.19,
+                1709096400
+            ],
+            [
+                127.15,
+                1709182800
+            ],
+            [
+                126.96,
+                1709269200
+            ],
+            [
+                124.05,
+                1709528400
+            ],
+            [
+                122.83,
+                1709614800
+            ],
+            [
+                123.75,
+                1709701200
+            ],
+            [
+                123.99,
+                1709787600
+            ],
+            [
+                123.5,
+                1709874000
+            ],
+            [
+                122.77,
+                1710129600
+            ],
+            [
+                122.66,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 10699,
+        "drug_name": "PADCEV (enfortumab vedotin-ejfv) in combination with KEYTRUDA (pembrolizumab) versus chemotherapy - (EV-302 \/KEYNOTE-A39)",
+        "clinical_trial_id": "NCT04223856",
+        "has_trial_insight_page": 0,
+        "indication": "Untreated locally advanced or metastatic urothelial cancer (la\/mUC)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-15",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/PFE\/news\/175662",
+        "note": "FDA Approval on December 15, 2023.",
+        "company_entity_id": 387,
+        "company_ticker": "PFE",
+        "company_name": "Pfizer Inc.",
+        "company_price": "28.0100",
+        "company_change": -0.36,
+        "company_percent_change": -1.27,
+        "company_optionable": 1,
+        "company_number_of_shares": 5646778425,
+        "price_change_sparkline": [
+            [
+                27.08,
+                1706677200
+            ],
+            [
+                27.29,
+                1706763600
+            ],
+            [
+                26.93,
+                1706850000
+            ],
+            [
+                26.57,
+                1707109200
+            ],
+            [
+                27.5,
+                1707195600
+            ],
+            [
+                27.56,
+                1707282000
+            ],
+            [
+                27.57,
+                1707368400
+            ],
+            [
+                27.56,
+                1707454800
+            ],
+            [
+                27.66,
+                1707714000
+            ],
+            [
+                26.97,
+                1707800400
+            ],
+            [
+                27.11,
+                1707886800
+            ],
+            [
+                27.51,
+                1707973200
+            ],
+            [
+                27.62,
+                1708059600
+            ],
+            [
+                27.59,
+                1708405200
+            ],
+            [
+                27.67,
+                1708491600
+            ],
+            [
+                27.55,
+                1708578000
+            ],
+            [
+                27.76,
+                1708664400
+            ],
+            [
+                27.18,
+                1708923600
+            ],
+            [
+                26.89,
+                1709010000
+            ],
+            [
+                27.04,
+                1709096400
+            ],
+            [
+                26.56,
+                1709182800
+            ],
+            [
+                26.59,
+                1709269200
+            ],
+            [
+                25.89,
+                1709528400
+            ],
+            [
+                26.08,
+                1709614800
+            ],
+            [
+                27.19,
+                1709701200
+            ],
+            [
+                26.79,
+                1709787600
+            ],
+            [
+                27.22,
+                1709874000
+            ],
+            [
+                28.37,
+                1710129600
+            ],
+            [
+                28.01,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 10699,
+        "drug_name": "PADCEV (enfortumab vedotin-ejfv) in combination with KEYTRUDA (pembrolizumab) versus chemotherapy - (EV-302 \/KEYNOTE-A39)",
+        "clinical_trial_id": "NCT04223856",
+        "has_trial_insight_page": 0,
+        "indication": "Untreated locally advanced or metastatic urothelial cancer (la\/mUC)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-15",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/PFE\/news\/175662",
+        "note": "FDA Approval on December 15, 2023.",
+        "company_entity_id": 2240,
+        "company_ticker": "ALPMY",
+        "company_name": "Astellas Pharma Inc. ADR",
+        "company_price": "10.7600",
+        "company_change": -0.13,
+        "company_percent_change": -1.19,
+        "company_optionable": 0,
+        "company_number_of_shares": 1808873137,
+        "price_change_sparkline": [
+            [
+                11.6,
+                1706677200
+            ],
+            [
+                11.55,
+                1706763600
+            ],
+            [
+                11.35,
+                1706850000
+            ],
+            [
+                11,
+                1707109200
+            ],
+            [
+                10.89,
+                1707195600
+            ],
+            [
+                10.92,
+                1707282000
+            ],
+            [
+                10.73,
+                1707368400
+            ],
+            [
+                10.79,
+                1707454800
+            ],
+            [
+                10.82,
+                1707714000
+            ],
+            [
+                10.89,
+                1707800400
+            ],
+            [
+                11.075,
+                1707886800
+            ],
+            [
+                11.05,
+                1707973200
+            ],
+            [
+                11.1,
+                1708059600
+            ],
+            [
+                11.14,
+                1708405200
+            ],
+            [
+                11.12,
+                1708491600
+            ],
+            [
+                10.96,
+                1708578000
+            ],
+            [
+                10.99,
+                1708664400
+            ],
+            [
+                11.03,
+                1708923600
+            ],
+            [
+                10.99,
+                1709010000
+            ],
+            [
+                10.98,
+                1709096400
+            ],
+            [
+                10.93,
+                1709182800
+            ],
+            [
+                11.15,
+                1709269200
+            ],
+            [
+                11.08,
+                1709528400
+            ],
+            [
+                10.8,
+                1709614800
+            ],
+            [
+                10.81,
+                1709701200
+            ],
+            [
+                10.75,
+                1709787600
+            ],
+            [
+                10.62,
+                1709874000
+            ],
+            [
+                10.89,
+                1710129600
+            ],
+            [
+                10.76,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 6373,
+        "drug_name": "ZORYVE (roflumilast)",
+        "clinical_trial_id": "NCT04973228",
+        "has_trial_insight_page": 1,
+        "indication": "Seborrheic dermatitis",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-15",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/ARQT\/news\/175665",
+        "note": "Approved December 15, 2023.",
+        "company_entity_id": 738,
+        "company_ticker": "ARQT",
+        "company_name": "Arcutis Biotherapeutics Inc.",
+        "company_price": "10.1100",
+        "company_change": 0.07,
+        "company_percent_change": 0.7,
+        "company_optionable": 1,
+        "company_number_of_shares": 96813363,
+        "price_change_sparkline": [
+            [
+                5.87,
+                1706677200
+            ],
+            [
+                6.64,
+                1706763600
+            ],
+            [
+                6.07,
+                1706850000
+            ],
+            [
+                6.02,
+                1707109200
+            ],
+            [
+                5.7,
+                1707195600
+            ],
+            [
+                5.71,
+                1707282000
+            ],
+            [
+                5.7,
+                1707368400
+            ],
+            [
+                6.57,
+                1707454800
+            ],
+            [
+                6.69,
+                1707714000
+            ],
+            [
+                6.9,
+                1707800400
+            ],
+            [
+                7.58,
+                1707886800
+            ],
+            [
+                7.97,
+                1707973200
+            ],
+            [
+                9.3,
+                1708059600
+            ],
+            [
+                9.48,
+                1708405200
+            ],
+            [
+                9.27,
+                1708491600
+            ],
+            [
+                9.62,
+                1708578000
+            ],
+            [
+                9.68,
+                1708664400
+            ],
+            [
+                9.69,
+                1708923600
+            ],
+            [
+                10.63,
+                1709010000
+            ],
+            [
+                10.41,
+                1709096400
+            ],
+            [
+                10.28,
+                1709182800
+            ],
+            [
+                11.77,
+                1709269200
+            ],
+            [
+                10.95,
+                1709528400
+            ],
+            [
+                10.9,
+                1709614800
+            ],
+            [
+                10.44,
+                1709701200
+            ],
+            [
+                10.38,
+                1709787600
+            ],
+            [
+                11.15,
+                1709874000
+            ],
+            [
+                10.04,
+                1710129600
+            ],
+            [
+                10.11,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 10969,
+        "drug_name": "Eflornithine",
+        "clinical_trial_id": null,
+        "has_trial_insight_page": 0,
+        "indication": "High-risk neuroblastoma",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-18",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/PBLA\/news\/175843",
+        "note": "NDA approved by FDA December 18, 2023.",
+        "company_entity_id": 862,
+        "company_ticker": "PBLA",
+        "company_name": "Panbela Therapeutics Inc.",
+        "company_price": "0.6700",
+        "company_change": -0.07999999999999996,
+        "company_percent_change": -10.67,
+        "company_optionable": 0,
+        "company_number_of_shares": 480404,
+        "price_change_sparkline": [
+            [
+                1.39,
+                1706677200
+            ],
+            [
+                1.26,
+                1706763600
+            ],
+            [
+                1.17,
+                1706850000
+            ],
+            [
+                1.16,
+                1707109200
+            ],
+            [
+                1.2,
+                1707195600
+            ],
+            [
+                1.16,
+                1707282000
+            ],
+            [
+                1.14,
+                1707368400
+            ],
+            [
+                1.24,
+                1707454800
+            ],
+            [
+                1.17,
+                1707714000
+            ],
+            [
+                1.13,
+                1707800400
+            ],
+            [
+                1.36,
+                1707886800
+            ],
+            [
+                1.27,
+                1707973200
+            ],
+            [
+                1.25,
+                1708059600
+            ],
+            [
+                1.18,
+                1708405200
+            ],
+            [
+                1.15,
+                1708491600
+            ],
+            [
+                1.11,
+                1708578000
+            ],
+            [
+                1.12,
+                1708664400
+            ],
+            [
+                1.15,
+                1708923600
+            ],
+            [
+                1.23,
+                1709010000
+            ],
+            [
+                1.19,
+                1709096400
+            ],
+            [
+                1.18,
+                1709182800
+            ],
+            [
+                1.27,
+                1709269200
+            ],
+            [
+                1.22,
+                1709528400
+            ],
+            [
+                1.23,
+                1709614800
+            ],
+            [
+                1.11,
+                1709701200
+            ],
+            [
+                0.6899,
+                1709787600
+            ],
+            [
+                0.555,
+                1709874000
+            ],
+            [
+                0.75,
+                1710129600
+            ],
+            [
+                0.67,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 10245,
+        "drug_name": "TARPEYO (budesonide)",
+        "clinical_trial_id": null,
+        "has_trial_insight_page": 0,
+        "indication": "IgA Nephropathy",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-20",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/CALT\/news\/176517",
+        "note": "Approved December 20, 2023.",
+        "company_entity_id": 768,
+        "company_ticker": "CALT",
+        "company_name": "Calliditas Therapeutics AB",
+        "company_price": "22.0700",
+        "company_change": -0.18000000000000005,
+        "company_percent_change": -0.81,
+        "company_optionable": 1,
+        "company_number_of_shares": 29786294,
+        "price_change_sparkline": [
+            [
+                22.1801,
+                1706677200
+            ],
+            [
+                21.7286,
+                1706763600
+            ],
+            [
+                20.85,
+                1706850000
+            ],
+            [
+                20.75,
+                1707109200
+            ],
+            [
+                21.5099,
+                1707195600
+            ],
+            [
+                21.57,
+                1707282000
+            ],
+            [
+                21.5,
+                1707368400
+            ],
+            [
+                21.14,
+                1707454800
+            ],
+            [
+                21.4,
+                1707714000
+            ],
+            [
+                21.05,
+                1707800400
+            ],
+            [
+                20.67,
+                1707886800
+            ],
+            [
+                20.58,
+                1707973200
+            ],
+            [
+                21.24,
+                1708059600
+            ],
+            [
+                20.92,
+                1708405200
+            ],
+            [
+                20.3,
+                1708491600
+            ],
+            [
+                20.5,
+                1708578000
+            ],
+            [
+                20.04,
+                1708664400
+            ],
+            [
+                20.715,
+                1708923600
+            ],
+            [
+                22.07,
+                1709010000
+            ],
+            [
+                21.88,
+                1709096400
+            ],
+            [
+                21.3195,
+                1709182800
+            ],
+            [
+                21.43,
+                1709269200
+            ],
+            [
+                21.1,
+                1709528400
+            ],
+            [
+                20.455,
+                1709614800
+            ],
+            [
+                22.19,
+                1709701200
+            ],
+            [
+                23.13,
+                1709787600
+            ],
+            [
+                22.1,
+                1709874000
+            ],
+            [
+                22.25,
+                1710129600
+            ],
+            [
+                22.07,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 5541,
+        "drug_name": "WAINUA (eplontersen)",
+        "clinical_trial_id": "NCT04136184",
+        "has_trial_insight_page": 1,
+        "indication": "ATTR Amyloidosis",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-22",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/AZN\/news\/176762",
+        "note": "Approved December 22, 2023.",
+        "company_entity_id": 374,
+        "company_ticker": "AZN",
+        "company_name": "AstraZeneca PLC",
+        "company_price": "67.4000",
+        "company_change": -0.27,
+        "company_percent_change": -0.4,
+        "company_optionable": 1,
+        "company_number_of_shares": 3100378676,
+        "price_change_sparkline": [
+            [
+                65.6319311986485,
+                1706677200
+            ],
+            [
+                65.8387545112493,
+                1706763600
+            ],
+            [
+                64.647058281502,
+                1706850000
+            ],
+            [
+                64.1546218229287,
+                1707109200
+            ],
+            [
+                66.0258803655072,
+                1707195600
+            ],
+            [
+                65.5432926361053,
+                1707282000
+            ],
+            [
+                62.5591276971512,
+                1707368400
+            ],
+            [
+                61.3181878215465,
+                1707454800
+            ],
+            [
+                60.4810458419719,
+                1707714000
+            ],
+            [
+                60.1067941334562,
+                1707800400
+            ],
+            [
+                60.7272640712585,
+                1707886800
+            ],
+            [
+                61.8894141134915,
+                1707973200
+            ],
+            [
+                63.2977823850111,
+                1708059600
+            ],
+            [
+                64.056134531214,
+                1708405200
+            ],
+            [
+                64.1053781770713,
+                1708491600
+            ],
+            [
+                64.13,
+                1708578000
+            ],
+            [
+                65.83,
+                1708664400
+            ],
+            [
+                65.93,
+                1708923600
+            ],
+            [
+                66.33,
+                1709010000
+            ],
+            [
+                65.35,
+                1709096400
+            ],
+            [
+                64.16,
+                1709182800
+            ],
+            [
+                64.6,
+                1709269200
+            ],
+            [
+                64.79,
+                1709528400
+            ],
+            [
+                64.81,
+                1709614800
+            ],
+            [
+                65.27,
+                1709701200
+            ],
+            [
+                66.19,
+                1709787600
+            ],
+            [
+                66.5,
+                1709874000
+            ],
+            [
+                67.67,
+                1710129600
+            ],
+            [
+                67.4,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 5541,
+        "drug_name": "WAINUA (eplontersen)",
+        "clinical_trial_id": "NCT04136184",
+        "has_trial_insight_page": 1,
+        "indication": "ATTR Amyloidosis",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-22",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/AZN\/news\/176762",
+        "note": "Approved December 22, 2023.",
+        "company_entity_id": 173,
+        "company_ticker": "IONS",
+        "company_name": "Ionis Pharmaceuticals Inc.",
+        "company_price": "43.1700",
+        "company_change": -0.08999999999999997,
+        "company_percent_change": -0.20999999999999996,
+        "company_optionable": 1,
+        "company_number_of_shares": 145751797,
+        "price_change_sparkline": [
+            [
+                51.39,
+                1706677200
+            ],
+            [
+                50.97,
+                1706763600
+            ],
+            [
+                49.75,
+                1706850000
+            ],
+            [
+                49.43,
+                1707109200
+            ],
+            [
+                49.12,
+                1707195600
+            ],
+            [
+                49.54,
+                1707282000
+            ],
+            [
+                49.98,
+                1707368400
+            ],
+            [
+                51.4,
+                1707454800
+            ],
+            [
+                50.38,
+                1707714000
+            ],
+            [
+                48.61,
+                1707800400
+            ],
+            [
+                49.07,
+                1707886800
+            ],
+            [
+                45.28,
+                1707973200
+            ],
+            [
+                44.43,
+                1708059600
+            ],
+            [
+                44.35,
+                1708405200
+            ],
+            [
+                43.53,
+                1708491600
+            ],
+            [
+                43.98,
+                1708578000
+            ],
+            [
+                45.36,
+                1708664400
+            ],
+            [
+                46.1,
+                1708923600
+            ],
+            [
+                47.41,
+                1709010000
+            ],
+            [
+                46.54,
+                1709096400
+            ],
+            [
+                45.21,
+                1709182800
+            ],
+            [
+                45.46,
+                1709269200
+            ],
+            [
+                44.87,
+                1709528400
+            ],
+            [
+                44.19,
+                1709614800
+            ],
+            [
+                44.29,
+                1709701200
+            ],
+            [
+                44.67,
+                1709787600
+            ],
+            [
+                43.99,
+                1709874000
+            ],
+            [
+                43.26,
+                1710129600
+            ],
+            [
+                43.17,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 5229,
+        "drug_name": "BRUKINSA (zanubrutinib)",
+        "clinical_trial_id": "NCT03734016",
+        "has_trial_insight_page": 0,
+        "indication": "Refractory chronic lymphocytic leukemia (CLL)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-22",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/BGNE\/news\/176768",
+        "note": "Approved December 22, 2023.",
+        "company_entity_id": 340,
+        "company_ticker": "BGNE",
+        "company_name": "BeiGene Ltd.",
+        "company_price": "163.7500",
+        "company_change": -0.78,
+        "company_percent_change": -0.47,
+        "company_optionable": 1,
+        "company_number_of_shares": 104577940,
+        "price_change_sparkline": [
+            [
+                148.23,
+                1706677200
+            ],
+            [
+                149.93,
+                1706763600
+            ],
+            [
+                144.48,
+                1706850000
+            ],
+            [
+                141.81,
+                1707109200
+            ],
+            [
+                153.58,
+                1707195600
+            ],
+            [
+                147.76,
+                1707282000
+            ],
+            [
+                142.88,
+                1707368400
+            ],
+            [
+                146.98,
+                1707454800
+            ],
+            [
+                146.57,
+                1707714000
+            ],
+            [
+                141.8,
+                1707800400
+            ],
+            [
+                145.87,
+                1707886800
+            ],
+            [
+                146.07,
+                1707973200
+            ],
+            [
+                148.23,
+                1708059600
+            ],
+            [
+                148.05,
+                1708405200
+            ],
+            [
+                150.8,
+                1708491600
+            ],
+            [
+                153.78,
+                1708578000
+            ],
+            [
+                155.1,
+                1708664400
+            ],
+            [
+                160.26,
+                1708923600
+            ],
+            [
+                179.69,
+                1709010000
+            ],
+            [
+                178.48,
+                1709096400
+            ],
+            [
+                165.65,
+                1709182800
+            ],
+            [
+                165.02,
+                1709269200
+            ],
+            [
+                167.86,
+                1709528400
+            ],
+            [
+                160.42,
+                1709614800
+            ],
+            [
+                159.52,
+                1709701200
+            ],
+            [
+                162.25,
+                1709787600
+            ],
+            [
+                158.52,
+                1709874000
+            ],
+            [
+                164.53,
+                1710129600
+            ],
+            [
+                163.75,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 8665,
+        "drug_name": "WAINUA (eplontersen)",
+        "clinical_trial_id": null,
+        "has_trial_insight_page": 0,
+        "indication": "Hereditary ATTR Amyloidosis (hATTR)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2023-12-22",
+        "link": "https:\/\/www.biopharmcatalyst.com\/company\/AZN\/news\/176762",
+        "note": "Approved December 22, 2023.",
+        "company_entity_id": 374,
+        "company_ticker": "AZN",
+        "company_name": "AstraZeneca PLC",
+        "company_price": "67.4000",
+        "company_change": -0.27,
+        "company_percent_change": -0.4,
+        "company_optionable": 1,
+        "company_number_of_shares": 3100378676,
+        "price_change_sparkline": [
+            [
+                65.6319311986485,
+                1706677200
+            ],
+            [
+                65.8387545112493,
+                1706763600
+            ],
+            [
+                64.647058281502,
+                1706850000
+            ],
+            [
+                64.1546218229287,
+                1707109200
+            ],
+            [
+                66.0258803655072,
+                1707195600
+            ],
+            [
+                65.5432926361053,
+                1707282000
+            ],
+            [
+                62.5591276971512,
+                1707368400
+            ],
+            [
+                61.3181878215465,
+                1707454800
+            ],
+            [
+                60.4810458419719,
+                1707714000
+            ],
+            [
+                60.1067941334562,
+                1707800400
+            ],
+            [
+                60.7272640712585,
+                1707886800
+            ],
+            [
+                61.8894141134915,
+                1707973200
+            ],
+            [
+                63.2977823850111,
+                1708059600
+            ],
+            [
+                64.056134531214,
+                1708405200
+            ],
+            [
+                64.1053781770713,
+                1708491600
+            ],
+            [
+                64.13,
+                1708578000
+            ],
+            [
+                65.83,
+                1708664400
+            ],
+            [
+                65.93,
+                1708923600
+            ],
+            [
+                66.33,
+                1709010000
+            ],
+            [
+                65.35,
+                1709096400
+            ],
+            [
+                64.16,
+                1709182800
+            ],
+            [
+                64.6,
+                1709269200
+            ],
+            [
+                64.79,
+                1709528400
+            ],
+            [
+                64.81,
+                1709614800
+            ],
+            [
+                65.27,
+                1709701200
+            ],
+            [
+                66.19,
+                1709787600
+            ],
+            [
+                66.5,
+                1709874000
+            ],
+            [
+                67.67,
+                1710129600
+            ],
+            [
+                67.4,
+                1710216000
+            ]
+        ],
+        "statuses": [
+            {
+                "label": "Orphan Drug Designation (ODD)",
+                "abbreviation": "ODD",
+                "description": "Orphan Drug Designation (ODD)",
+                "description_html": "<p>Orphan Drug Designation (ODD)<\/p>\n"
+            }
+        ]
+    }
+]

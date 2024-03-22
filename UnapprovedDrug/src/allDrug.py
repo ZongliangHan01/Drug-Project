@@ -1,5 +1,5 @@
 import json
-import mysql.connector
+# import mysql.connector
 import csv
 from datetime import datetime, timedelta
 
@@ -21,6 +21,7 @@ for i in range(1, 25):
 
 # for com in data:
 #     print(com["company"])
+print(len(data))
 notPass = []
 # data = [{'company': 'CorMedix', 'date': '2023-11-17'}]
 for com in data:

@@ -1,0 +1,1 @@
+comp = [ "nvs", "azn", 'abbv', 'mrk', 'sny', 'biib', 'gsk', 'jnj', 'regn', 'bmy', 'lly', 'pfe']

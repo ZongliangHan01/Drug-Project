@@ -1,0 +1,3729 @@
+[
+    {
+        "id": 2675,
+        "drug_name": "JZP-6 (sodium oxybate)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Fibromyalgia",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2010-10-11",
+        "link": "http:\/\/investor.jazzpharma.com\/phoenix.zhtml?c=210227&p=irol-newsArticle&ID=1480895&highlight=",
+        "note": "CRL received October 11, 2010.",
+        "company_entity_id": 381,
+        "company_ticker": "JAZZ",
+        "company_name": "Jazz Pharmaceuticals plc",
+        "company_price": "132.2800",
+        "company_change": 3.83,
+        "company_percent_change": 2.98,
+        "company_optionable": 1,
+        "company_number_of_shares": 62956913,
+        "price_change_sparkline": [
+            [
+                126.93,
+                1704171600
+            ],
+            [
+                125.35,
+                1704258000
+            ],
+            [
+                124.35,
+                1704344400
+            ],
+            [
+                127.6,
+                1704430800
+            ],
+            [
+                125.51,
+                1704690000
+            ],
+            [
+                122.38,
+                1704776400
+            ],
+            [
+                120.25,
+                1704862800
+            ],
+            [
+                120.4,
+                1704949200
+            ],
+            [
+                118.94,
+                1705035600
+            ],
+            [
+                119.13,
+                1705381200
+            ],
+            [
+                117.81,
+                1705467600
+            ],
+            [
+                115.19,
+                1705554000
+            ],
+            [
+                116.54,
+                1705640400
+            ],
+            [
+                119.83,
+                1705899600
+            ],
+            [
+                120.11,
+                1705986000
+            ],
+            [
+                123.14,
+                1706072400
+            ],
+            [
+                122.82,
+                1706158800
+            ],
+            [
+                122.54,
+                1706245200
+            ],
+            [
+                127.39,
+                1706504400
+            ],
+            [
+                125.56,
+                1706590800
+            ],
+            [
+                122.72,
+                1706677200
+            ],
+            [
+                123.68,
+                1706763600
+            ],
+            [
+                122.9,
+                1706850000
+            ],
+            [
+                121.98,
+                1707109200
+            ],
+            [
+                124.71,
+                1707195600
+            ],
+            [
+                122.94,
+                1707282000
+            ],
+            [
+                122.67,
+                1707368400
+            ],
+            [
+                123.43,
+                1707454800
+            ],
+            [
+                124.24,
+                1707714000
+            ],
+            [
+                121.83,
+                1707800400
+            ],
+            [
+                122.24,
+                1707886800
+            ],
+            [
+                126.82,
+                1707973200
+            ],
+            [
+                126.78,
+                1708059600
+            ],
+            [
+                126.36,
+                1708405200
+            ],
+            [
+                128.42,
+                1708491600
+            ],
+            [
+                128.45,
+                1708578000
+            ],
+            [
+                132.28,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2694,
+        "drug_name": "RG1068",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Detection of pancreatic duct abnormalities",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2012-06-22",
+        "link": "http:\/\/corporate.repligen.com\/Mobile\/file.aspx?IID=4325751&FID=13702970",
+        "note": "CRL received June 22, 2012.",
+        "company_entity_id": 400,
+        "company_ticker": "RGEN",
+        "company_name": "Repligen Corporation",
+        "company_price": "196.5200",
+        "company_change": 3.12,
+        "company_percent_change": 1.6099999999999999,
+        "company_optionable": 1,
+        "company_number_of_shares": 55771075,
+        "price_change_sparkline": [
+            [
+                179.29,
+                1704171600
+            ],
+            [
+                171.57,
+                1704258000
+            ],
+            [
+                171.57,
+                1704344400
+            ],
+            [
+                171.63,
+                1704430800
+            ],
+            [
+                176.88,
+                1704690000
+            ],
+            [
+                173.14,
+                1704776400
+            ],
+            [
+                178.16,
+                1704862800
+            ],
+            [
+                178.61,
+                1704949200
+            ],
+            [
+                173.21,
+                1705035600
+            ],
+            [
+                172.76,
+                1705381200
+            ],
+            [
+                170.78,
+                1705467600
+            ],
+            [
+                174.2,
+                1705554000
+            ],
+            [
+                178.02,
+                1705640400
+            ],
+            [
+                184.22,
+                1705899600
+            ],
+            [
+                187.05,
+                1705986000
+            ],
+            [
+                181.75,
+                1706072400
+            ],
+            [
+                185.51,
+                1706158800
+            ],
+            [
+                193.4,
+                1706245200
+            ],
+            [
+                192.21,
+                1706504400
+            ],
+            [
+                193.49,
+                1706590800
+            ],
+            [
+                189.4,
+                1706677200
+            ],
+            [
+                192.71,
+                1706763600
+            ],
+            [
+                196.17,
+                1706850000
+            ],
+            [
+                196.1,
+                1707109200
+            ],
+            [
+                200.52,
+                1707195600
+            ],
+            [
+                201.75,
+                1707282000
+            ],
+            [
+                203.99,
+                1707368400
+            ],
+            [
+                205,
+                1707454800
+            ],
+            [
+                205.7,
+                1707714000
+            ],
+            [
+                198.46,
+                1707800400
+            ],
+            [
+                206.04,
+                1707886800
+            ],
+            [
+                206.03,
+                1707973200
+            ],
+            [
+                208.42,
+                1708059600
+            ],
+            [
+                199.73,
+                1708405200
+            ],
+            [
+                194.1,
+                1708491600
+            ],
+            [
+                193.4,
+                1708578000
+            ],
+            [
+                196.52,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3160,
+        "drug_name": "Ampligen",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "CFS",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2013-02-04",
+        "link": "https:\/\/globenewswire.com\/news-release\/2013\/02\/05\/520721\/10020554\/en\/Hemispherx-Biopharma-Receives-Complete-Response-Letter-From-FDA-on-Ampligen-R-New-Drug-Application-for-Chronic-Fatigue-Syndrome.html",
+        "note": "CRL February 4, 2013.",
+        "company_entity_id": 699,
+        "company_ticker": "AIM",
+        "company_name": "AIM ImmunoTech Inc.",
+        "company_price": "0.4176",
+        "company_change": 0.01,
+        "company_percent_change": 3.11,
+        "company_optionable": 0,
+        "company_number_of_shares": 48842345,
+        "price_change_sparkline": [
+            [
+                0.475,
+                1704171600
+            ],
+            [
+                0.4754,
+                1704258000
+            ],
+            [
+                0.479,
+                1704344400
+            ],
+            [
+                0.44,
+                1704430800
+            ],
+            [
+                0.4571,
+                1704690000
+            ],
+            [
+                0.4558,
+                1704776400
+            ],
+            [
+                0.4579,
+                1704862800
+            ],
+            [
+                0.4551,
+                1704949200
+            ],
+            [
+                0.4522,
+                1705035600
+            ],
+            [
+                0.429,
+                1705381200
+            ],
+            [
+                0.43,
+                1705467600
+            ],
+            [
+                0.4289,
+                1705554000
+            ],
+            [
+                0.4201,
+                1705640400
+            ],
+            [
+                0.4185,
+                1705899600
+            ],
+            [
+                0.43,
+                1705986000
+            ],
+            [
+                0.4004,
+                1706072400
+            ],
+            [
+                0.415,
+                1706158800
+            ],
+            [
+                0.403,
+                1706245200
+            ],
+            [
+                0.4201,
+                1706504400
+            ],
+            [
+                0.4301,
+                1706590800
+            ],
+            [
+                0.415,
+                1706677200
+            ],
+            [
+                0.435,
+                1706763600
+            ],
+            [
+                0.4474,
+                1706850000
+            ],
+            [
+                0.4318,
+                1707109200
+            ],
+            [
+                0.437,
+                1707195600
+            ],
+            [
+                0.435,
+                1707282000
+            ],
+            [
+                0.38,
+                1707368400
+            ],
+            [
+                0.3981,
+                1707454800
+            ],
+            [
+                0.4253,
+                1707714000
+            ],
+            [
+                0.4,
+                1707800400
+            ],
+            [
+                0.4064,
+                1707886800
+            ],
+            [
+                0.39,
+                1707973200
+            ],
+            [
+                0.379,
+                1708059600
+            ],
+            [
+                0.42,
+                1708405200
+            ],
+            [
+                0.415,
+                1708491600
+            ],
+            [
+                0.405,
+                1708578000
+            ],
+            [
+                0.4176,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3486,
+        "drug_name": "SEFELSA",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Hot flashes",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2013-05-31",
+        "link": "http:\/\/investor.depomedinc.com\/phoenix.zhtml?c=97276&p=irol-newsArticle&ID=1826033&highlight=",
+        "note": "CRL issued May 31, 2013.",
+        "company_entity_id": 622,
+        "company_ticker": "ASRT",
+        "company_name": "Assertio Holdings Inc.",
+        "company_price": "0.8200",
+        "company_change": 0.02,
+        "company_percent_change": 1.8599999999999999,
+        "company_optionable": 1,
+        "company_number_of_shares": 94668523,
+        "price_change_sparkline": [
+            [
+                1.14,
+                1704171600
+            ],
+            [
+                1.015,
+                1704258000
+            ],
+            [
+                0.9043,
+                1704344400
+            ],
+            [
+                1.02,
+                1704430800
+            ],
+            [
+                0.965,
+                1704690000
+            ],
+            [
+                0.9181,
+                1704776400
+            ],
+            [
+                0.9292,
+                1704862800
+            ],
+            [
+                0.9016,
+                1704949200
+            ],
+            [
+                0.9054,
+                1705035600
+            ],
+            [
+                0.9175,
+                1705381200
+            ],
+            [
+                0.8803,
+                1705467600
+            ],
+            [
+                0.8183,
+                1705554000
+            ],
+            [
+                0.842,
+                1705640400
+            ],
+            [
+                0.8721,
+                1705899600
+            ],
+            [
+                0.8456,
+                1705986000
+            ],
+            [
+                0.8744,
+                1706072400
+            ],
+            [
+                0.8858,
+                1706158800
+            ],
+            [
+                0.8777,
+                1706245200
+            ],
+            [
+                0.93,
+                1706504400
+            ],
+            [
+                0.8941,
+                1706590800
+            ],
+            [
+                0.8826,
+                1706677200
+            ],
+            [
+                0.8242,
+                1706763600
+            ],
+            [
+                0.785,
+                1706850000
+            ],
+            [
+                0.7882,
+                1707109200
+            ],
+            [
+                0.7975,
+                1707195600
+            ],
+            [
+                0.7931,
+                1707282000
+            ],
+            [
+                0.793,
+                1707368400
+            ],
+            [
+                0.8009,
+                1707454800
+            ],
+            [
+                0.8642,
+                1707714000
+            ],
+            [
+                0.8014,
+                1707800400
+            ],
+            [
+                0.8088,
+                1707886800
+            ],
+            [
+                0.8453,
+                1707973200
+            ],
+            [
+                0.8545,
+                1708059600
+            ],
+            [
+                0.8231,
+                1708405200
+            ],
+            [
+                0.7892,
+                1708491600
+            ],
+            [
+                0.805,
+                1708578000
+            ],
+            [
+                0.82,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2703,
+        "drug_name": "Posidur",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Post-operative pain relief ",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2014-02-12",
+        "link": "http:\/\/phx.corporate-ir.net\/phoenix.zhtml?c=121590&p=irol-newsArticle&ID=1899590&highlight=",
+        "note": "CRL issued February 12, 2014.",
+        "company_entity_id": 119,
+        "company_ticker": "DRRX",
+        "company_name": "DURECT Corporation",
+        "company_price": "0.9800",
+        "company_change": 0.02,
+        "company_percent_change": 1.87,
+        "company_optionable": 1,
+        "company_number_of_shares": 29828891,
+        "price_change_sparkline": [
+            [
+                0.555,
+                1704171600
+            ],
+            [
+                0.5215,
+                1704258000
+            ],
+            [
+                0.5343,
+                1704344400
+            ],
+            [
+                0.5573,
+                1704430800
+            ],
+            [
+                0.537,
+                1704690000
+            ],
+            [
+                0.562,
+                1704776400
+            ],
+            [
+                0.595,
+                1704862800
+            ],
+            [
+                0.6061,
+                1704949200
+            ],
+            [
+                0.658,
+                1705035600
+            ],
+            [
+                0.662,
+                1705381200
+            ],
+            [
+                0.737,
+                1705467600
+            ],
+            [
+                0.773,
+                1705554000
+            ],
+            [
+                0.7321,
+                1705640400
+            ],
+            [
+                0.76,
+                1705899600
+            ],
+            [
+                0.745,
+                1705986000
+            ],
+            [
+                0.8148,
+                1706072400
+            ],
+            [
+                0.8,
+                1706158800
+            ],
+            [
+                0.78,
+                1706245200
+            ],
+            [
+                0.7767,
+                1706504400
+            ],
+            [
+                0.7991,
+                1706590800
+            ],
+            [
+                0.8121,
+                1706677200
+            ],
+            [
+                0.85,
+                1706763600
+            ],
+            [
+                0.849,
+                1706850000
+            ],
+            [
+                0.7824,
+                1707109200
+            ],
+            [
+                0.7566,
+                1707195600
+            ],
+            [
+                0.706,
+                1707282000
+            ],
+            [
+                0.756,
+                1707368400
+            ],
+            [
+                0.77,
+                1707454800
+            ],
+            [
+                0.85,
+                1707714000
+            ],
+            [
+                0.84,
+                1707800400
+            ],
+            [
+                0.945,
+                1707886800
+            ],
+            [
+                1.06,
+                1707973200
+            ],
+            [
+                1.04,
+                1708059600
+            ],
+            [
+                0.9694,
+                1708405200
+            ],
+            [
+                0.8801,
+                1708491600
+            ],
+            [
+                0.962,
+                1708578000
+            ],
+            [
+                0.98,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3632,
+        "drug_name": "KENGREAL (cangrelor)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Reduction of thrombotic cardiovascular events including stent thrombosis in patients with coronary artery disease undergoing percutaneous coronary intervention (PCI)",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2014-04-30",
+        "link": "http:\/\/www.marketwired.com\/press-release\/medicines-company-receives-complete-response-letter-from-fda-requesting-additional-information-nasdaq-mdco-1905078.htm",
+        "note": "CRL April 30 2014.",
+        "company_entity_id": 386,
+        "company_ticker": "NVS",
+        "company_name": "Novartis AG",
+        "company_price": "103.9000",
+        "company_change": 1.1,
+        "company_percent_change": 1.07,
+        "company_optionable": 1,
+        "company_number_of_shares": 2044033986,
+        "price_change_sparkline": [
+            [
+                101,
+                1704171600
+            ],
+            [
+                104.82,
+                1704258000
+            ],
+            [
+                105.57,
+                1704344400
+            ],
+            [
+                106.31,
+                1704430800
+            ],
+            [
+                107.08,
+                1704690000
+            ],
+            [
+                106.39,
+                1704776400
+            ],
+            [
+                107.44,
+                1704862800
+            ],
+            [
+                107.6,
+                1704949200
+            ],
+            [
+                107.45,
+                1705035600
+            ],
+            [
+                107.69,
+                1705381200
+            ],
+            [
+                108.26,
+                1705467600
+            ],
+            [
+                108.03,
+                1705554000
+            ],
+            [
+                108.23,
+                1705640400
+            ],
+            [
+                108.47,
+                1705899600
+            ],
+            [
+                107.73,
+                1705986000
+            ],
+            [
+                107.55,
+                1706072400
+            ],
+            [
+                106.99,
+                1706158800
+            ],
+            [
+                107.16,
+                1706245200
+            ],
+            [
+                107.95,
+                1706504400
+            ],
+            [
+                107.75,
+                1706590800
+            ],
+            [
+                103.47,
+                1706677200
+            ],
+            [
+                105.33,
+                1706763600
+            ],
+            [
+                103.72,
+                1706850000
+            ],
+            [
+                103.47,
+                1707109200
+            ],
+            [
+                103.74,
+                1707195600
+            ],
+            [
+                103.46,
+                1707282000
+            ],
+            [
+                101.36,
+                1707368400
+            ],
+            [
+                101.03,
+                1707454800
+            ],
+            [
+                100.53,
+                1707714000
+            ],
+            [
+                99.06,
+                1707800400
+            ],
+            [
+                99.05,
+                1707886800
+            ],
+            [
+                99.63,
+                1707973200
+            ],
+            [
+                100.19,
+                1708059600
+            ],
+            [
+                102.72,
+                1708405200
+            ],
+            [
+                102.56,
+                1708491600
+            ],
+            [
+                102.8,
+                1708578000
+            ],
+            [
+                103.9,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 4087,
+        "drug_name": "Kyndrisa",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Duchenne Muscular Dystrophy (DMD)",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2016-01-14",
+        "link": "http:\/\/investors.bmrn.com\/releasedetail.cfm?ReleaseID=950309",
+        "note": "CRL issued January 14 2016.",
+        "company_entity_id": 69,
+        "company_ticker": "BMRN",
+        "company_name": "BioMarin Pharmaceutical Inc.",
+        "company_price": "91.2400",
+        "company_change": 1.27,
+        "company_percent_change": 1.41,
+        "company_optionable": 1,
+        "company_number_of_shares": 188368171,
+        "price_change_sparkline": [
+            [
+                98.05,
+                1704171600
+            ],
+            [
+                96.68,
+                1704258000
+            ],
+            [
+                97.73,
+                1704344400
+            ],
+            [
+                96.47,
+                1704430800
+            ],
+            [
+                99,
+                1704690000
+            ],
+            [
+                96.13,
+                1704776400
+            ],
+            [
+                95.89,
+                1704862800
+            ],
+            [
+                96,
+                1704949200
+            ],
+            [
+                93.33,
+                1705035600
+            ],
+            [
+                93.46,
+                1705381200
+            ],
+            [
+                93.43,
+                1705467600
+            ],
+            [
+                92.53,
+                1705554000
+            ],
+            [
+                92.25,
+                1705640400
+            ],
+            [
+                94.04,
+                1705899600
+            ],
+            [
+                93.04,
+                1705986000
+            ],
+            [
+                92.31,
+                1706072400
+            ],
+            [
+                91.25,
+                1706158800
+            ],
+            [
+                90.87,
+                1706245200
+            ],
+            [
+                91.78,
+                1706504400
+            ],
+            [
+                89.62,
+                1706590800
+            ],
+            [
+                88.08,
+                1706677200
+            ],
+            [
+                88.74,
+                1706763600
+            ],
+            [
+                88.11,
+                1706850000
+            ],
+            [
+                87.72,
+                1707109200
+            ],
+            [
+                89.8,
+                1707195600
+            ],
+            [
+                89.66,
+                1707282000
+            ],
+            [
+                88.15,
+                1707368400
+            ],
+            [
+                88.46,
+                1707454800
+            ],
+            [
+                88.18,
+                1707714000
+            ],
+            [
+                86.13,
+                1707800400
+            ],
+            [
+                86.01,
+                1707886800
+            ],
+            [
+                88.3,
+                1707973200
+            ],
+            [
+                88.77,
+                1708059600
+            ],
+            [
+                88.67,
+                1708405200
+            ],
+            [
+                88.54,
+                1708491600
+            ],
+            [
+                89.97,
+                1708578000
+            ],
+            [
+                91.24,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3836,
+        "drug_name": "KALYDECO (ivacaftor)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Cystic fibrosis (CF) ages 2 and older who have one of 23 residual function mutations.",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2016-02-05",
+        "link": "http:\/\/investors.vrtx.com\/releasedetail.cfm?ReleaseID=953584",
+        "note": "CRL issued February 5, 2016.",
+        "company_entity_id": 306,
+        "company_ticker": "VRTX",
+        "company_name": "Vertex Pharmaceuticals Incorporated",
+        "company_price": "430.1100",
+        "company_change": 3.33,
+        "company_percent_change": 0.78,
+        "company_optionable": 1,
+        "company_number_of_shares": 258307816,
+        "price_change_sparkline": [
+            [
+                410.91,
+                1704171600
+            ],
+            [
+                410.71,
+                1704258000
+            ],
+            [
+                416.15,
+                1704344400
+            ],
+            [
+                416.5,
+                1704430800
+            ],
+            [
+                419.12,
+                1704690000
+            ],
+            [
+                421.01,
+                1704776400
+            ],
+            [
+                423.76,
+                1704862800
+            ],
+            [
+                430.08,
+                1704949200
+            ],
+            [
+                433.4,
+                1705035600
+            ],
+            [
+                437.49,
+                1705381200
+            ],
+            [
+                433.76,
+                1705467600
+            ],
+            [
+                432.98,
+                1705554000
+            ],
+            [
+                435.02,
+                1705640400
+            ],
+            [
+                440.11,
+                1705899600
+            ],
+            [
+                439.7,
+                1705986000
+            ],
+            [
+                427.56,
+                1706072400
+            ],
+            [
+                429.96,
+                1706158800
+            ],
+            [
+                430.17,
+                1706245200
+            ],
+            [
+                435.82,
+                1706504400
+            ],
+            [
+                446.08,
+                1706590800
+            ],
+            [
+                433.38,
+                1706677200
+            ],
+            [
+                433.87,
+                1706763600
+            ],
+            [
+                424.68,
+                1706850000
+            ],
+            [
+                428.89,
+                1707109200
+            ],
+            [
+                416.13,
+                1707195600
+            ],
+            [
+                419.08,
+                1707282000
+            ],
+            [
+                423.06,
+                1707368400
+            ],
+            [
+                422.91,
+                1707454800
+            ],
+            [
+                418.53,
+                1707714000
+            ],
+            [
+                416.04,
+                1707800400
+            ],
+            [
+                417.88,
+                1707886800
+            ],
+            [
+                426.29,
+                1707973200
+            ],
+            [
+                422.2,
+                1708059600
+            ],
+            [
+                420.64,
+                1708405200
+            ],
+            [
+                419.63,
+                1708491600
+            ],
+            [
+                426.78,
+                1708578000
+            ],
+            [
+                430.11,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3503,
+        "drug_name": "KANGIO (bivalirudin injection)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Percutaneous Coronary Intervention (PCI) and Percutaneous Transluminal Coronary Angioplasty (PTCA)",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2016-03-18",
+        "link": "http:\/\/investor.eagleus.com\/press-release\/eagle-pharmaceuticals-receives-complete-response-letter-fda-kangio-rtu-bivalirudin-app",
+        "note": "CRL March 18 2016. FDA requested further characterization of bivalirudin-related substances in the drug product.",
+        "company_entity_id": 128,
+        "company_ticker": "EGRX",
+        "company_name": "Eagle Pharmaceuticals Inc.",
+        "company_price": "6.2500",
+        "company_change": 0.38,
+        "company_percent_change": 6.47,
+        "company_optionable": 1,
+        "company_number_of_shares": 12986971,
+        "price_change_sparkline": [
+            [
+                5.66,
+                1704171600
+            ],
+            [
+                5.23,
+                1704258000
+            ],
+            [
+                5.23,
+                1704344400
+            ],
+            [
+                5.13,
+                1704430800
+            ],
+            [
+                4.91,
+                1704690000
+            ],
+            [
+                4.84,
+                1704776400
+            ],
+            [
+                4.78,
+                1704862800
+            ],
+            [
+                4.5,
+                1704949200
+            ],
+            [
+                4.53,
+                1705035600
+            ],
+            [
+                4.26,
+                1705381200
+            ],
+            [
+                4.36,
+                1705467600
+            ],
+            [
+                4.53,
+                1705554000
+            ],
+            [
+                4.48,
+                1705640400
+            ],
+            [
+                4.42,
+                1705899600
+            ],
+            [
+                4.73,
+                1705986000
+            ],
+            [
+                4.94,
+                1706072400
+            ],
+            [
+                5.3,
+                1706158800
+            ],
+            [
+                5.41,
+                1706245200
+            ],
+            [
+                5.51,
+                1706504400
+            ],
+            [
+                5.48,
+                1706590800
+            ],
+            [
+                5.86,
+                1706677200
+            ],
+            [
+                6.08,
+                1706763600
+            ],
+            [
+                5.85,
+                1706850000
+            ],
+            [
+                5.6,
+                1707109200
+            ],
+            [
+                4.9,
+                1707195600
+            ],
+            [
+                5.165,
+                1707282000
+            ],
+            [
+                5.32,
+                1707368400
+            ],
+            [
+                5.32,
+                1707454800
+            ],
+            [
+                5.6,
+                1707714000
+            ],
+            [
+                5.21,
+                1707800400
+            ],
+            [
+                5.25,
+                1707886800
+            ],
+            [
+                5.85,
+                1707973200
+            ],
+            [
+                5.97,
+                1708059600
+            ],
+            [
+                5.99,
+                1708405200
+            ],
+            [
+                6.23,
+                1708491600
+            ],
+            [
+                5.87,
+                1708578000
+            ],
+            [
+                6.25,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3456,
+        "drug_name": "Rociletinib ",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Mutant EGFR T790M-positive lung cancer",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2016-06-28",
+        "link": "http:\/\/phx.corporate-ir.net\/phoenix.zhtml?c=247187&p=irol-newsArticle&ID=2165717",
+        "note": "CRL June 28, 2016. Phase 3 TIGER-3 also terminated.",
+        "company_entity_id": 93,
+        "company_ticker": "CLVS",
+        "company_name": "Clovis Oncology Inc.",
+        "company_price": "0.0812",
+        "company_change": 0,
+        "company_percent_change": 0,
+        "company_optionable": 0,
+        "company_number_of_shares": 144955263,
+        "statuses": []
+    },
+    {
+        "id": 3064,
+        "drug_name": "Primatene Mist (epinephrine inhalation aerosol)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Asthma",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2016-12-27",
+        "link": "http:\/\/ir.amphastar.com\/releasedetail.cfm?ReleaseID=1005509",
+        "note": "CRL issued December 27, 2016.",
+        "company_entity_id": 363,
+        "company_ticker": "AMPH",
+        "company_name": "Amphastar Pharmaceuticals Inc.",
+        "company_price": "53.4100",
+        "company_change": 1.5,
+        "company_percent_change": 2.89,
+        "company_optionable": 1,
+        "company_number_of_shares": 47907411,
+        "price_change_sparkline": [
+            [
+                62.29,
+                1704171600
+            ],
+            [
+                61.04,
+                1704258000
+            ],
+            [
+                63.45,
+                1704344400
+            ],
+            [
+                62.74,
+                1704430800
+            ],
+            [
+                59.45,
+                1704690000
+            ],
+            [
+                56.82,
+                1704776400
+            ],
+            [
+                54.82,
+                1704862800
+            ],
+            [
+                54.03,
+                1704949200
+            ],
+            [
+                54.21,
+                1705035600
+            ],
+            [
+                55.5,
+                1705381200
+            ],
+            [
+                56.14,
+                1705467600
+            ],
+            [
+                56.43,
+                1705554000
+            ],
+            [
+                55.04,
+                1705640400
+            ],
+            [
+                55.92,
+                1705899600
+            ],
+            [
+                55.45,
+                1705986000
+            ],
+            [
+                55.22,
+                1706072400
+            ],
+            [
+                53.24,
+                1706158800
+            ],
+            [
+                53.88,
+                1706245200
+            ],
+            [
+                55.39,
+                1706504400
+            ],
+            [
+                54.94,
+                1706590800
+            ],
+            [
+                53.36,
+                1706677200
+            ],
+            [
+                53.49,
+                1706763600
+            ],
+            [
+                52.8,
+                1706850000
+            ],
+            [
+                52.35,
+                1707109200
+            ],
+            [
+                52.49,
+                1707195600
+            ],
+            [
+                52.96,
+                1707282000
+            ],
+            [
+                54.6,
+                1707368400
+            ],
+            [
+                55.61,
+                1707454800
+            ],
+            [
+                56.02,
+                1707714000
+            ],
+            [
+                54.75,
+                1707800400
+            ],
+            [
+                54.93,
+                1707886800
+            ],
+            [
+                55.51,
+                1707973200
+            ],
+            [
+                54.06,
+                1708059600
+            ],
+            [
+                52.45,
+                1708405200
+            ],
+            [
+                51.25,
+                1708491600
+            ],
+            [
+                51.91,
+                1708578000
+            ],
+            [
+                53.41,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2618,
+        "drug_name": "Januvia (Sitagliptin)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Type 2 Diabetes",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2017-04-07",
+        "link": "http:\/\/investors.merck.com\/news\/press-release-details\/2017\/Merck-Receives-Complete-Response-Letter-from-the-US-FDA-for-TECOS-Study-with-Sitagliptin\/default.aspx",
+        "note": "CRL issued April 7 2017. sNDA for approved drug requested to include data on cardiovascular effects",
+        "company_entity_id": 383,
+        "company_ticker": "MRK",
+        "company_name": "Merck & Company Inc.",
+        "company_price": "129.4500",
+        "company_change": 0.19,
+        "company_percent_change": 0.15,
+        "company_optionable": 1,
+        "company_number_of_shares": 2534023084,
+        "price_change_sparkline": [
+            [
+                113.24,
+                1704171600
+            ],
+            [
+                114.77,
+                1704258000
+            ],
+            [
+                117.01,
+                1704344400
+            ],
+            [
+                117.22,
+                1704430800
+            ],
+            [
+                117.38,
+                1704690000
+            ],
+            [
+                118.43,
+                1704776400
+            ],
+            [
+                118.86,
+                1704862800
+            ],
+            [
+                118.43,
+                1704949200
+            ],
+            [
+                118.63,
+                1705035600
+            ],
+            [
+                118.49,
+                1705381200
+            ],
+            [
+                118.13,
+                1705467600
+            ],
+            [
+                118.54,
+                1705554000
+            ],
+            [
+                118.89,
+                1705640400
+            ],
+            [
+                119.43,
+                1705899600
+            ],
+            [
+                119.84,
+                1705986000
+            ],
+            [
+                118.88,
+                1706072400
+            ],
+            [
+                120.13,
+                1706158800
+            ],
+            [
+                120.82,
+                1706245200
+            ],
+            [
+                121.28,
+                1706504400
+            ],
+            [
+                121.66,
+                1706590800
+            ],
+            [
+                120.78,
+                1706677200
+            ],
+            [
+                126.38,
+                1706763600
+            ],
+            [
+                126.41,
+                1706850000
+            ],
+            [
+                126.18,
+                1707109200
+            ],
+            [
+                126.88,
+                1707195600
+            ],
+            [
+                127.47,
+                1707282000
+            ],
+            [
+                126.61,
+                1707368400
+            ],
+            [
+                125.45,
+                1707454800
+            ],
+            [
+                125.34,
+                1707714000
+            ],
+            [
+                125.43,
+                1707800400
+            ],
+            [
+                125.82,
+                1707886800
+            ],
+            [
+                126.54,
+                1707973200
+            ],
+            [
+                127.79,
+                1708059600
+            ],
+            [
+                127.37,
+                1708405200
+            ],
+            [
+                128.12,
+                1708491600
+            ],
+            [
+                129.26,
+                1708578000
+            ],
+            [
+                129.45,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2496,
+        "drug_name": "Epoetin alfa biosimilar",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2017-06-22",
+        "link": "http:\/\/www.pfizer.com\/sites\/default\/files\/news\/FINAL%20EPO%20%20fmsj%20BsUFA%20-%20Scenario%202A%20Press%20Release%206.21.17%207PM.pdf",
+        "note": "CRL issued June 22, 2017.",
+        "company_entity_id": 387,
+        "company_ticker": "PFE",
+        "company_name": "Pfizer Inc.",
+        "company_price": "27.7600",
+        "company_change": 0.21,
+        "company_percent_change": 0.76,
+        "company_optionable": 1,
+        "company_number_of_shares": 5646413292,
+        "price_change_sparkline": [
+            [
+                29.2822911437791,
+                1704171600
+            ],
+            [
+                29.2822911437791,
+                1704258000
+            ],
+            [
+                28.6519290068125,
+                1704344400
+            ],
+            [
+                29.0262065256364,
+                1704430800
+            ],
+            [
+                29.1345500179276,
+                1704690000
+            ],
+            [
+                28.9572606669057,
+                1704776400
+            ],
+            [
+                28.5534349229114,
+                1704862800
+            ],
+            [
+                27.9723198278953,
+                1704949200
+            ],
+            [
+                28.2678020795984,
+                1705035600
+            ],
+            [
+                27.8935245607745,
+                1705381200
+            ],
+            [
+                27.7260846181427,
+                1705467600
+            ],
+            [
+                27.6669881678021,
+                1705554000
+            ],
+            [
+                27.8541269272141,
+                1705640400
+            ],
+            [
+                27.8836751523844,
+                1705899600
+            ],
+            [
+                28.0018680530656,
+                1705986000
+            ],
+            [
+                27.9033739691646,
+                1706072400
+            ],
+            [
+                27.47,
+                1706158800
+            ],
+            [
+                27.47,
+                1706245200
+            ],
+            [
+                27.48,
+                1706504400
+            ],
+            [
+                27.02,
+                1706590800
+            ],
+            [
+                27.08,
+                1706677200
+            ],
+            [
+                27.29,
+                1706763600
+            ],
+            [
+                26.93,
+                1706850000
+            ],
+            [
+                26.57,
+                1707109200
+            ],
+            [
+                27.5,
+                1707195600
+            ],
+            [
+                27.56,
+                1707282000
+            ],
+            [
+                27.57,
+                1707368400
+            ],
+            [
+                27.56,
+                1707454800
+            ],
+            [
+                27.66,
+                1707714000
+            ],
+            [
+                26.97,
+                1707800400
+            ],
+            [
+                27.11,
+                1707886800
+            ],
+            [
+                27.51,
+                1707973200
+            ],
+            [
+                27.62,
+                1708059600
+            ],
+            [
+                27.59,
+                1708405200
+            ],
+            [
+                27.67,
+                1708491600
+            ],
+            [
+                27.55,
+                1708578000
+            ],
+            [
+                27.76,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2884,
+        "drug_name": "Sirukumab ",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Rheumatoid arthritis",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2017-09-22",
+        "link": "http:\/\/www.prnewswire.com\/news-releases\/janssen-receives-complete-response-letter-from-us-fda-for-sirukumab-biologics-license-application-300524496.html",
+        "note": "CRL issued September 22, 2017. Advisory Committee Meeting August 2, 2017 voted 12-1 against that safety data is adequate to support approval. 13-0 in favor of efficacy.",
+        "company_entity_id": 380,
+        "company_ticker": "JNJ",
+        "company_name": "Johnson & Johnson",
+        "company_price": "161.8400",
+        "company_change": 1.3900000000000001,
+        "company_percent_change": 0.87,
+        "company_optionable": 1,
+        "company_number_of_shares": 2408767228,
+        "price_change_sparkline": [
+            [
+                158.763176746545,
+                1704171600
+            ],
+            [
+                159.7556326867,
+                1704258000
+            ],
+            [
+                159.418197667047,
+                1704344400
+            ],
+            [
+                159.914425637124,
+                1704430800
+            ],
+            [
+                160.311408013186,
+                1704690000
+            ],
+            [
+                160.410653607202,
+                1704776400
+            ],
+            [
+                160.648843032839,
+                1704862800
+            ],
+            [
+                159.934274755927,
+                1704949200
+            ],
+            [
+                161.164920121719,
+                1705035600
+            ],
+            [
+                159.30902751363,
+                1705381200
+            ],
+            [
+                159.219706479016,
+                1705467600
+            ],
+            [
+                159.993822112337,
+                1705554000
+            ],
+            [
+                160.460276404209,
+                1705640400
+            ],
+            [
+                161.244316596932,
+                1705899600
+            ],
+            [
+                158.60438379612,
+                1705986000
+            ],
+            [
+                157.760796246989,
+                1706072400
+            ],
+            [
+                158.356269811082,
+                1706158800
+            ],
+            [
+                158.296722454672,
+                1706245200
+            ],
+            [
+                158.157778623051,
+                1706504400
+            ],
+            [
+                157.572229618359,
+                1706590800
+            ],
+            [
+                157.701248890579,
+                1706677200
+            ],
+            [
+                157.165322682896,
+                1706763600
+            ],
+            [
+                155.428524787625,
+                1706850000
+            ],
+            [
+                154.6246354761,
+                1707109200
+            ],
+            [
+                156.867585900849,
+                1707195600
+            ],
+            [
+                156.788189425637,
+                1707282000
+            ],
+            [
+                155.220109040193,
+                1707368400
+            ],
+            [
+                155.577393178648,
+                1707454800
+            ],
+            [
+                156.659170153417,
+                1707714000
+            ],
+            [
+                155.289580956004,
+                1707800400
+            ],
+            [
+                154.565088119691,
+                1707886800
+            ],
+            [
+                156.728642069228,
+                1707973200
+            ],
+            [
+                156.55,
+                1708059600
+            ],
+            [
+                157.86,
+                1708405200
+            ],
+            [
+                158.68,
+                1708491600
+            ],
+            [
+                160.45,
+                1708578000
+            ],
+            [
+                161.84,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3349,
+        "drug_name": "VARUBI (Rolapitant) - intravenous",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Prevention of chemotherapy induced nausea and vomiting, or CINV in HEC patients",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2017-10-26",
+        "link": "http:\/\/ir.tesarobio.com\/news-releases\/news-release-details\/tesaro-announces-us-fda-approval-varubir-iv-delayed-nausea-and",
+        "note": "CRL January 11 2017. FDA Approval announced October 25, 2017 following resubmission.",
+        "company_entity_id": 379,
+        "company_ticker": "GSK",
+        "company_name": "GSK plc American Depositary Shares (Each representing two)",
+        "company_price": "42.2200",
+        "company_change": 0.06,
+        "company_percent_change": 0.14,
+        "company_optionable": 1,
+        "company_number_of_shares": 2058346912,
+        "price_change_sparkline": [
+            [
+                37.1521717132914,
+                1704171600
+            ],
+            [
+                38.5487209565796,
+                1704258000
+            ],
+            [
+                38.6972900250145,
+                1704344400
+            ],
+            [
+                38.8359544888871,
+                1704430800
+            ],
+            [
+                39.2618524850672,
+                1704690000
+            ],
+            [
+                39.3807077398151,
+                1704776400
+            ],
+            [
+                39.6085136447486,
+                1704862800
+            ],
+            [
+                39.2618524850672,
+                1704949200
+            ],
+            [
+                39.7174642949342,
+                1705035600
+            ],
+            [
+                39.499562994563,
+                1705381200
+            ],
+            [
+                39.4005169489398,
+                1705467600
+            ],
+            [
+                39.1628064394439,
+                1705554000
+            ],
+            [
+                39.3014709033165,
+                1705640400
+            ],
+            [
+                39.1529018348816,
+                1705899600
+            ],
+            [
+                38.9052867208234,
+                1705986000
+            ],
+            [
+                38.6576716067652,
+                1706072400
+            ],
+            [
+                38.4694841200809,
+                1706158800
+            ],
+            [
+                38.6972900250145,
+                1706245200
+            ],
+            [
+                38.6873854204522,
+                1706504400
+            ],
+            [
+                38.7170992341391,
+                1706590800
+            ],
+            [
+                39.0637603938206,
+                1706677200
+            ],
+            [
+                40.2424083367376,
+                1706763600
+            ],
+            [
+                40.3315497777986,
+                1706850000
+            ],
+            [
+                41.1734411655964,
+                1707109200
+            ],
+            [
+                41.3517240477183,
+                1707195600
+            ],
+            [
+                41.6191483709012,
+                1707282000
+            ],
+            [
+                41.4210562796546,
+                1707368400
+            ],
+            [
+                41.5101977207156,
+                1707454800
+            ],
+            [
+                40.67821093748,
+                1707714000
+            ],
+            [
+                40.9951582834745,
+                1707800400
+            ],
+            [
+                41.40124707053,
+                1707886800
+            ],
+            [
+                41.371533256843,
+                1707973200
+            ],
+            [
+                41.5399115344025,
+                1708059600
+            ],
+            [
+                41.6191483709012,
+                1708405200
+            ],
+            [
+                41.5399115344025,
+                1708491600
+            ],
+            [
+                42.16,
+                1708578000
+            ],
+            [
+                42.22,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2575,
+        "drug_name": "Biosimilar rituximab",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Various blood cancers, rheumatoid arthritis.",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2018-05-02",
+        "link": "http:\/\/hugin.info\/134323\/R\/2189801\/847297.pdf",
+        "note": "CRL issued May 2, 2018.",
+        "company_entity_id": 386,
+        "company_ticker": "NVS",
+        "company_name": "Novartis AG",
+        "company_price": "103.9000",
+        "company_change": 1.1,
+        "company_percent_change": 1.07,
+        "company_optionable": 1,
+        "company_number_of_shares": 2044033986,
+        "price_change_sparkline": [
+            [
+                101,
+                1704171600
+            ],
+            [
+                104.82,
+                1704258000
+            ],
+            [
+                105.57,
+                1704344400
+            ],
+            [
+                106.31,
+                1704430800
+            ],
+            [
+                107.08,
+                1704690000
+            ],
+            [
+                106.39,
+                1704776400
+            ],
+            [
+                107.44,
+                1704862800
+            ],
+            [
+                107.6,
+                1704949200
+            ],
+            [
+                107.45,
+                1705035600
+            ],
+            [
+                107.69,
+                1705381200
+            ],
+            [
+                108.26,
+                1705467600
+            ],
+            [
+                108.03,
+                1705554000
+            ],
+            [
+                108.23,
+                1705640400
+            ],
+            [
+                108.47,
+                1705899600
+            ],
+            [
+                107.73,
+                1705986000
+            ],
+            [
+                107.55,
+                1706072400
+            ],
+            [
+                106.99,
+                1706158800
+            ],
+            [
+                107.16,
+                1706245200
+            ],
+            [
+                107.95,
+                1706504400
+            ],
+            [
+                107.75,
+                1706590800
+            ],
+            [
+                103.47,
+                1706677200
+            ],
+            [
+                105.33,
+                1706763600
+            ],
+            [
+                103.72,
+                1706850000
+            ],
+            [
+                103.47,
+                1707109200
+            ],
+            [
+                103.74,
+                1707195600
+            ],
+            [
+                103.46,
+                1707282000
+            ],
+            [
+                101.36,
+                1707368400
+            ],
+            [
+                101.03,
+                1707454800
+            ],
+            [
+                100.53,
+                1707714000
+            ],
+            [
+                99.06,
+                1707800400
+            ],
+            [
+                99.05,
+                1707886800
+            ],
+            [
+                99.63,
+                1707973200
+            ],
+            [
+                100.19,
+                1708059600
+            ],
+            [
+                102.72,
+                1708405200
+            ],
+            [
+                102.56,
+                1708491600
+            ],
+            [
+                102.8,
+                1708578000
+            ],
+            [
+                103.9,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2254,
+        "drug_name": "EYLEA (aflibercept)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Wet AMD",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2018-08-13",
+        "link": "http:\/\/investor.regeneron.com\/releaseDetail.cfm?ReleaseID=1074702",
+        "note": "CRL issued August 13, 2018 - ongoing labeling discussions.",
+        "company_entity_id": 388,
+        "company_ticker": "REGN",
+        "company_name": "Regeneron Pharmaceuticals Inc.",
+        "company_price": "981.2000",
+        "company_change": 16.31,
+        "company_percent_change": 1.69,
+        "company_optionable": 1,
+        "company_number_of_shares": 109761896,
+        "price_change_sparkline": [
+            [
+                905,
+                1704171600
+            ],
+            [
+                917.56,
+                1704258000
+            ],
+            [
+                912.17,
+                1704344400
+            ],
+            [
+                913.17,
+                1704430800
+            ],
+            [
+                902.88,
+                1704690000
+            ],
+            [
+                902.69,
+                1704776400
+            ],
+            [
+                906.16,
+                1704862800
+            ],
+            [
+                915.97,
+                1704949200
+            ],
+            [
+                933.2,
+                1705035600
+            ],
+            [
+                937.32,
+                1705381200
+            ],
+            [
+                929.13,
+                1705467600
+            ],
+            [
+                930,
+                1705554000
+            ],
+            [
+                933.4,
+                1705640400
+            ],
+            [
+                942.83,
+                1705899600
+            ],
+            [
+                954.58,
+                1705986000
+            ],
+            [
+                948.24,
+                1706072400
+            ],
+            [
+                948.87,
+                1706158800
+            ],
+            [
+                940.05,
+                1706245200
+            ],
+            [
+                955.8,
+                1706504400
+            ],
+            [
+                959.73,
+                1706590800
+            ],
+            [
+                942.78,
+                1706677200
+            ],
+            [
+                957.78,
+                1706763600
+            ],
+            [
+                945.18,
+                1706850000
+            ],
+            [
+                936.33,
+                1707109200
+            ],
+            [
+                937.81,
+                1707195600
+            ],
+            [
+                938.49,
+                1707282000
+            ],
+            [
+                946.43,
+                1707368400
+            ],
+            [
+                953.42,
+                1707454800
+            ],
+            [
+                947.06,
+                1707714000
+            ],
+            [
+                940.48,
+                1707800400
+            ],
+            [
+                947.82,
+                1707886800
+            ],
+            [
+                954.73,
+                1707973200
+            ],
+            [
+                948.05,
+                1708059600
+            ],
+            [
+                946.87,
+                1708405200
+            ],
+            [
+                952.84,
+                1708491600
+            ],
+            [
+                964.89,
+                1708578000
+            ],
+            [
+                981.2,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 1900,
+        "drug_name": "Stannsoporfin",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Jaundice",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2018-08-22",
+        "link": "http:\/\/www.mallinckrodt.com\/about\/news-and-media\/news-detail\/?id=2364411",
+        "note": "CRL issued August 22, 2018.",
+        "company_entity_id": 887,
+        "company_ticker": "MNKKQ",
+        "company_name": "Mallinckrodt plc",
+        "company_price": "0.0200",
+        "company_change": 0,
+        "company_percent_change": 0,
+        "company_optionable": 0,
+        "company_number_of_shares": 13371707,
+        "statuses": []
+    },
+    {
+        "id": 3593,
+        "drug_name": "Volanesorsen - (APPROACH)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Familial chylomicronemia syndrome (FCS)",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2018-08-27",
+        "link": "http:\/\/ir.akceatx.com\/news-releases\/news-release-details\/akcea-and-ionis-receive-complete-response-letter-waylivra-fda",
+        "note": "CRL issued August 27, 2018.",
+        "company_entity_id": 173,
+        "company_ticker": "IONS",
+        "company_name": "Ionis Pharmaceuticals Inc.",
+        "company_price": "45.3600",
+        "company_change": 1.38,
+        "company_percent_change": 3.14,
+        "company_optionable": 1,
+        "company_number_of_shares": 145751797,
+        "price_change_sparkline": [
+            [
+                52.87,
+                1704171600
+            ],
+            [
+                51.59,
+                1704258000
+            ],
+            [
+                51.48,
+                1704344400
+            ],
+            [
+                50.7,
+                1704430800
+            ],
+            [
+                52.32,
+                1704690000
+            ],
+            [
+                52.88,
+                1704776400
+            ],
+            [
+                52.21,
+                1704862800
+            ],
+            [
+                53.55,
+                1704949200
+            ],
+            [
+                53.54,
+                1705035600
+            ],
+            [
+                51.03,
+                1705381200
+            ],
+            [
+                51.29,
+                1705467600
+            ],
+            [
+                50.65,
+                1705554000
+            ],
+            [
+                50.98,
+                1705640400
+            ],
+            [
+                51.01,
+                1705899600
+            ],
+            [
+                51.81,
+                1705986000
+            ],
+            [
+                50.6,
+                1706072400
+            ],
+            [
+                51.58,
+                1706158800
+            ],
+            [
+                51.49,
+                1706245200
+            ],
+            [
+                52.01,
+                1706504400
+            ],
+            [
+                51.9,
+                1706590800
+            ],
+            [
+                51.39,
+                1706677200
+            ],
+            [
+                50.97,
+                1706763600
+            ],
+            [
+                49.75,
+                1706850000
+            ],
+            [
+                49.43,
+                1707109200
+            ],
+            [
+                49.12,
+                1707195600
+            ],
+            [
+                49.54,
+                1707282000
+            ],
+            [
+                49.98,
+                1707368400
+            ],
+            [
+                51.4,
+                1707454800
+            ],
+            [
+                50.38,
+                1707714000
+            ],
+            [
+                48.61,
+                1707800400
+            ],
+            [
+                49.07,
+                1707886800
+            ],
+            [
+                45.28,
+                1707973200
+            ],
+            [
+                44.43,
+                1708059600
+            ],
+            [
+                44.35,
+                1708405200
+            ],
+            [
+                43.53,
+                1708491600
+            ],
+            [
+                43.98,
+                1708578000
+            ],
+            [
+                45.36,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2893,
+        "drug_name": "NUCALA (Mepolizumab)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Chronic obstructive pulmonary disease (COPD) with an eosinophilic phenotype",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2018-09-07",
+        "link": "https:\/\/www.gsk.com\/en-gb\/media\/press-releases\/gsk-receives-complete-response-letter-from-us-fda-for-use-of-mepolizumab-in-copd-patients\/",
+        "note": "CRL issued September 7, 2018.",
+        "company_entity_id": 379,
+        "company_ticker": "GSK",
+        "company_name": "GSK plc American Depositary Shares (Each representing two)",
+        "company_price": "42.2200",
+        "company_change": 0.06,
+        "company_percent_change": 0.14,
+        "company_optionable": 1,
+        "company_number_of_shares": 2058346912,
+        "price_change_sparkline": [
+            [
+                37.1521717132914,
+                1704171600
+            ],
+            [
+                38.5487209565796,
+                1704258000
+            ],
+            [
+                38.6972900250145,
+                1704344400
+            ],
+            [
+                38.8359544888871,
+                1704430800
+            ],
+            [
+                39.2618524850672,
+                1704690000
+            ],
+            [
+                39.3807077398151,
+                1704776400
+            ],
+            [
+                39.6085136447486,
+                1704862800
+            ],
+            [
+                39.2618524850672,
+                1704949200
+            ],
+            [
+                39.7174642949342,
+                1705035600
+            ],
+            [
+                39.499562994563,
+                1705381200
+            ],
+            [
+                39.4005169489398,
+                1705467600
+            ],
+            [
+                39.1628064394439,
+                1705554000
+            ],
+            [
+                39.3014709033165,
+                1705640400
+            ],
+            [
+                39.1529018348816,
+                1705899600
+            ],
+            [
+                38.9052867208234,
+                1705986000
+            ],
+            [
+                38.6576716067652,
+                1706072400
+            ],
+            [
+                38.4694841200809,
+                1706158800
+            ],
+            [
+                38.6972900250145,
+                1706245200
+            ],
+            [
+                38.6873854204522,
+                1706504400
+            ],
+            [
+                38.7170992341391,
+                1706590800
+            ],
+            [
+                39.0637603938206,
+                1706677200
+            ],
+            [
+                40.2424083367376,
+                1706763600
+            ],
+            [
+                40.3315497777986,
+                1706850000
+            ],
+            [
+                41.1734411655964,
+                1707109200
+            ],
+            [
+                41.3517240477183,
+                1707195600
+            ],
+            [
+                41.6191483709012,
+                1707282000
+            ],
+            [
+                41.4210562796546,
+                1707368400
+            ],
+            [
+                41.5101977207156,
+                1707454800
+            ],
+            [
+                40.67821093748,
+                1707714000
+            ],
+            [
+                40.9951582834745,
+                1707800400
+            ],
+            [
+                41.40124707053,
+                1707886800
+            ],
+            [
+                41.371533256843,
+                1707973200
+            ],
+            [
+                41.5399115344025,
+                1708059600
+            ],
+            [
+                41.6191483709012,
+                1708405200
+            ],
+            [
+                41.5399115344025,
+                1708491600
+            ],
+            [
+                42.16,
+                1708578000
+            ],
+            [
+                42.22,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2760,
+        "drug_name": "ACZ885 (canakinumab) ",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "CV risk reduction",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2018-10-18",
+        "link": "https:\/\/www.sec.gov\/Archives\/edgar\/data\/1114448\/000137036818000045\/a181018-99_1.htm",
+        "note": "CRL announced October 18, 2018.",
+        "company_entity_id": 317,
+        "company_ticker": "XOMA",
+        "company_name": "XOMA Corporation",
+        "company_price": "23.3200",
+        "company_change": -0.020000000000000018,
+        "company_percent_change": -0.08999999999999997,
+        "company_optionable": 1,
+        "company_number_of_shares": 11487808,
+        "price_change_sparkline": [
+            [
+                20.89,
+                1704171600
+            ],
+            [
+                20.84,
+                1704258000
+            ],
+            [
+                20.88,
+                1704344400
+            ],
+            [
+                20.91,
+                1704430800
+            ],
+            [
+                21.85,
+                1704690000
+            ],
+            [
+                21.02,
+                1704776400
+            ],
+            [
+                20.76,
+                1704862800
+            ],
+            [
+                20.76,
+                1704949200
+            ],
+            [
+                20.16,
+                1705035600
+            ],
+            [
+                19.75,
+                1705381200
+            ],
+            [
+                19.34,
+                1705467600
+            ],
+            [
+                19.1,
+                1705554000
+            ],
+            [
+                19.9,
+                1705640400
+            ],
+            [
+                20.4,
+                1705899600
+            ],
+            [
+                19.75,
+                1705986000
+            ],
+            [
+                20.45,
+                1706072400
+            ],
+            [
+                20.61,
+                1706158800
+            ],
+            [
+                20.19,
+                1706245200
+            ],
+            [
+                20.72,
+                1706504400
+            ],
+            [
+                20.55,
+                1706590800
+            ],
+            [
+                19.97,
+                1706677200
+            ],
+            [
+                20.6,
+                1706763600
+            ],
+            [
+                20.2,
+                1706850000
+            ],
+            [
+                20.04,
+                1707109200
+            ],
+            [
+                20.81,
+                1707195600
+            ],
+            [
+                20.33,
+                1707282000
+            ],
+            [
+                20.04,
+                1707368400
+            ],
+            [
+                20.41,
+                1707454800
+            ],
+            [
+                20.9,
+                1707714000
+            ],
+            [
+                19.52,
+                1707800400
+            ],
+            [
+                20.4,
+                1707886800
+            ],
+            [
+                22.18,
+                1707973200
+            ],
+            [
+                23.13,
+                1708059600
+            ],
+            [
+                22.28,
+                1708405200
+            ],
+            [
+                24.5,
+                1708491600
+            ],
+            [
+                23.34,
+                1708578000
+            ],
+            [
+                23.32,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2760,
+        "drug_name": "ACZ885 (canakinumab) ",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "CV risk reduction",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2018-10-18",
+        "link": "https:\/\/www.sec.gov\/Archives\/edgar\/data\/1114448\/000137036818000045\/a181018-99_1.htm",
+        "note": "CRL announced October 18, 2018.",
+        "company_entity_id": 386,
+        "company_ticker": "NVS",
+        "company_name": "Novartis AG",
+        "company_price": "103.9000",
+        "company_change": 1.1,
+        "company_percent_change": 1.07,
+        "company_optionable": 1,
+        "company_number_of_shares": 2044033986,
+        "price_change_sparkline": [
+            [
+                101,
+                1704171600
+            ],
+            [
+                104.82,
+                1704258000
+            ],
+            [
+                105.57,
+                1704344400
+            ],
+            [
+                106.31,
+                1704430800
+            ],
+            [
+                107.08,
+                1704690000
+            ],
+            [
+                106.39,
+                1704776400
+            ],
+            [
+                107.44,
+                1704862800
+            ],
+            [
+                107.6,
+                1704949200
+            ],
+            [
+                107.45,
+                1705035600
+            ],
+            [
+                107.69,
+                1705381200
+            ],
+            [
+                108.26,
+                1705467600
+            ],
+            [
+                108.03,
+                1705554000
+            ],
+            [
+                108.23,
+                1705640400
+            ],
+            [
+                108.47,
+                1705899600
+            ],
+            [
+                107.73,
+                1705986000
+            ],
+            [
+                107.55,
+                1706072400
+            ],
+            [
+                106.99,
+                1706158800
+            ],
+            [
+                107.16,
+                1706245200
+            ],
+            [
+                107.95,
+                1706504400
+            ],
+            [
+                107.75,
+                1706590800
+            ],
+            [
+                103.47,
+                1706677200
+            ],
+            [
+                105.33,
+                1706763600
+            ],
+            [
+                103.72,
+                1706850000
+            ],
+            [
+                103.47,
+                1707109200
+            ],
+            [
+                103.74,
+                1707195600
+            ],
+            [
+                103.46,
+                1707282000
+            ],
+            [
+                101.36,
+                1707368400
+            ],
+            [
+                101.03,
+                1707454800
+            ],
+            [
+                100.53,
+                1707714000
+            ],
+            [
+                99.06,
+                1707800400
+            ],
+            [
+                99.05,
+                1707886800
+            ],
+            [
+                99.63,
+                1707973200
+            ],
+            [
+                100.19,
+                1708059600
+            ],
+            [
+                102.72,
+                1708405200
+            ],
+            [
+                102.56,
+                1708491600
+            ],
+            [
+                102.8,
+                1708578000
+            ],
+            [
+                103.9,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 5226,
+        "drug_name": "AQST-119",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Erectile dysfunction",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2018-11-16",
+        "link": "https:\/\/investors.aquestive.com\/news-releases\/news-release-details\/aquestive-therapeutics-receives-complete-response-letter-us-food",
+        "note": "CRL issued November 16, 2018.",
+        "company_entity_id": 582,
+        "company_ticker": "AQST",
+        "company_name": "Aquestive Therapeutics Inc.",
+        "company_price": "2.5700",
+        "company_change": -0.06000000000000005,
+        "company_percent_change": -2.2800000000000002,
+        "company_optionable": 1,
+        "company_number_of_shares": 66767283,
+        "price_change_sparkline": [
+            [
+                2.01,
+                1704171600
+            ],
+            [
+                2.09,
+                1704258000
+            ],
+            [
+                2.26,
+                1704344400
+            ],
+            [
+                2.34,
+                1704430800
+            ],
+            [
+                2.5,
+                1704690000
+            ],
+            [
+                2.72,
+                1704776400
+            ],
+            [
+                2.56,
+                1704862800
+            ],
+            [
+                2.51,
+                1704949200
+            ],
+            [
+                2.63,
+                1705035600
+            ],
+            [
+                2.655,
+                1705381200
+            ],
+            [
+                2.625,
+                1705467600
+            ],
+            [
+                2.48,
+                1705554000
+            ],
+            [
+                2.44,
+                1705640400
+            ],
+            [
+                2.51,
+                1705899600
+            ],
+            [
+                2.5,
+                1705986000
+            ],
+            [
+                2.39,
+                1706072400
+            ],
+            [
+                2.37,
+                1706158800
+            ],
+            [
+                2.39,
+                1706245200
+            ],
+            [
+                2.46,
+                1706504400
+            ],
+            [
+                2.38,
+                1706590800
+            ],
+            [
+                2.39,
+                1706677200
+            ],
+            [
+                2.67,
+                1706763600
+            ],
+            [
+                2.63,
+                1706850000
+            ],
+            [
+                2.7,
+                1707109200
+            ],
+            [
+                2.79,
+                1707195600
+            ],
+            [
+                2.64,
+                1707282000
+            ],
+            [
+                2.68,
+                1707368400
+            ],
+            [
+                2.75,
+                1707454800
+            ],
+            [
+                2.77,
+                1707714000
+            ],
+            [
+                2.65,
+                1707800400
+            ],
+            [
+                2.68,
+                1707886800
+            ],
+            [
+                2.72,
+                1707973200
+            ],
+            [
+                2.695,
+                1708059600
+            ],
+            [
+                2.65,
+                1708405200
+            ],
+            [
+                2.51,
+                1708491600
+            ],
+            [
+                2.63,
+                1708578000
+            ],
+            [
+                2.57,
+                1708664400
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 5143,
+        "drug_name": "MNK-812",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Pain",
+        "label": "CRL",
+        "value": "crl",
+        "simplified_stage": "phase6",
+        "stageid": 16,
+        "stage_name": "CRL",
+        "date": "2018-12-12",
+        "link": "http:\/\/www.mallinckrodt.com\/about\/news-and-media",
+        "note": "CRL issued December 12, 2018.",
+        "company_entity_id": 887,
+        "company_ticker": "MNKKQ",
+        "company_name": "Mallinckrodt plc",
+        "company_price": "0.0200",
+        "company_change": 0,
+        "company_percent_change": 0,
+        "company_optionable": 0,
+        "company_number_of_shares": 13371707,
+        "statuses": []
+    }
+]
+ 

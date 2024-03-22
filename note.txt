@@ -1,1 +1,34 @@
 Google\ Chrome --remote-debugging-port=9222 --user-data-dir="/Users/zonglianghan/Desktop/webCrawl/chromeData"
+
+
+500+ 人数
+双盲 --》 对照组， 和别的药对比（baseline）
+
+如果病人正在用的药，病人就知道， 不是双盲
+
+开始人多，后面人少了
+
+特别严重的病，看短期生存率，survival rate 
+
+background， 知道什么病
+Method，知道怎么设计的
+看table， 
+看result
+primary endpoint 身体指标变好多少， second endpoint：primary里面的细节 primary行就行，second 不行也行
+看p value
+
+Safety： 一定会有， 如果没有，就在另一个report里
+
+如果是改善身体机能：比安慰剂强一些就可
+如果是救命： 比安慰剂强很多
+
+大药厂
+
+给药方式/ 买点： 便宜/方便/次数少/副作用小
+
+找日内交易的indicator。
+算一下几天前的收益率好
+
+
+
+

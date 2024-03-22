@@ -1,0 +1,3417 @@
+[
+    {
+        "id": 2396,
+        "drug_name": "GILENYA (Fingolimod)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Multiple Sclerosis (MS)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-05-11",
+        "link": "https:\/\/www.novartis.com\/news\/media-releases\/novartis-announces-fda-approval-gilenyar-first-disease-modifying-therapy-pediatric-relapsing-multiple-sclerosis",
+        "note": "Approval announced May 11, 2018.",
+        "company_entity_id": 386,
+        "company_ticker": "NVS",
+        "company_name": "Novartis AG",
+        "company_price": "99.7700",
+        "company_change": -1.6,
+        "company_percent_change": -1.58,
+        "company_optionable": 1,
+        "company_number_of_shares": 2044033986,
+        "price_change_sparkline": [
+            [
+                99.701426650332,
+                1706677200
+            ],
+            [
+                101.493681927897,
+                1706763600
+            ],
+            [
+                99.9423211768864,
+                1706850000
+            ],
+            [
+                99.701426650332,
+                1707109200
+            ],
+            [
+                99.9615927390107,
+                1707195600
+            ],
+            [
+                99.6917908692698,
+                1707282000
+            ],
+            [
+                97.6682768462129,
+                1707368400
+            ],
+            [
+                97.3502960711611,
+                1707454800
+            ],
+            [
+                96.8685070180523,
+                1707714000
+            ],
+            [
+                95.4520472019125,
+                1707800400
+            ],
+            [
+                95.4424114208503,
+                1707886800
+            ],
+            [
+                96.0012867224565,
+                1707973200
+            ],
+            [
+                96.5408904619384,
+                1708059600
+            ],
+            [
+                98.9787430706688,
+                1708405200
+            ],
+            [
+                98.824570573674,
+                1708491600
+            ],
+            [
+                99.0558293191662,
+                1708578000
+            ],
+            [
+                100.115765236006,
+                1708664400
+            ],
+            [
+                99.4894394669641,
+                1708923600
+            ],
+            [
+                99.3930816563424,
+                1709010000
+            ],
+            [
+                98.49695401756,
+                1709096400
+            ],
+            [
+                97.2924813847881,
+                1709182800
+            ],
+            [
+                98.3427815205652,
+                1709269200
+            ],
+            [
+                98.2560594910056,
+                1709528400
+            ],
+            [
+                98.3813246448139,
+                1709614800
+            ],
+            [
+                98.9016568221714,
+                1709701200
+            ],
+            [
+                99.93,
+                1709787600
+            ],
+            [
+                100.71,
+                1709874000
+            ],
+            [
+                101.37,
+                1710129600
+            ],
+            [
+                99.77,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2832,
+        "drug_name": "AIMOVIG (Erenumab)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Migraine",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-05-17",
+        "link": "http:\/\/hugin.info\/134323\/R\/2193680\/849680.pdf",
+        "note": "Approval announced May 17, 2018.",
+        "company_entity_id": 372,
+        "company_ticker": "AMGN",
+        "company_name": "Amgen Inc.",
+        "company_price": "276.5400",
+        "company_change": 1.18,
+        "company_percent_change": 0.43,
+        "company_optionable": 1,
+        "company_number_of_shares": 535918901,
+        "price_change_sparkline": [
+            [
+                311.832823699025,
+                1706677200
+            ],
+            [
+                322.053272003295,
+                1706763600
+            ],
+            [
+                320.693853151174,
+                1706850000
+            ],
+            [
+                319.483275779212,
+                1707109200
+            ],
+            [
+                313.62884422628,
+                1707195600
+            ],
+            [
+                293.584858231498,
+                1707282000
+            ],
+            [
+                292.572736166415,
+                1707368400
+            ],
+            [
+                288.871544693121,
+                1707454800
+            ],
+            [
+                292.155980021969,
+                1707714000
+            ],
+            [
+                288.236487711108,
+                1707800400
+            ],
+            [
+                287.829654332006,
+                1707886800
+            ],
+            [
+                289.07,
+                1707973200
+            ],
+            [
+                283.7,
+                1708059600
+            ],
+            [
+                283.51,
+                1708405200
+            ],
+            [
+                283.46,
+                1708491600
+            ],
+            [
+                285.18,
+                1708578000
+            ],
+            [
+                289.18,
+                1708664400
+            ],
+            [
+                286.37,
+                1708923600
+            ],
+            [
+                278.49,
+                1709010000
+            ],
+            [
+                277.46,
+                1709096400
+            ],
+            [
+                273.83,
+                1709182800
+            ],
+            [
+                280.33,
+                1709269200
+            ],
+            [
+                279.39,
+                1709528400
+            ],
+            [
+                276.65,
+                1709614800
+            ],
+            [
+                276.59,
+                1709701200
+            ],
+            [
+                272.86,
+                1709787600
+            ],
+            [
+                273.75,
+                1709874000
+            ],
+            [
+                275.36,
+                1710129600
+            ],
+            [
+                276.54,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2832,
+        "drug_name": "AIMOVIG (Erenumab)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Migraine",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-05-17",
+        "link": "http:\/\/hugin.info\/134323\/R\/2193680\/849680.pdf",
+        "note": "Approval announced May 17, 2018.",
+        "company_entity_id": 386,
+        "company_ticker": "NVS",
+        "company_name": "Novartis AG",
+        "company_price": "99.7700",
+        "company_change": -1.6,
+        "company_percent_change": -1.58,
+        "company_optionable": 1,
+        "company_number_of_shares": 2044033986,
+        "price_change_sparkline": [
+            [
+                99.701426650332,
+                1706677200
+            ],
+            [
+                101.493681927897,
+                1706763600
+            ],
+            [
+                99.9423211768864,
+                1706850000
+            ],
+            [
+                99.701426650332,
+                1707109200
+            ],
+            [
+                99.9615927390107,
+                1707195600
+            ],
+            [
+                99.6917908692698,
+                1707282000
+            ],
+            [
+                97.6682768462129,
+                1707368400
+            ],
+            [
+                97.3502960711611,
+                1707454800
+            ],
+            [
+                96.8685070180523,
+                1707714000
+            ],
+            [
+                95.4520472019125,
+                1707800400
+            ],
+            [
+                95.4424114208503,
+                1707886800
+            ],
+            [
+                96.0012867224565,
+                1707973200
+            ],
+            [
+                96.5408904619384,
+                1708059600
+            ],
+            [
+                98.9787430706688,
+                1708405200
+            ],
+            [
+                98.824570573674,
+                1708491600
+            ],
+            [
+                99.0558293191662,
+                1708578000
+            ],
+            [
+                100.115765236006,
+                1708664400
+            ],
+            [
+                99.4894394669641,
+                1708923600
+            ],
+            [
+                99.3930816563424,
+                1709010000
+            ],
+            [
+                98.49695401756,
+                1709096400
+            ],
+            [
+                97.2924813847881,
+                1709182800
+            ],
+            [
+                98.3427815205652,
+                1709269200
+            ],
+            [
+                98.2560594910056,
+                1709528400
+            ],
+            [
+                98.3813246448139,
+                1709614800
+            ],
+            [
+                98.9016568221714,
+                1709701200
+            ],
+            [
+                99.93,
+                1709787600
+            ],
+            [
+                100.71,
+                1709874000
+            ],
+            [
+                101.37,
+                1710129600
+            ],
+            [
+                99.77,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2986,
+        "drug_name": "LOKELMA (sodium zirconium cyclosilicate)",
+        "clinical_trial_id": null,
+        "has_trial_insight_page": 0,
+        "indication": "Hyperkalaemia",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-05-18",
+        "link": "https:\/\/www.astrazeneca.com\/media-centre\/press-releases\/2018\/lokelma-approved-in-the-us-for-the-treatment-of-adults-with-hyperkalaemia-21052018.html",
+        "note": "Approval announced May 18, 2018.",
+        "company_entity_id": 374,
+        "company_ticker": "AZN",
+        "company_name": "AstraZeneca PLC",
+        "company_price": "67.4000",
+        "company_change": -0.27,
+        "company_percent_change": -0.4,
+        "company_optionable": 1,
+        "company_number_of_shares": 3100378676,
+        "price_change_sparkline": [
+            [
+                65.6319311986485,
+                1706677200
+            ],
+            [
+                65.8387545112493,
+                1706763600
+            ],
+            [
+                64.647058281502,
+                1706850000
+            ],
+            [
+                64.1546218229287,
+                1707109200
+            ],
+            [
+                66.0258803655072,
+                1707195600
+            ],
+            [
+                65.5432926361053,
+                1707282000
+            ],
+            [
+                62.5591276971512,
+                1707368400
+            ],
+            [
+                61.3181878215465,
+                1707454800
+            ],
+            [
+                60.4810458419719,
+                1707714000
+            ],
+            [
+                60.1067941334562,
+                1707800400
+            ],
+            [
+                60.7272640712585,
+                1707886800
+            ],
+            [
+                61.8894141134915,
+                1707973200
+            ],
+            [
+                63.2977823850111,
+                1708059600
+            ],
+            [
+                64.056134531214,
+                1708405200
+            ],
+            [
+                64.1053781770713,
+                1708491600
+            ],
+            [
+                64.13,
+                1708578000
+            ],
+            [
+                65.83,
+                1708664400
+            ],
+            [
+                65.93,
+                1708923600
+            ],
+            [
+                66.33,
+                1709010000
+            ],
+            [
+                65.35,
+                1709096400
+            ],
+            [
+                64.16,
+                1709182800
+            ],
+            [
+                64.6,
+                1709269200
+            ],
+            [
+                64.79,
+                1709528400
+            ],
+            [
+                64.81,
+                1709614800
+            ],
+            [
+                65.27,
+                1709701200
+            ],
+            [
+                66.19,
+                1709787600
+            ],
+            [
+                66.5,
+                1709874000
+            ],
+            [
+                67.67,
+                1710129600
+            ],
+            [
+                67.4,
+                1710216000
+            ]
+        ],
+        "statuses": [
+            {
+                "label": "Fast Track Designation (FTD)",
+                "abbreviation": "FTD",
+                "description": "Fast Track Designation (FTD)",
+                "description_html": "<p>Fast Track Designation (FTD)<\/p>\n"
+            }
+        ]
+    },
+    {
+        "id": 2449,
+        "drug_name": "Prolia (denosumab) ",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Glucocorticoid-induced osteoporosis (GIOP)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-05-21",
+        "link": "https:\/\/wwwext.amgen.com\/media\/news-releases\/2018\/05\/fda-approves-prolia-denosumab-for-glucocorticoidinduced-osteoporosis\/",
+        "note": "Approval announced May 21, 2018.",
+        "company_entity_id": 372,
+        "company_ticker": "AMGN",
+        "company_name": "Amgen Inc.",
+        "company_price": "276.5400",
+        "company_change": 1.18,
+        "company_percent_change": 0.43,
+        "company_optionable": 1,
+        "company_number_of_shares": 535918901,
+        "price_change_sparkline": [
+            [
+                311.832823699025,
+                1706677200
+            ],
+            [
+                322.053272003295,
+                1706763600
+            ],
+            [
+                320.693853151174,
+                1706850000
+            ],
+            [
+                319.483275779212,
+                1707109200
+            ],
+            [
+                313.62884422628,
+                1707195600
+            ],
+            [
+                293.584858231498,
+                1707282000
+            ],
+            [
+                292.572736166415,
+                1707368400
+            ],
+            [
+                288.871544693121,
+                1707454800
+            ],
+            [
+                292.155980021969,
+                1707714000
+            ],
+            [
+                288.236487711108,
+                1707800400
+            ],
+            [
+                287.829654332006,
+                1707886800
+            ],
+            [
+                289.07,
+                1707973200
+            ],
+            [
+                283.7,
+                1708059600
+            ],
+            [
+                283.51,
+                1708405200
+            ],
+            [
+                283.46,
+                1708491600
+            ],
+            [
+                285.18,
+                1708578000
+            ],
+            [
+                289.18,
+                1708664400
+            ],
+            [
+                286.37,
+                1708923600
+            ],
+            [
+                278.49,
+                1709010000
+            ],
+            [
+                277.46,
+                1709096400
+            ],
+            [
+                273.83,
+                1709182800
+            ],
+            [
+                280.33,
+                1709269200
+            ],
+            [
+                279.39,
+                1709528400
+            ],
+            [
+                276.65,
+                1709614800
+            ],
+            [
+                276.59,
+                1709701200
+            ],
+            [
+                272.86,
+                1709787600
+            ],
+            [
+                273.75,
+                1709874000
+            ],
+            [
+                275.36,
+                1710129600
+            ],
+            [
+                276.54,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3411,
+        "drug_name": "PALYNZIQ (Pegvaliase)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Phenylketonuria (PKU)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-05-24",
+        "link": "http:\/\/investors.biomarin.com\/2018-05-24-BioMarin-Receives-Standard-Approval-for-Palynziq-TM-pegvaliase-pqpz-Injection-for-Treatment-of-Adults-with-Phenylketonuria-PKU-a-Rare-Genetic-Disease",
+        "note": "Approval announced May 24, 2018.",
+        "company_entity_id": 69,
+        "company_ticker": "BMRN",
+        "company_name": "BioMarin Pharmaceutical Inc.",
+        "company_price": "85.1800",
+        "company_change": -0.8200000000000001,
+        "company_percent_change": -0.95,
+        "company_optionable": 1,
+        "company_number_of_shares": 188675622,
+        "price_change_sparkline": [
+            [
+                88.08,
+                1706677200
+            ],
+            [
+                88.74,
+                1706763600
+            ],
+            [
+                88.11,
+                1706850000
+            ],
+            [
+                87.72,
+                1707109200
+            ],
+            [
+                89.8,
+                1707195600
+            ],
+            [
+                89.66,
+                1707282000
+            ],
+            [
+                88.15,
+                1707368400
+            ],
+            [
+                88.46,
+                1707454800
+            ],
+            [
+                88.18,
+                1707714000
+            ],
+            [
+                86.13,
+                1707800400
+            ],
+            [
+                86.01,
+                1707886800
+            ],
+            [
+                88.3,
+                1707973200
+            ],
+            [
+                88.77,
+                1708059600
+            ],
+            [
+                88.67,
+                1708405200
+            ],
+            [
+                88.54,
+                1708491600
+            ],
+            [
+                89.97,
+                1708578000
+            ],
+            [
+                91.24,
+                1708664400
+            ],
+            [
+                90.1,
+                1708923600
+            ],
+            [
+                90.68,
+                1709010000
+            ],
+            [
+                88.4,
+                1709096400
+            ],
+            [
+                86.28,
+                1709182800
+            ],
+            [
+                87.14,
+                1709269200
+            ],
+            [
+                87.72,
+                1709528400
+            ],
+            [
+                86.02,
+                1709614800
+            ],
+            [
+                86.77,
+                1709701200
+            ],
+            [
+                85.89,
+                1709787600
+            ],
+            [
+                85.95,
+                1709874000
+            ],
+            [
+                86,
+                1710129600
+            ],
+            [
+                85.18,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3319,
+        "drug_name": "IMVEXXY (estradiol vaginal inserts)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Moderate-to-severe vaginal pain",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-05-30",
+        "link": "http:\/\/ir.therapeuticsmd.com\/news-releases\/news-release-details\/therapeuticsmd-announces-fda-approval-tx-004hr-imvexxy-estradiol",
+        "note": "CRL announced May 8, 2017. NDA resubmitted with approval announced May 30, 2018.",
+        "company_entity_id": 327,
+        "company_ticker": "TXMD",
+        "company_name": "TherapeuticsMD Inc.",
+        "company_price": "2.3850",
+        "company_change": 0.16,
+        "company_percent_change": 6.95,
+        "company_optionable": 1,
+        "company_number_of_shares": 10575240,
+        "price_change_sparkline": [
+            [
+                2.26,
+                1706677200
+            ],
+            [
+                2.26,
+                1706763600
+            ],
+            [
+                2.27,
+                1706850000
+            ],
+            [
+                2.29,
+                1707109200
+            ],
+            [
+                2.29,
+                1707195600
+            ],
+            [
+                2.27,
+                1707282000
+            ],
+            [
+                2.29,
+                1707368400
+            ],
+            [
+                2.29,
+                1707454800
+            ],
+            [
+                2.25,
+                1707714000
+            ],
+            [
+                2.24,
+                1707800400
+            ],
+            [
+                2.29,
+                1707886800
+            ],
+            [
+                2.24,
+                1707973200
+            ],
+            [
+                2.26,
+                1708059600
+            ],
+            [
+                2.27,
+                1708405200
+            ],
+            [
+                2.26,
+                1708491600
+            ],
+            [
+                2.26,
+                1708578000
+            ],
+            [
+                2.25,
+                1708664400
+            ],
+            [
+                2.29,
+                1708923600
+            ],
+            [
+                2.35,
+                1709010000
+            ],
+            [
+                2.37,
+                1709096400
+            ],
+            [
+                2.4,
+                1709182800
+            ],
+            [
+                2.54,
+                1709269200
+            ],
+            [
+                2.635,
+                1709528400
+            ],
+            [
+                2.69,
+                1709614800
+            ],
+            [
+                2.45,
+                1709701200
+            ],
+            [
+                2.29,
+                1709787600
+            ],
+            [
+                2.33,
+                1709874000
+            ],
+            [
+                2.23,
+                1710129600
+            ],
+            [
+                2.385,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2811,
+        "drug_name": "XELJANZ (tofacitinib)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Ulcerative colitis",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-05-30",
+        "link": "https:\/\/www.fda.gov\/NewsEvents\/Newsroom\/PressAnnouncements\/ucm609225.htm",
+        "note": "Approval announced May 30, 2018.",
+        "company_entity_id": 387,
+        "company_ticker": "PFE",
+        "company_name": "Pfizer Inc.",
+        "company_price": "28.0100",
+        "company_change": -0.36,
+        "company_percent_change": -1.27,
+        "company_optionable": 1,
+        "company_number_of_shares": 5646778425,
+        "price_change_sparkline": [
+            [
+                27.08,
+                1706677200
+            ],
+            [
+                27.29,
+                1706763600
+            ],
+            [
+                26.93,
+                1706850000
+            ],
+            [
+                26.57,
+                1707109200
+            ],
+            [
+                27.5,
+                1707195600
+            ],
+            [
+                27.56,
+                1707282000
+            ],
+            [
+                27.57,
+                1707368400
+            ],
+            [
+                27.56,
+                1707454800
+            ],
+            [
+                27.66,
+                1707714000
+            ],
+            [
+                26.97,
+                1707800400
+            ],
+            [
+                27.11,
+                1707886800
+            ],
+            [
+                27.51,
+                1707973200
+            ],
+            [
+                27.62,
+                1708059600
+            ],
+            [
+                27.59,
+                1708405200
+            ],
+            [
+                27.67,
+                1708491600
+            ],
+            [
+                27.55,
+                1708578000
+            ],
+            [
+                27.76,
+                1708664400
+            ],
+            [
+                27.18,
+                1708923600
+            ],
+            [
+                26.89,
+                1709010000
+            ],
+            [
+                27.04,
+                1709096400
+            ],
+            [
+                26.56,
+                1709182800
+            ],
+            [
+                26.59,
+                1709269200
+            ],
+            [
+                25.89,
+                1709528400
+            ],
+            [
+                26.08,
+                1709614800
+            ],
+            [
+                27.19,
+                1709701200
+            ],
+            [
+                26.79,
+                1709787600
+            ],
+            [
+                27.22,
+                1709874000
+            ],
+            [
+                28.37,
+                1710129600
+            ],
+            [
+                28.01,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3310,
+        "drug_name": "KIT-302",
+        "clinical_trial_id": null,
+        "has_trial_insight_page": 0,
+        "indication": "Osteoarthritis and Hypertension",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-05-31",
+        "link": "https:\/\/www.sec.gov\/Archives\/edgar\/data\/1614744\/000121390018007062\/f6k053118ex99-1_kitov.htm",
+        "note": "Approval announced May 31, 2018.",
+        "company_entity_id": 867,
+        "company_ticker": "PPBT",
+        "company_name": "Purple Biotech Ltd.",
+        "company_price": "0.7360",
+        "company_change": -0.030000000000000027,
+        "company_percent_change": -4.1,
+        "company_optionable": 1,
+        "company_number_of_shares": 25237922,
+        "price_change_sparkline": [
+            [
+                0.66,
+                1706677200
+            ],
+            [
+                0.6905,
+                1706763600
+            ],
+            [
+                0.73,
+                1706850000
+            ],
+            [
+                0.79,
+                1707109200
+            ],
+            [
+                0.7619,
+                1707195600
+            ],
+            [
+                0.79,
+                1707282000
+            ],
+            [
+                0.7999,
+                1707368400
+            ],
+            [
+                0.82,
+                1707454800
+            ],
+            [
+                0.75,
+                1707714000
+            ],
+            [
+                0.7503,
+                1707800400
+            ],
+            [
+                0.755101,
+                1707886800
+            ],
+            [
+                0.78,
+                1707973200
+            ],
+            [
+                0.7595,
+                1708059600
+            ],
+            [
+                0.690201,
+                1708405200
+            ],
+            [
+                0.7042,
+                1708491600
+            ],
+            [
+                0.71,
+                1708578000
+            ],
+            [
+                0.695,
+                1708664400
+            ],
+            [
+                0.7127,
+                1708923600
+            ],
+            [
+                0.6706,
+                1709010000
+            ],
+            [
+                0.6995,
+                1709096400
+            ],
+            [
+                0.821,
+                1709182800
+            ],
+            [
+                0.918,
+                1709269200
+            ],
+            [
+                0.83,
+                1709528400
+            ],
+            [
+                0.8,
+                1709614800
+            ],
+            [
+                0.815,
+                1709701200
+            ],
+            [
+                0.8658,
+                1709787600
+            ],
+            [
+                0.821,
+                1709874000
+            ],
+            [
+                0.768,
+                1710129600
+            ],
+            [
+                0.736,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3214,
+        "drug_name": "OLUMIANT (baricitinib)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Rheumatoid arthritis",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-01",
+        "link": "http:\/\/phx.corporate-ir.net\/phoenix.zhtml?c=69764&p=irol-newsArticle_print&ID=2352801",
+        "note": "FDA approval announced for low dose only - June 1, 2018.",
+        "company_entity_id": 382,
+        "company_ticker": "LLY",
+        "company_name": "Eli Lilly and Company",
+        "company_price": "754.9500",
+        "company_change": 20.58,
+        "company_percent_change": 2.8,
+        "company_optionable": 1,
+        "company_number_of_shares": 950164452,
+        "price_change_sparkline": [
+            [
+                644.503643637706,
+                1706677200
+            ],
+            [
+                659.298247188938,
+                1706763600
+            ],
+            [
+                666.505874560051,
+                1706850000
+            ],
+            [
+                704.989812947364,
+                1707109200
+            ],
+            [
+                703.821817930162,
+                1707195600
+            ],
+            [
+                724.13694493877,
+                1707282000
+            ],
+            [
+                734.41929423551,
+                1707368400
+            ],
+            [
+                738.891617036422,
+                1707454800
+            ],
+            [
+                735.996586651903,
+                1707714000
+            ],
+            [
+                741.696801650387,
+                1707800400
+            ],
+            [
+                757.31,
+                1707886800
+            ],
+            [
+                757.78,
+                1707973200
+            ],
+            [
+                782.06,
+                1708059600
+            ],
+            [
+                755.66,
+                1708405200
+            ],
+            [
+                745.91,
+                1708491600
+            ],
+            [
+                769.64,
+                1708578000
+            ],
+            [
+                769.54,
+                1708664400
+            ],
+            [
+                771.92,
+                1708923600
+            ],
+            [
+                765,
+                1709010000
+            ],
+            [
+                757.64,
+                1709096400
+            ],
+            [
+                753.68,
+                1709182800
+            ],
+            [
+                782.12,
+                1709269200
+            ],
+            [
+                792.28,
+                1709528400
+            ],
+            [
+                777.59,
+                1709614800
+            ],
+            [
+                779.77,
+                1709701200
+            ],
+            [
+                780.16,
+                1709787600
+            ],
+            [
+                762.14,
+                1709874000
+            ],
+            [
+                734.37,
+                1710129600
+            ],
+            [
+                754.95,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3214,
+        "drug_name": "OLUMIANT (baricitinib)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Rheumatoid arthritis",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-01",
+        "link": "http:\/\/phx.corporate-ir.net\/phoenix.zhtml?c=69764&p=irol-newsArticle_print&ID=2352801",
+        "note": "FDA approval announced for low dose only - June 1, 2018.",
+        "company_entity_id": 167,
+        "company_ticker": "INCY",
+        "company_name": "Incyte Corporation",
+        "company_price": "59.3300",
+        "company_change": -1.46,
+        "company_percent_change": -2.4,
+        "company_optionable": 1,
+        "company_number_of_shares": 224526128,
+        "price_change_sparkline": [
+            [
+                58.77,
+                1706677200
+            ],
+            [
+                59.16,
+                1706763600
+            ],
+            [
+                58.35,
+                1706850000
+            ],
+            [
+                58.06,
+                1707109200
+            ],
+            [
+                59.63,
+                1707195600
+            ],
+            [
+                57.34,
+                1707282000
+            ],
+            [
+                57.36,
+                1707368400
+            ],
+            [
+                57.66,
+                1707454800
+            ],
+            [
+                57.84,
+                1707714000
+            ],
+            [
+                59.34,
+                1707800400
+            ],
+            [
+                57.89,
+                1707886800
+            ],
+            [
+                58.97,
+                1707973200
+            ],
+            [
+                57.96,
+                1708059600
+            ],
+            [
+                58.82,
+                1708405200
+            ],
+            [
+                60.33,
+                1708491600
+            ],
+            [
+                60.91,
+                1708578000
+            ],
+            [
+                60.59,
+                1708664400
+            ],
+            [
+                60.53,
+                1708923600
+            ],
+            [
+                61,
+                1709010000
+            ],
+            [
+                59.98,
+                1709096400
+            ],
+            [
+                58.36,
+                1709182800
+            ],
+            [
+                59.05,
+                1709269200
+            ],
+            [
+                59.72,
+                1709528400
+            ],
+            [
+                58.9,
+                1709614800
+            ],
+            [
+                59.26,
+                1709701200
+            ],
+            [
+                59.03,
+                1709787600
+            ],
+            [
+                60.02,
+                1709874000
+            ],
+            [
+                60.79,
+                1710129600
+            ],
+            [
+                59.33,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2715,
+        "drug_name": "FULPHILA (Neulasta biosimilar)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Neulasta biosimilar",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-04",
+        "link": "http:\/\/investor.mylan.com\/news-releases\/news-release-details\/us-fda-approves-mylan-and-biocons-fulphilatm-pegfilgrastim-jmdb",
+        "note": "Approval announced June 4, 2018.",
+        "company_entity_id": 851,
+        "company_ticker": "VTRS",
+        "company_name": "Viatris Inc.",
+        "company_price": "12.0600",
+        "company_change": 0.09,
+        "company_percent_change": 0.75,
+        "company_optionable": 1,
+        "company_number_of_shares": 1187569149,
+        "price_change_sparkline": [
+            [
+                11.6559127625202,
+                1706677200
+            ],
+            [
+                11.754943457189,
+                1706763600
+            ],
+            [
+                11.7351373182553,
+                1706850000
+            ],
+            [
+                11.4677544426494,
+                1707109200
+            ],
+            [
+                11.7747495961228,
+                1707195600
+            ],
+            [
+                11.6262035541195,
+                1707282000
+            ],
+            [
+                11.4479483037157,
+                1707368400
+            ],
+            [
+                11.5667851373183,
+                1707454800
+            ],
+            [
+                11.8341680129241,
+                1707714000
+            ],
+            [
+                11.8539741518578,
+                1707800400
+            ],
+            [
+                11.9530048465267,
+                1707886800
+            ],
+            [
+                12.6957350565428,
+                1707973200
+            ],
+            [
+                12.933408723748,
+                1708059600
+            ],
+            [
+                13.1116639741519,
+                1708405200
+            ],
+            [
+                13.1314701130856,
+                1708491600
+            ],
+            [
+                13.2305008077544,
+                1708578000
+            ],
+            [
+                13.3988529886914,
+                1708664400
+            ],
+            [
+                13.2998222940226,
+                1708923600
+            ],
+            [
+                13.101760904685,
+                1709010000
+            ],
+            [
+                12.1708723747981,
+                1709096400
+            ],
+            [
+                12.2500969305331,
+                1709182800
+            ],
+            [
+                12.4679644588045,
+                1709269200
+            ],
+            [
+                12.2401938610662,
+                1709528400
+            ],
+            [
+                12.1609693053312,
+                1709614800
+            ],
+            [
+                12.0817447495961,
+                1709701200
+            ],
+            [
+                12.2104846526656,
+                1709787600
+            ],
+            [
+                12.26,
+                1709874000
+            ],
+            [
+                11.97,
+                1710129600
+            ],
+            [
+                12.06,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2386,
+        "drug_name": "KEYTRUDA (pembrolizumab) + chemo",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "First-Line Nonsquamous Non-small cell lung cancer (NSCLC)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-05",
+        "link": "https:\/\/investor.lilly.com\/news-releases\/news-release-details\/fda-expands-lillys-alimtar-pemetrexed-label-include-combination",
+        "note": "FDA approval (label expansion) announced June 5, 2018.",
+        "company_entity_id": 382,
+        "company_ticker": "LLY",
+        "company_name": "Eli Lilly and Company",
+        "company_price": "754.9500",
+        "company_change": 20.58,
+        "company_percent_change": 2.8,
+        "company_optionable": 1,
+        "company_number_of_shares": 950164452,
+        "price_change_sparkline": [
+            [
+                644.503643637706,
+                1706677200
+            ],
+            [
+                659.298247188938,
+                1706763600
+            ],
+            [
+                666.505874560051,
+                1706850000
+            ],
+            [
+                704.989812947364,
+                1707109200
+            ],
+            [
+                703.821817930162,
+                1707195600
+            ],
+            [
+                724.13694493877,
+                1707282000
+            ],
+            [
+                734.41929423551,
+                1707368400
+            ],
+            [
+                738.891617036422,
+                1707454800
+            ],
+            [
+                735.996586651903,
+                1707714000
+            ],
+            [
+                741.696801650387,
+                1707800400
+            ],
+            [
+                757.31,
+                1707886800
+            ],
+            [
+                757.78,
+                1707973200
+            ],
+            [
+                782.06,
+                1708059600
+            ],
+            [
+                755.66,
+                1708405200
+            ],
+            [
+                745.91,
+                1708491600
+            ],
+            [
+                769.64,
+                1708578000
+            ],
+            [
+                769.54,
+                1708664400
+            ],
+            [
+                771.92,
+                1708923600
+            ],
+            [
+                765,
+                1709010000
+            ],
+            [
+                757.64,
+                1709096400
+            ],
+            [
+                753.68,
+                1709182800
+            ],
+            [
+                782.12,
+                1709269200
+            ],
+            [
+                792.28,
+                1709528400
+            ],
+            [
+                777.59,
+                1709614800
+            ],
+            [
+                779.77,
+                1709701200
+            ],
+            [
+                780.16,
+                1709787600
+            ],
+            [
+                762.14,
+                1709874000
+            ],
+            [
+                734.37,
+                1710129600
+            ],
+            [
+                754.95,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2386,
+        "drug_name": "KEYTRUDA (pembrolizumab) + chemo",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "First-Line Nonsquamous Non-small cell lung cancer (NSCLC)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-05",
+        "link": "https:\/\/investor.lilly.com\/news-releases\/news-release-details\/fda-expands-lillys-alimtar-pemetrexed-label-include-combination",
+        "note": "FDA approval (label expansion) announced June 5, 2018.",
+        "company_entity_id": 383,
+        "company_ticker": "MRK",
+        "company_name": "Merck & Company Inc.",
+        "company_price": "122.6600",
+        "company_change": -0.10999999999999999,
+        "company_percent_change": -0.08999999999999997,
+        "company_optionable": 1,
+        "company_number_of_shares": 2532643872,
+        "price_change_sparkline": [
+            [
+                120.78,
+                1706677200
+            ],
+            [
+                126.38,
+                1706763600
+            ],
+            [
+                126.41,
+                1706850000
+            ],
+            [
+                126.18,
+                1707109200
+            ],
+            [
+                126.88,
+                1707195600
+            ],
+            [
+                127.47,
+                1707282000
+            ],
+            [
+                126.61,
+                1707368400
+            ],
+            [
+                125.45,
+                1707454800
+            ],
+            [
+                125.34,
+                1707714000
+            ],
+            [
+                125.43,
+                1707800400
+            ],
+            [
+                125.82,
+                1707886800
+            ],
+            [
+                126.54,
+                1707973200
+            ],
+            [
+                127.79,
+                1708059600
+            ],
+            [
+                127.37,
+                1708405200
+            ],
+            [
+                128.12,
+                1708491600
+            ],
+            [
+                129.26,
+                1708578000
+            ],
+            [
+                129.45,
+                1708664400
+            ],
+            [
+                128.84,
+                1708923600
+            ],
+            [
+                129.03,
+                1709010000
+            ],
+            [
+                128.19,
+                1709096400
+            ],
+            [
+                127.15,
+                1709182800
+            ],
+            [
+                126.96,
+                1709269200
+            ],
+            [
+                124.05,
+                1709528400
+            ],
+            [
+                122.83,
+                1709614800
+            ],
+            [
+                123.75,
+                1709701200
+            ],
+            [
+                123.99,
+                1709787600
+            ],
+            [
+                123.5,
+                1709874000
+            ],
+            [
+                122.77,
+                1710129600
+            ],
+            [
+                122.66,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 4640,
+        "drug_name": "RITUXAN (rituximab)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Pemphigus vulgaris",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-07",
+        "link": "https:\/\/www.businesswire.com\/news\/home\/20180607006256\/en\/FDA-Approves-Genentech%E2%80%99s-Rituxan-rituximab-Pemphigus-Vulgaris",
+        "note": "Approval announced June 7, 2018.",
+        "company_entity_id": 536,
+        "company_ticker": "RHHBY",
+        "company_name": "Roche Holding AG ADR",
+        "company_price": "35.1500",
+        "company_change": 0.54,
+        "company_percent_change": 1.56,
+        "company_optionable": 0,
+        "company_number_of_shares": 6389213336,
+        "price_change_sparkline": [
+            [
+                35.14,
+                1706677200
+            ],
+            [
+                34.32,
+                1706763600
+            ],
+            [
+                33.95,
+                1706850000
+            ],
+            [
+                33.16,
+                1707109200
+            ],
+            [
+                33.27,
+                1707195600
+            ],
+            [
+                32.55,
+                1707282000
+            ],
+            [
+                32.1,
+                1707368400
+            ],
+            [
+                32.31,
+                1707454800
+            ],
+            [
+                32.6,
+                1707714000
+            ],
+            [
+                32.13,
+                1707800400
+            ],
+            [
+                32.02,
+                1707886800
+            ],
+            [
+                32.1,
+                1707973200
+            ],
+            [
+                32.28,
+                1708059600
+            ],
+            [
+                32.74,
+                1708405200
+            ],
+            [
+                32.91,
+                1708491600
+            ],
+            [
+                32.49,
+                1708578000
+            ],
+            [
+                32.96,
+                1708664400
+            ],
+            [
+                32.52,
+                1708923600
+            ],
+            [
+                33.03,
+                1709010000
+            ],
+            [
+                32.93,
+                1709096400
+            ],
+            [
+                32.73,
+                1709182800
+            ],
+            [
+                33.08,
+                1709269200
+            ],
+            [
+                32.88,
+                1709528400
+            ],
+            [
+                33.15,
+                1709614800
+            ],
+            [
+                33.47,
+                1709701200
+            ],
+            [
+                33.77,
+                1709787600
+            ],
+            [
+                33.9,
+                1709874000
+            ],
+            [
+                34.61,
+                1710129600
+            ],
+            [
+                35.15,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3018,
+        "drug_name": "VENCLEXTA (venetoclax) (MURANO)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Relapsed or refractory Chronic Lymphocytic Leukemia (CLL)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-11",
+        "link": "https:\/\/www.roche.com\/investors\/updates\/inv-update-2018-06-11.htm",
+        "note": "Approval announced June 11, 2018.",
+        "company_entity_id": 536,
+        "company_ticker": "RHHBY",
+        "company_name": "Roche Holding AG ADR",
+        "company_price": "35.1500",
+        "company_change": 0.54,
+        "company_percent_change": 1.56,
+        "company_optionable": 0,
+        "company_number_of_shares": 6389213336,
+        "price_change_sparkline": [
+            [
+                35.14,
+                1706677200
+            ],
+            [
+                34.32,
+                1706763600
+            ],
+            [
+                33.95,
+                1706850000
+            ],
+            [
+                33.16,
+                1707109200
+            ],
+            [
+                33.27,
+                1707195600
+            ],
+            [
+                32.55,
+                1707282000
+            ],
+            [
+                32.1,
+                1707368400
+            ],
+            [
+                32.31,
+                1707454800
+            ],
+            [
+                32.6,
+                1707714000
+            ],
+            [
+                32.13,
+                1707800400
+            ],
+            [
+                32.02,
+                1707886800
+            ],
+            [
+                32.1,
+                1707973200
+            ],
+            [
+                32.28,
+                1708059600
+            ],
+            [
+                32.74,
+                1708405200
+            ],
+            [
+                32.91,
+                1708491600
+            ],
+            [
+                32.49,
+                1708578000
+            ],
+            [
+                32.96,
+                1708664400
+            ],
+            [
+                32.52,
+                1708923600
+            ],
+            [
+                33.03,
+                1709010000
+            ],
+            [
+                32.93,
+                1709096400
+            ],
+            [
+                32.73,
+                1709182800
+            ],
+            [
+                33.08,
+                1709269200
+            ],
+            [
+                32.88,
+                1709528400
+            ],
+            [
+                33.15,
+                1709614800
+            ],
+            [
+                33.47,
+                1709701200
+            ],
+            [
+                33.77,
+                1709787600
+            ],
+            [
+                33.9,
+                1709874000
+            ],
+            [
+                34.61,
+                1710129600
+            ],
+            [
+                35.15,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3018,
+        "drug_name": "VENCLEXTA (venetoclax) (MURANO)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Relapsed or refractory Chronic Lymphocytic Leukemia (CLL)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-11",
+        "link": "https:\/\/www.roche.com\/investors\/updates\/inv-update-2018-06-11.htm",
+        "note": "Approval announced June 11, 2018.",
+        "company_entity_id": 369,
+        "company_ticker": "ABBV",
+        "company_name": "AbbVie Inc.",
+        "company_price": "180.9200",
+        "company_change": 1.29,
+        "company_percent_change": 0.72,
+        "company_optionable": 1,
+        "company_number_of_shares": 1766473359,
+        "price_change_sparkline": [
+            [
+                164.4,
+                1706677200
+            ],
+            [
+                167.59,
+                1706763600
+            ],
+            [
+                168.67,
+                1706850000
+            ],
+            [
+                171.26,
+                1707109200
+            ],
+            [
+                173.29,
+                1707195600
+            ],
+            [
+                175.01,
+                1707282000
+            ],
+            [
+                174.79,
+                1707368400
+            ],
+            [
+                174.08,
+                1707454800
+            ],
+            [
+                173.07,
+                1707714000
+            ],
+            [
+                173.29,
+                1707800400
+            ],
+            [
+                174.42,
+                1707886800
+            ],
+            [
+                176.59,
+                1707973200
+            ],
+            [
+                177.49,
+                1708059600
+            ],
+            [
+                175.75,
+                1708405200
+            ],
+            [
+                175.14,
+                1708491600
+            ],
+            [
+                176.75,
+                1708578000
+            ],
+            [
+                178.09,
+                1708664400
+            ],
+            [
+                178.81,
+                1708923600
+            ],
+            [
+                178.99,
+                1709010000
+            ],
+            [
+                178,
+                1709096400
+            ],
+            [
+                176.05,
+                1709182800
+            ],
+            [
+                178.91,
+                1709269200
+            ],
+            [
+                177.05,
+                1709528400
+            ],
+            [
+                179.16,
+                1709614800
+            ],
+            [
+                181.06,
+                1709701200
+            ],
+            [
+                180.57,
+                1709787600
+            ],
+            [
+                178.85,
+                1709874000
+            ],
+            [
+                179.63,
+                1710129600
+            ],
+            [
+                180.92,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2462,
+        "drug_name": "KYPROLIS - (ASPIRE)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Relapsed Multiple Myeloma",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-11",
+        "link": "http:\/\/investors.amgen.com\/phoenix.zhtml?c=61656&p=RssLanding&cat=news&id=2354016",
+        "note": "sNDA approval announced June 11, 2018.",
+        "company_entity_id": 627,
+        "company_ticker": "LGND",
+        "company_name": "Ligand Pharmaceuticals Incorporated",
+        "company_price": "72.3600",
+        "company_change": 0.11,
+        "company_percent_change": 0.15,
+        "company_optionable": 1,
+        "company_number_of_shares": 17705287,
+        "price_change_sparkline": [
+            [
+                73.1,
+                1706677200
+            ],
+            [
+                74.17,
+                1706763600
+            ],
+            [
+                74.54,
+                1706850000
+            ],
+            [
+                74.72,
+                1707109200
+            ],
+            [
+                75.31,
+                1707195600
+            ],
+            [
+                74.51,
+                1707282000
+            ],
+            [
+                75.41,
+                1707368400
+            ],
+            [
+                75.88,
+                1707454800
+            ],
+            [
+                75.64,
+                1707714000
+            ],
+            [
+                71,
+                1707800400
+            ],
+            [
+                73.62,
+                1707886800
+            ],
+            [
+                74.65,
+                1707973200
+            ],
+            [
+                73.66,
+                1708059600
+            ],
+            [
+                72.37,
+                1708405200
+            ],
+            [
+                72.67,
+                1708491600
+            ],
+            [
+                73.56,
+                1708578000
+            ],
+            [
+                75.87,
+                1708664400
+            ],
+            [
+                74.42,
+                1708923600
+            ],
+            [
+                89.2,
+                1709010000
+            ],
+            [
+                84.35,
+                1709096400
+            ],
+            [
+                79.35,
+                1709182800
+            ],
+            [
+                78.7,
+                1709269200
+            ],
+            [
+                76.28,
+                1709528400
+            ],
+            [
+                74,
+                1709614800
+            ],
+            [
+                72.71,
+                1709701200
+            ],
+            [
+                72.47,
+                1709787600
+            ],
+            [
+                73.77,
+                1709874000
+            ],
+            [
+                72.25,
+                1710129600
+            ],
+            [
+                72.36,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2462,
+        "drug_name": "KYPROLIS - (ASPIRE)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Relapsed Multiple Myeloma",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-11",
+        "link": "http:\/\/investors.amgen.com\/phoenix.zhtml?c=61656&p=RssLanding&cat=news&id=2354016",
+        "note": "sNDA approval announced June 11, 2018.",
+        "company_entity_id": 372,
+        "company_ticker": "AMGN",
+        "company_name": "Amgen Inc.",
+        "company_price": "276.5400",
+        "company_change": 1.18,
+        "company_percent_change": 0.43,
+        "company_optionable": 1,
+        "company_number_of_shares": 535918901,
+        "price_change_sparkline": [
+            [
+                311.832823699025,
+                1706677200
+            ],
+            [
+                322.053272003295,
+                1706763600
+            ],
+            [
+                320.693853151174,
+                1706850000
+            ],
+            [
+                319.483275779212,
+                1707109200
+            ],
+            [
+                313.62884422628,
+                1707195600
+            ],
+            [
+                293.584858231498,
+                1707282000
+            ],
+            [
+                292.572736166415,
+                1707368400
+            ],
+            [
+                288.871544693121,
+                1707454800
+            ],
+            [
+                292.155980021969,
+                1707714000
+            ],
+            [
+                288.236487711108,
+                1707800400
+            ],
+            [
+                287.829654332006,
+                1707886800
+            ],
+            [
+                289.07,
+                1707973200
+            ],
+            [
+                283.7,
+                1708059600
+            ],
+            [
+                283.51,
+                1708405200
+            ],
+            [
+                283.46,
+                1708491600
+            ],
+            [
+                285.18,
+                1708578000
+            ],
+            [
+                289.18,
+                1708664400
+            ],
+            [
+                286.37,
+                1708923600
+            ],
+            [
+                278.49,
+                1709010000
+            ],
+            [
+                277.46,
+                1709096400
+            ],
+            [
+                273.83,
+                1709182800
+            ],
+            [
+                280.33,
+                1709269200
+            ],
+            [
+                279.39,
+                1709528400
+            ],
+            [
+                276.65,
+                1709614800
+            ],
+            [
+                276.59,
+                1709701200
+            ],
+            [
+                272.86,
+                1709787600
+            ],
+            [
+                273.75,
+                1709874000
+            ],
+            [
+                275.36,
+                1710129600
+            ],
+            [
+                276.54,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 4432,
+        "drug_name": "KEYTRUDA (pembrolizumab)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Cervical cancer",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-12",
+        "link": "http:\/\/investors.merck.com\/news\/press-release-details\/2018\/FDA-Approves-Mercks-KEYTRUDA-pembrolizumab-for-Previously-Treated-Patients-with-Recurrent-or-Metastatic-Cervical-Cancer-Whose-Tumors-Express-PD-L1-CPS-Greater-Than-or-Equal-to-1\/default.aspx",
+        "note": "Approval announced June 12, 2018.",
+        "company_entity_id": 383,
+        "company_ticker": "MRK",
+        "company_name": "Merck & Company Inc.",
+        "company_price": "122.6600",
+        "company_change": -0.10999999999999999,
+        "company_percent_change": -0.08999999999999997,
+        "company_optionable": 1,
+        "company_number_of_shares": 2532643872,
+        "price_change_sparkline": [
+            [
+                120.78,
+                1706677200
+            ],
+            [
+                126.38,
+                1706763600
+            ],
+            [
+                126.41,
+                1706850000
+            ],
+            [
+                126.18,
+                1707109200
+            ],
+            [
+                126.88,
+                1707195600
+            ],
+            [
+                127.47,
+                1707282000
+            ],
+            [
+                126.61,
+                1707368400
+            ],
+            [
+                125.45,
+                1707454800
+            ],
+            [
+                125.34,
+                1707714000
+            ],
+            [
+                125.43,
+                1707800400
+            ],
+            [
+                125.82,
+                1707886800
+            ],
+            [
+                126.54,
+                1707973200
+            ],
+            [
+                127.79,
+                1708059600
+            ],
+            [
+                127.37,
+                1708405200
+            ],
+            [
+                128.12,
+                1708491600
+            ],
+            [
+                129.26,
+                1708578000
+            ],
+            [
+                129.45,
+                1708664400
+            ],
+            [
+                128.84,
+                1708923600
+            ],
+            [
+                129.03,
+                1709010000
+            ],
+            [
+                128.19,
+                1709096400
+            ],
+            [
+                127.15,
+                1709182800
+            ],
+            [
+                126.96,
+                1709269200
+            ],
+            [
+                124.05,
+                1709528400
+            ],
+            [
+                122.83,
+                1709614800
+            ],
+            [
+                123.75,
+                1709701200
+            ],
+            [
+                123.99,
+                1709787600
+            ],
+            [
+                123.5,
+                1709874000
+            ],
+            [
+                122.77,
+                1710129600
+            ],
+            [
+                122.66,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2253,
+        "drug_name": "KEYTRUDA (pembrolizumab)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Relapsed or Refractory Primary Mediastinal Large B-Cell Lymphoma (PMBCL)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-13",
+        "link": "http:\/\/investors.merck.com\/news\/press-release-details\/2018\/FDA-Approves-Mercks-KEYTRUDA-pembrolizumab-for-Treatment-of-Refractory-or-Relapsed-Primary-Mediastinal-Large-B-Cell-Lymphoma-PMBCL\/default.aspx",
+        "note": "Approval announced June 13, 2018.",
+        "company_entity_id": 383,
+        "company_ticker": "MRK",
+        "company_name": "Merck & Company Inc.",
+        "company_price": "122.6600",
+        "company_change": -0.10999999999999999,
+        "company_percent_change": -0.08999999999999997,
+        "company_optionable": 1,
+        "company_number_of_shares": 2532643872,
+        "price_change_sparkline": [
+            [
+                120.78,
+                1706677200
+            ],
+            [
+                126.38,
+                1706763600
+            ],
+            [
+                126.41,
+                1706850000
+            ],
+            [
+                126.18,
+                1707109200
+            ],
+            [
+                126.88,
+                1707195600
+            ],
+            [
+                127.47,
+                1707282000
+            ],
+            [
+                126.61,
+                1707368400
+            ],
+            [
+                125.45,
+                1707454800
+            ],
+            [
+                125.34,
+                1707714000
+            ],
+            [
+                125.43,
+                1707800400
+            ],
+            [
+                125.82,
+                1707886800
+            ],
+            [
+                126.54,
+                1707973200
+            ],
+            [
+                127.79,
+                1708059600
+            ],
+            [
+                127.37,
+                1708405200
+            ],
+            [
+                128.12,
+                1708491600
+            ],
+            [
+                129.26,
+                1708578000
+            ],
+            [
+                129.45,
+                1708664400
+            ],
+            [
+                128.84,
+                1708923600
+            ],
+            [
+                129.03,
+                1709010000
+            ],
+            [
+                128.19,
+                1709096400
+            ],
+            [
+                127.15,
+                1709182800
+            ],
+            [
+                126.96,
+                1709269200
+            ],
+            [
+                124.05,
+                1709528400
+            ],
+            [
+                122.83,
+                1709614800
+            ],
+            [
+                123.75,
+                1709701200
+            ],
+            [
+                123.99,
+                1709787600
+            ],
+            [
+                123.5,
+                1709874000
+            ],
+            [
+                122.77,
+                1710129600
+            ],
+            [
+                122.66,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 4879,
+        "drug_name": "AVASTIN (bevacizumab) + chemo",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Ovarian cancer",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-13",
+        "link": "https:\/\/www.roche.com\/investors\/updates\/inv-update-2018-06-13.htm",
+        "note": "FDA approval announced June 13, 2018.",
+        "company_entity_id": 536,
+        "company_ticker": "RHHBY",
+        "company_name": "Roche Holding AG ADR",
+        "company_price": "35.1500",
+        "company_change": 0.54,
+        "company_percent_change": 1.56,
+        "company_optionable": 0,
+        "company_number_of_shares": 6389213336,
+        "price_change_sparkline": [
+            [
+                35.14,
+                1706677200
+            ],
+            [
+                34.32,
+                1706763600
+            ],
+            [
+                33.95,
+                1706850000
+            ],
+            [
+                33.16,
+                1707109200
+            ],
+            [
+                33.27,
+                1707195600
+            ],
+            [
+                32.55,
+                1707282000
+            ],
+            [
+                32.1,
+                1707368400
+            ],
+            [
+                32.31,
+                1707454800
+            ],
+            [
+                32.6,
+                1707714000
+            ],
+            [
+                32.13,
+                1707800400
+            ],
+            [
+                32.02,
+                1707886800
+            ],
+            [
+                32.1,
+                1707973200
+            ],
+            [
+                32.28,
+                1708059600
+            ],
+            [
+                32.74,
+                1708405200
+            ],
+            [
+                32.91,
+                1708491600
+            ],
+            [
+                32.49,
+                1708578000
+            ],
+            [
+                32.96,
+                1708664400
+            ],
+            [
+                32.52,
+                1708923600
+            ],
+            [
+                33.03,
+                1709010000
+            ],
+            [
+                32.93,
+                1709096400
+            ],
+            [
+                32.73,
+                1709182800
+            ],
+            [
+                33.08,
+                1709269200
+            ],
+            [
+                32.88,
+                1709528400
+            ],
+            [
+                33.15,
+                1709614800
+            ],
+            [
+                33.47,
+                1709701200
+            ],
+            [
+                33.77,
+                1709787600
+            ],
+            [
+                33.9,
+                1709874000
+            ],
+            [
+                34.61,
+                1710129600
+            ],
+            [
+                35.15,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3368,
+        "drug_name": "MEKTOVI (\u200bbinimetinib)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "BRAF mutant melanoma cancer",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-27",
+        "link": "http:\/\/investor.arraybiopharma.com\/news-releases\/news-release-details\/array-biopharma-announces-fda-approval-braftovitm-encorafenib",
+        "note": "Approval announced June 27, 2018.",
+        "company_entity_id": 387,
+        "company_ticker": "PFE",
+        "company_name": "Pfizer Inc.",
+        "company_price": "28.0100",
+        "company_change": -0.36,
+        "company_percent_change": -1.27,
+        "company_optionable": 1,
+        "company_number_of_shares": 5646778425,
+        "price_change_sparkline": [
+            [
+                27.08,
+                1706677200
+            ],
+            [
+                27.29,
+                1706763600
+            ],
+            [
+                26.93,
+                1706850000
+            ],
+            [
+                26.57,
+                1707109200
+            ],
+            [
+                27.5,
+                1707195600
+            ],
+            [
+                27.56,
+                1707282000
+            ],
+            [
+                27.57,
+                1707368400
+            ],
+            [
+                27.56,
+                1707454800
+            ],
+            [
+                27.66,
+                1707714000
+            ],
+            [
+                26.97,
+                1707800400
+            ],
+            [
+                27.11,
+                1707886800
+            ],
+            [
+                27.51,
+                1707973200
+            ],
+            [
+                27.62,
+                1708059600
+            ],
+            [
+                27.59,
+                1708405200
+            ],
+            [
+                27.67,
+                1708491600
+            ],
+            [
+                27.55,
+                1708578000
+            ],
+            [
+                27.76,
+                1708664400
+            ],
+            [
+                27.18,
+                1708923600
+            ],
+            [
+                26.89,
+                1709010000
+            ],
+            [
+                27.04,
+                1709096400
+            ],
+            [
+                26.56,
+                1709182800
+            ],
+            [
+                26.59,
+                1709269200
+            ],
+            [
+                25.89,
+                1709528400
+            ],
+            [
+                26.08,
+                1709614800
+            ],
+            [
+                27.19,
+                1709701200
+            ],
+            [
+                26.79,
+                1709787600
+            ],
+            [
+                27.22,
+                1709874000
+            ],
+            [
+                28.37,
+                1710129600
+            ],
+            [
+                28.01,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 4356,
+        "drug_name": "QBREXZA (glycopyrronium)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Primary axillary hyperhidrosis",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2018-06-29",
+        "link": "http:\/\/investor.dermira.com\/phoenix.zhtml?c=253686&p=irol-newsArticle&ID=2356602",
+        "note": "Approval announced June 29, 2018.",
+        "company_entity_id": 382,
+        "company_ticker": "LLY",
+        "company_name": "Eli Lilly and Company",
+        "company_price": "754.9500",
+        "company_change": 20.58,
+        "company_percent_change": 2.8,
+        "company_optionable": 1,
+        "company_number_of_shares": 950164452,
+        "price_change_sparkline": [
+            [
+                644.503643637706,
+                1706677200
+            ],
+            [
+                659.298247188938,
+                1706763600
+            ],
+            [
+                666.505874560051,
+                1706850000
+            ],
+            [
+                704.989812947364,
+                1707109200
+            ],
+            [
+                703.821817930162,
+                1707195600
+            ],
+            [
+                724.13694493877,
+                1707282000
+            ],
+            [
+                734.41929423551,
+                1707368400
+            ],
+            [
+                738.891617036422,
+                1707454800
+            ],
+            [
+                735.996586651903,
+                1707714000
+            ],
+            [
+                741.696801650387,
+                1707800400
+            ],
+            [
+                757.31,
+                1707886800
+            ],
+            [
+                757.78,
+                1707973200
+            ],
+            [
+                782.06,
+                1708059600
+            ],
+            [
+                755.66,
+                1708405200
+            ],
+            [
+                745.91,
+                1708491600
+            ],
+            [
+                769.64,
+                1708578000
+            ],
+            [
+                769.54,
+                1708664400
+            ],
+            [
+                771.92,
+                1708923600
+            ],
+            [
+                765,
+                1709010000
+            ],
+            [
+                757.64,
+                1709096400
+            ],
+            [
+                753.68,
+                1709182800
+            ],
+            [
+                782.12,
+                1709269200
+            ],
+            [
+                792.28,
+                1709528400
+            ],
+            [
+                777.59,
+                1709614800
+            ],
+            [
+                779.77,
+                1709701200
+            ],
+            [
+                780.16,
+                1709787600
+            ],
+            [
+                762.14,
+                1709874000
+            ],
+            [
+                734.37,
+                1710129600
+            ],
+            [
+                754.95,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    }
+]

@@ -1,0 +1,3417 @@
+[
+    {
+        "id": 7439,
+        "drug_name": "KIMMTRAK (tebentafusp-tebn)",
+        "clinical_trial_id": "NCT03070392",
+        "has_trial_insight_page": 0,
+        "indication": "Uveal melanoma",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-01-26",
+        "link": "https:\/\/www.benzinga.com\/node\/25228985",
+        "note": "Approved January 26, 2022. ",
+        "company_entity_id": 880,
+        "company_ticker": "IMCR",
+        "company_name": "Immunocore Holdings plc",
+        "company_price": "61.2300",
+        "company_change": 0.27,
+        "company_percent_change": 0.44,
+        "company_optionable": 1,
+        "company_number_of_shares": 48088346,
+        "price_change_sparkline": [
+            [
+                72.29,
+                1706677200
+            ],
+            [
+                75.21,
+                1706763600
+            ],
+            [
+                73.74,
+                1706850000
+            ],
+            [
+                73.8,
+                1707109200
+            ],
+            [
+                75.2,
+                1707195600
+            ],
+            [
+                75.36,
+                1707282000
+            ],
+            [
+                74.93,
+                1707368400
+            ],
+            [
+                74.61,
+                1707454800
+            ],
+            [
+                74.52,
+                1707714000
+            ],
+            [
+                71.99,
+                1707800400
+            ],
+            [
+                71.65,
+                1707886800
+            ],
+            [
+                70.5,
+                1707973200
+            ],
+            [
+                69.99,
+                1708059600
+            ],
+            [
+                69.09,
+                1708405200
+            ],
+            [
+                70.24,
+                1708491600
+            ],
+            [
+                69.43,
+                1708578000
+            ],
+            [
+                69.86,
+                1708664400
+            ],
+            [
+                70.97,
+                1708923600
+            ],
+            [
+                70.45,
+                1709010000
+            ],
+            [
+                69.21,
+                1709096400
+            ],
+            [
+                67.22,
+                1709182800
+            ],
+            [
+                67.41,
+                1709269200
+            ],
+            [
+                65.37,
+                1709528400
+            ],
+            [
+                65.06,
+                1709614800
+            ],
+            [
+                63.97,
+                1709701200
+            ],
+            [
+                63.03,
+                1709787600
+            ],
+            [
+                61.61,
+                1709874000
+            ],
+            [
+                60.96,
+                1710129600
+            ],
+            [
+                61.23,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 6365,
+        "drug_name": "Faricimab (RG7716)",
+        "clinical_trial_id": "NCT03622580",
+        "has_trial_insight_page": 0,
+        "indication": "Diabetic Macular Edema",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-01-28",
+        "link": "https:\/\/www.businesswire.com\/news\/home\/20220128005009\/en\/",
+        "note": "FDA Approval announced January 28, 2022.",
+        "company_entity_id": 536,
+        "company_ticker": "RHHBY",
+        "company_name": "Roche Holding AG ADR",
+        "company_price": "35.1500",
+        "company_change": 0.54,
+        "company_percent_change": 1.56,
+        "company_optionable": 0,
+        "company_number_of_shares": 6389213336,
+        "price_change_sparkline": [
+            [
+                35.14,
+                1706677200
+            ],
+            [
+                34.32,
+                1706763600
+            ],
+            [
+                33.95,
+                1706850000
+            ],
+            [
+                33.16,
+                1707109200
+            ],
+            [
+                33.27,
+                1707195600
+            ],
+            [
+                32.55,
+                1707282000
+            ],
+            [
+                32.1,
+                1707368400
+            ],
+            [
+                32.31,
+                1707454800
+            ],
+            [
+                32.6,
+                1707714000
+            ],
+            [
+                32.13,
+                1707800400
+            ],
+            [
+                32.02,
+                1707886800
+            ],
+            [
+                32.1,
+                1707973200
+            ],
+            [
+                32.28,
+                1708059600
+            ],
+            [
+                32.74,
+                1708405200
+            ],
+            [
+                32.91,
+                1708491600
+            ],
+            [
+                32.49,
+                1708578000
+            ],
+            [
+                32.96,
+                1708664400
+            ],
+            [
+                32.52,
+                1708923600
+            ],
+            [
+                33.03,
+                1709010000
+            ],
+            [
+                32.93,
+                1709096400
+            ],
+            [
+                32.73,
+                1709182800
+            ],
+            [
+                33.08,
+                1709269200
+            ],
+            [
+                32.88,
+                1709528400
+            ],
+            [
+                33.15,
+                1709614800
+            ],
+            [
+                33.47,
+                1709701200
+            ],
+            [
+                33.77,
+                1709787600
+            ],
+            [
+                33.9,
+                1709874000
+            ],
+            [
+                34.61,
+                1710129600
+            ],
+            [
+                35.15,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 8920,
+        "drug_name": "VONVENDI",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Type 3 von Willebrand Disease (VWD)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-01-31",
+        "link": "https:\/\/www.businesswire.com\/news\/home\/20220131005214\/en\/",
+        "note": "Approved January 31, 2022. ",
+        "company_entity_id": 751,
+        "company_ticker": "TAK",
+        "company_name": "Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1\/2 of a share of)",
+        "company_price": "14.3700",
+        "company_change": -0.19999999999999996,
+        "company_percent_change": -1.37,
+        "company_optionable": 1,
+        "company_number_of_shares": 3137776702,
+        "price_change_sparkline": [
+            [
+                14.6,
+                1706677200
+            ],
+            [
+                14.38,
+                1706763600
+            ],
+            [
+                14.28,
+                1706850000
+            ],
+            [
+                13.92,
+                1707109200
+            ],
+            [
+                14.16,
+                1707195600
+            ],
+            [
+                14.18,
+                1707282000
+            ],
+            [
+                14,
+                1707368400
+            ],
+            [
+                14.24,
+                1707454800
+            ],
+            [
+                14.31,
+                1707714000
+            ],
+            [
+                14.34,
+                1707800400
+            ],
+            [
+                14.54,
+                1707886800
+            ],
+            [
+                14.42,
+                1707973200
+            ],
+            [
+                14.62,
+                1708059600
+            ],
+            [
+                14.82,
+                1708405200
+            ],
+            [
+                14.74,
+                1708491600
+            ],
+            [
+                14.64,
+                1708578000
+            ],
+            [
+                14.62,
+                1708664400
+            ],
+            [
+                14.81,
+                1708923600
+            ],
+            [
+                14.84,
+                1709010000
+            ],
+            [
+                14.65,
+                1709096400
+            ],
+            [
+                14.59,
+                1709182800
+            ],
+            [
+                14.56,
+                1709269200
+            ],
+            [
+                14.48,
+                1709528400
+            ],
+            [
+                14.4,
+                1709614800
+            ],
+            [
+                14.69,
+                1709701200
+            ],
+            [
+                14.86,
+                1709787600
+            ],
+            [
+                14.77,
+                1709874000
+            ],
+            [
+                14.57,
+                1710129600
+            ],
+            [
+                14.37,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 8917,
+        "drug_name": "Vabysmo (faricimab-svoa)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Wet age-related macular degeneration (nAMD) and diabetic macular edema (DME)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-01-31",
+        "link": "https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/f1e71507-4c4d-45f5-a748-ce0bc930a5a9",
+        "note": "Approved January 31, 2022. ",
+        "company_entity_id": 536,
+        "company_ticker": "RHHBY",
+        "company_name": "Roche Holding AG ADR",
+        "company_price": "35.1500",
+        "company_change": 0.54,
+        "company_percent_change": 1.56,
+        "company_optionable": 0,
+        "company_number_of_shares": 6389213336,
+        "price_change_sparkline": [
+            [
+                35.14,
+                1706677200
+            ],
+            [
+                34.32,
+                1706763600
+            ],
+            [
+                33.95,
+                1706850000
+            ],
+            [
+                33.16,
+                1707109200
+            ],
+            [
+                33.27,
+                1707195600
+            ],
+            [
+                32.55,
+                1707282000
+            ],
+            [
+                32.1,
+                1707368400
+            ],
+            [
+                32.31,
+                1707454800
+            ],
+            [
+                32.6,
+                1707714000
+            ],
+            [
+                32.13,
+                1707800400
+            ],
+            [
+                32.02,
+                1707886800
+            ],
+            [
+                32.1,
+                1707973200
+            ],
+            [
+                32.28,
+                1708059600
+            ],
+            [
+                32.74,
+                1708405200
+            ],
+            [
+                32.91,
+                1708491600
+            ],
+            [
+                32.49,
+                1708578000
+            ],
+            [
+                32.96,
+                1708664400
+            ],
+            [
+                32.52,
+                1708923600
+            ],
+            [
+                33.03,
+                1709010000
+            ],
+            [
+                32.93,
+                1709096400
+            ],
+            [
+                32.73,
+                1709182800
+            ],
+            [
+                33.08,
+                1709269200
+            ],
+            [
+                32.88,
+                1709528400
+            ],
+            [
+                33.15,
+                1709614800
+            ],
+            [
+                33.47,
+                1709701200
+            ],
+            [
+                33.77,
+                1709787600
+            ],
+            [
+                33.9,
+                1709874000
+            ],
+            [
+                34.61,
+                1710129600
+            ],
+            [
+                35.15,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 6404,
+        "drug_name": "SPIKEVAX (mRNA-1273)",
+        "clinical_trial_id": "NCT04405076",
+        "has_trial_insight_page": 0,
+        "indication": "COVID-19 vaccine ",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-01-31",
+        "link": "https:\/\/www.accesswire.com\/686397\/Moderna-Receives-Full-US-FDA-Approval-for-COVID-19-Vaccine-Spikevax",
+        "note": "Full approval January 31, 2022. ",
+        "company_entity_id": 618,
+        "company_ticker": "MRNA",
+        "company_name": "Moderna Inc.",
+        "company_price": "110.4300",
+        "company_change": -1.55,
+        "company_percent_change": -1.38,
+        "company_optionable": 1,
+        "company_number_of_shares": 382073208,
+        "price_change_sparkline": [
+            [
+                101.05,
+                1706677200
+            ],
+            [
+                99.02,
+                1706763600
+            ],
+            [
+                97.5,
+                1706850000
+            ],
+            [
+                95.49,
+                1707109200
+            ],
+            [
+                100.03,
+                1707195600
+            ],
+            [
+                99.3,
+                1707282000
+            ],
+            [
+                93.66,
+                1707368400
+            ],
+            [
+                87.41,
+                1707454800
+            ],
+            [
+                89,
+                1707714000
+            ],
+            [
+                85.37,
+                1707800400
+            ],
+            [
+                85.95,
+                1707886800
+            ],
+            [
+                91.14,
+                1707973200
+            ],
+            [
+                88.37,
+                1708059600
+            ],
+            [
+                86.99,
+                1708405200
+            ],
+            [
+                87.59,
+                1708491600
+            ],
+            [
+                99.44,
+                1708578000
+            ],
+            [
+                96.46,
+                1708664400
+            ],
+            [
+                94.02,
+                1708923600
+            ],
+            [
+                96.2,
+                1709010000
+            ],
+            [
+                97.48,
+                1709096400
+            ],
+            [
+                92.24,
+                1709182800
+            ],
+            [
+                95.06,
+                1709269200
+            ],
+            [
+                96,
+                1709528400
+            ],
+            [
+                95.56,
+                1709614800
+            ],
+            [
+                98.1,
+                1709701200
+            ],
+            [
+                99.48,
+                1709787600
+            ],
+            [
+                103.03,
+                1709874000
+            ],
+            [
+                111.98,
+                1710129600
+            ],
+            [
+                110.43,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 5711,
+        "drug_name": "Cabenuva (cabotegravir + rilpivirine)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "HIV",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-02-01",
+        "link": "https:\/\/www.businesswire.com\/news\/home\/20220118006212\/en\/",
+        "note": "Approved February 1, 2022. ",
+        "company_entity_id": 379,
+        "company_ticker": "GSK",
+        "company_name": "GSK plc American Depositary Shares (Each representing two)",
+        "company_price": "43.2700",
+        "company_change": 0.35,
+        "company_percent_change": 0.82,
+        "company_optionable": 1,
+        "company_number_of_shares": 2058516719,
+        "price_change_sparkline": [
+            [
+                39.0637603938206,
+                1706677200
+            ],
+            [
+                40.2424083367376,
+                1706763600
+            ],
+            [
+                40.3315497777986,
+                1706850000
+            ],
+            [
+                41.1734411655964,
+                1707109200
+            ],
+            [
+                41.3517240477183,
+                1707195600
+            ],
+            [
+                41.6191483709012,
+                1707282000
+            ],
+            [
+                41.4210562796546,
+                1707368400
+            ],
+            [
+                41.5101977207156,
+                1707454800
+            ],
+            [
+                40.67821093748,
+                1707714000
+            ],
+            [
+                40.9951582834745,
+                1707800400
+            ],
+            [
+                41.40124707053,
+                1707886800
+            ],
+            [
+                41.371533256843,
+                1707973200
+            ],
+            [
+                41.5399115344025,
+                1708059600
+            ],
+            [
+                41.6191483709012,
+                1708405200
+            ],
+            [
+                41.5399115344025,
+                1708491600
+            ],
+            [
+                42.16,
+                1708578000
+            ],
+            [
+                42.22,
+                1708664400
+            ],
+            [
+                42.34,
+                1708923600
+            ],
+            [
+                42.38,
+                1709010000
+            ],
+            [
+                42.34,
+                1709096400
+            ],
+            [
+                41.9,
+                1709182800
+            ],
+            [
+                42.03,
+                1709269200
+            ],
+            [
+                42.44,
+                1709528400
+            ],
+            [
+                42.6,
+                1709614800
+            ],
+            [
+                42.62,
+                1709701200
+            ],
+            [
+                43.58,
+                1709787600
+            ],
+            [
+                43.14,
+                1709874000
+            ],
+            [
+                42.92,
+                1710129600
+            ],
+            [
+                43.27,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 5711,
+        "drug_name": "Cabenuva (cabotegravir + rilpivirine)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "HIV",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-02-01",
+        "link": "https:\/\/www.businesswire.com\/news\/home\/20220118006212\/en\/",
+        "note": "Approved February 1, 2022. ",
+        "company_entity_id": 387,
+        "company_ticker": "PFE",
+        "company_name": "Pfizer Inc.",
+        "company_price": "28.0100",
+        "company_change": -0.36,
+        "company_percent_change": -1.27,
+        "company_optionable": 1,
+        "company_number_of_shares": 5646778425,
+        "price_change_sparkline": [
+            [
+                27.08,
+                1706677200
+            ],
+            [
+                27.29,
+                1706763600
+            ],
+            [
+                26.93,
+                1706850000
+            ],
+            [
+                26.57,
+                1707109200
+            ],
+            [
+                27.5,
+                1707195600
+            ],
+            [
+                27.56,
+                1707282000
+            ],
+            [
+                27.57,
+                1707368400
+            ],
+            [
+                27.56,
+                1707454800
+            ],
+            [
+                27.66,
+                1707714000
+            ],
+            [
+                26.97,
+                1707800400
+            ],
+            [
+                27.11,
+                1707886800
+            ],
+            [
+                27.51,
+                1707973200
+            ],
+            [
+                27.62,
+                1708059600
+            ],
+            [
+                27.59,
+                1708405200
+            ],
+            [
+                27.67,
+                1708491600
+            ],
+            [
+                27.55,
+                1708578000
+            ],
+            [
+                27.76,
+                1708664400
+            ],
+            [
+                27.18,
+                1708923600
+            ],
+            [
+                26.89,
+                1709010000
+            ],
+            [
+                27.04,
+                1709096400
+            ],
+            [
+                26.56,
+                1709182800
+            ],
+            [
+                26.59,
+                1709269200
+            ],
+            [
+                25.89,
+                1709528400
+            ],
+            [
+                26.08,
+                1709614800
+            ],
+            [
+                27.19,
+                1709701200
+            ],
+            [
+                26.79,
+                1709787600
+            ],
+            [
+                27.22,
+                1709874000
+            ],
+            [
+                28.37,
+                1710129600
+            ],
+            [
+                28.01,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 8936,
+        "drug_name": "Cyclosporine Ophthalmic Emulsion (generic restasis)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Dry eye disease",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-02-03",
+        "link": "https:\/\/www.prnewswire.com\/news-releases\/viatris-is-first-to-receive-fda-approval-of-generic-restasis-cyclosporine-ophthalmic-emulsion-0-05-to-treat-dry-eye-disease-301475343.html",
+        "note": "Approved February 3, 2022. ",
+        "company_entity_id": 851,
+        "company_ticker": "VTRS",
+        "company_name": "Viatris Inc.",
+        "company_price": "12.0600",
+        "company_change": 0.09,
+        "company_percent_change": 0.75,
+        "company_optionable": 1,
+        "company_number_of_shares": 1187569149,
+        "price_change_sparkline": [
+            [
+                11.6559127625202,
+                1706677200
+            ],
+            [
+                11.754943457189,
+                1706763600
+            ],
+            [
+                11.7351373182553,
+                1706850000
+            ],
+            [
+                11.4677544426494,
+                1707109200
+            ],
+            [
+                11.7747495961228,
+                1707195600
+            ],
+            [
+                11.6262035541195,
+                1707282000
+            ],
+            [
+                11.4479483037157,
+                1707368400
+            ],
+            [
+                11.5667851373183,
+                1707454800
+            ],
+            [
+                11.8341680129241,
+                1707714000
+            ],
+            [
+                11.8539741518578,
+                1707800400
+            ],
+            [
+                11.9530048465267,
+                1707886800
+            ],
+            [
+                12.6957350565428,
+                1707973200
+            ],
+            [
+                12.933408723748,
+                1708059600
+            ],
+            [
+                13.1116639741519,
+                1708405200
+            ],
+            [
+                13.1314701130856,
+                1708491600
+            ],
+            [
+                13.2305008077544,
+                1708578000
+            ],
+            [
+                13.3988529886914,
+                1708664400
+            ],
+            [
+                13.2998222940226,
+                1708923600
+            ],
+            [
+                13.101760904685,
+                1709010000
+            ],
+            [
+                12.1708723747981,
+                1709096400
+            ],
+            [
+                12.2500969305331,
+                1709182800
+            ],
+            [
+                12.4679644588045,
+                1709269200
+            ],
+            [
+                12.2401938610662,
+                1709528400
+            ],
+            [
+                12.1609693053312,
+                1709614800
+            ],
+            [
+                12.0817447495961,
+                1709701200
+            ],
+            [
+                12.2104846526656,
+                1709787600
+            ],
+            [
+                12.26,
+                1709874000
+            ],
+            [
+                11.97,
+                1710129600
+            ],
+            [
+                12.06,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 7393,
+        "drug_name": "Bebtelovimab (LY-CoV1404) and Sotrovimab (VIR-7831 \/ GSK4182136) - (BLAZE-4)",
+        "clinical_trial_id": "NCT04634409",
+        "has_trial_insight_page": 1,
+        "indication": "COVID-19 antibody",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-02-11",
+        "link": "https:\/\/www.prnewswire.com\/news-releases\/lillys-bebtelovimab-receives-emergency-use-authorization-for-the-treatment-of-mild-to-moderate-covid-19-301480923.html",
+        "note": "EUA granted by FDA February 11, 2022.",
+        "company_entity_id": 379,
+        "company_ticker": "GSK",
+        "company_name": "GSK plc American Depositary Shares (Each representing two)",
+        "company_price": "43.2700",
+        "company_change": 0.35,
+        "company_percent_change": 0.82,
+        "company_optionable": 1,
+        "company_number_of_shares": 2058516719,
+        "price_change_sparkline": [
+            [
+                39.0637603938206,
+                1706677200
+            ],
+            [
+                40.2424083367376,
+                1706763600
+            ],
+            [
+                40.3315497777986,
+                1706850000
+            ],
+            [
+                41.1734411655964,
+                1707109200
+            ],
+            [
+                41.3517240477183,
+                1707195600
+            ],
+            [
+                41.6191483709012,
+                1707282000
+            ],
+            [
+                41.4210562796546,
+                1707368400
+            ],
+            [
+                41.5101977207156,
+                1707454800
+            ],
+            [
+                40.67821093748,
+                1707714000
+            ],
+            [
+                40.9951582834745,
+                1707800400
+            ],
+            [
+                41.40124707053,
+                1707886800
+            ],
+            [
+                41.371533256843,
+                1707973200
+            ],
+            [
+                41.5399115344025,
+                1708059600
+            ],
+            [
+                41.6191483709012,
+                1708405200
+            ],
+            [
+                41.5399115344025,
+                1708491600
+            ],
+            [
+                42.16,
+                1708578000
+            ],
+            [
+                42.22,
+                1708664400
+            ],
+            [
+                42.34,
+                1708923600
+            ],
+            [
+                42.38,
+                1709010000
+            ],
+            [
+                42.34,
+                1709096400
+            ],
+            [
+                41.9,
+                1709182800
+            ],
+            [
+                42.03,
+                1709269200
+            ],
+            [
+                42.44,
+                1709528400
+            ],
+            [
+                42.6,
+                1709614800
+            ],
+            [
+                42.62,
+                1709701200
+            ],
+            [
+                43.58,
+                1709787600
+            ],
+            [
+                43.14,
+                1709874000
+            ],
+            [
+                42.92,
+                1710129600
+            ],
+            [
+                43.27,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 7393,
+        "drug_name": "Bebtelovimab (LY-CoV1404) and Sotrovimab (VIR-7831 \/ GSK4182136) - (BLAZE-4)",
+        "clinical_trial_id": "NCT04634409",
+        "has_trial_insight_page": 1,
+        "indication": "COVID-19 antibody",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-02-11",
+        "link": "https:\/\/www.prnewswire.com\/news-releases\/lillys-bebtelovimab-receives-emergency-use-authorization-for-the-treatment-of-mild-to-moderate-covid-19-301480923.html",
+        "note": "EUA granted by FDA February 11, 2022.",
+        "company_entity_id": 382,
+        "company_ticker": "LLY",
+        "company_name": "Eli Lilly and Company",
+        "company_price": "754.9500",
+        "company_change": 20.58,
+        "company_percent_change": 2.8,
+        "company_optionable": 1,
+        "company_number_of_shares": 950164452,
+        "price_change_sparkline": [
+            [
+                644.503643637706,
+                1706677200
+            ],
+            [
+                659.298247188938,
+                1706763600
+            ],
+            [
+                666.505874560051,
+                1706850000
+            ],
+            [
+                704.989812947364,
+                1707109200
+            ],
+            [
+                703.821817930162,
+                1707195600
+            ],
+            [
+                724.13694493877,
+                1707282000
+            ],
+            [
+                734.41929423551,
+                1707368400
+            ],
+            [
+                738.891617036422,
+                1707454800
+            ],
+            [
+                735.996586651903,
+                1707714000
+            ],
+            [
+                741.696801650387,
+                1707800400
+            ],
+            [
+                757.31,
+                1707886800
+            ],
+            [
+                757.78,
+                1707973200
+            ],
+            [
+                782.06,
+                1708059600
+            ],
+            [
+                755.66,
+                1708405200
+            ],
+            [
+                745.91,
+                1708491600
+            ],
+            [
+                769.64,
+                1708578000
+            ],
+            [
+                769.54,
+                1708664400
+            ],
+            [
+                771.92,
+                1708923600
+            ],
+            [
+                765,
+                1709010000
+            ],
+            [
+                757.64,
+                1709096400
+            ],
+            [
+                753.68,
+                1709182800
+            ],
+            [
+                782.12,
+                1709269200
+            ],
+            [
+                792.28,
+                1709528400
+            ],
+            [
+                777.59,
+                1709614800
+            ],
+            [
+                779.77,
+                1709701200
+            ],
+            [
+                780.16,
+                1709787600
+            ],
+            [
+                762.14,
+                1709874000
+            ],
+            [
+                734.37,
+                1710129600
+            ],
+            [
+                754.95,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 7393,
+        "drug_name": "Bebtelovimab (LY-CoV1404) and Sotrovimab (VIR-7831 \/ GSK4182136) - (BLAZE-4)",
+        "clinical_trial_id": "NCT04634409",
+        "has_trial_insight_page": 1,
+        "indication": "COVID-19 antibody",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-02-11",
+        "link": "https:\/\/www.prnewswire.com\/news-releases\/lillys-bebtelovimab-receives-emergency-use-authorization-for-the-treatment-of-mild-to-moderate-covid-19-301480923.html",
+        "note": "EUA granted by FDA February 11, 2022.",
+        "company_entity_id": 708,
+        "company_ticker": "VIR",
+        "company_name": "Vir Biotechnology Inc.",
+        "company_price": "10.7300",
+        "company_change": -0.6699999999999999,
+        "company_percent_change": -5.88,
+        "company_optionable": 1,
+        "company_number_of_shares": 135032268,
+        "price_change_sparkline": [
+            [
+                9.4,
+                1706677200
+            ],
+            [
+                9.12,
+                1706763600
+            ],
+            [
+                8.67,
+                1706850000
+            ],
+            [
+                8.6,
+                1707109200
+            ],
+            [
+                8.99,
+                1707195600
+            ],
+            [
+                9.06,
+                1707282000
+            ],
+            [
+                9.23,
+                1707368400
+            ],
+            [
+                9.29,
+                1707454800
+            ],
+            [
+                9.74,
+                1707714000
+            ],
+            [
+                8.85,
+                1707800400
+            ],
+            [
+                9.79,
+                1707886800
+            ],
+            [
+                10.31,
+                1707973200
+            ],
+            [
+                10.25,
+                1708059600
+            ],
+            [
+                10.23,
+                1708405200
+            ],
+            [
+                10.11,
+                1708491600
+            ],
+            [
+                10.3,
+                1708578000
+            ],
+            [
+                11.53,
+                1708664400
+            ],
+            [
+                11.9,
+                1708923600
+            ],
+            [
+                11.43,
+                1709010000
+            ],
+            [
+                11.6,
+                1709096400
+            ],
+            [
+                11.24,
+                1709182800
+            ],
+            [
+                11.24,
+                1709269200
+            ],
+            [
+                11.19,
+                1709528400
+            ],
+            [
+                10.88,
+                1709614800
+            ],
+            [
+                10.92,
+                1709701200
+            ],
+            [
+                11.26,
+                1709787600
+            ],
+            [
+                11.36,
+                1709874000
+            ],
+            [
+                11.4,
+                1710129600
+            ],
+            [
+                10.73,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 3892,
+        "drug_name": "Mitapivat (AG-348)",
+        "clinical_trial_id": "NCT03559699",
+        "has_trial_insight_page": 0,
+        "indication": "Pyruvate kinase deficiency",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-02-17",
+        "link": "https:\/\/www.globenewswire.com\/news-release\/2022\/02\/17\/2387542\/0\/en\/Agios-Announces-FDA-Approval-of-PYRUKYND-mitapivat-as-First-Disease-Modifying-Therapy-for-Hemolytic-Anemia-in-Adults-with-Pyruvate-Kinase-Deficiency.html",
+        "note": "Approved February 17, 2022.",
+        "company_entity_id": 23,
+        "company_ticker": "AGIO",
+        "company_name": "Agios Pharmaceuticals Inc.",
+        "company_price": "30.2900",
+        "company_change": -0.51,
+        "company_percent_change": -1.66,
+        "company_optionable": 1,
+        "company_number_of_shares": 56194847,
+        "price_change_sparkline": [
+            [
+                22.62,
+                1706677200
+            ],
+            [
+                22.96,
+                1706763600
+            ],
+            [
+                23.09,
+                1706850000
+            ],
+            [
+                23.73,
+                1707109200
+            ],
+            [
+                24.15,
+                1707195600
+            ],
+            [
+                23.69,
+                1707282000
+            ],
+            [
+                24.18,
+                1707368400
+            ],
+            [
+                25.14,
+                1707454800
+            ],
+            [
+                25.88,
+                1707714000
+            ],
+            [
+                25.15,
+                1707800400
+            ],
+            [
+                25.9,
+                1707886800
+            ],
+            [
+                26.8,
+                1707973200
+            ],
+            [
+                26.51,
+                1708059600
+            ],
+            [
+                27.1,
+                1708405200
+            ],
+            [
+                26.8,
+                1708491600
+            ],
+            [
+                29.78,
+                1708578000
+            ],
+            [
+                32.99,
+                1708664400
+            ],
+            [
+                32.87,
+                1708923600
+            ],
+            [
+                34.81,
+                1709010000
+            ],
+            [
+                33.67,
+                1709096400
+            ],
+            [
+                32.32,
+                1709182800
+            ],
+            [
+                32.27,
+                1709269200
+            ],
+            [
+                32.17,
+                1709528400
+            ],
+            [
+                31.37,
+                1709614800
+            ],
+            [
+                31.79,
+                1709701200
+            ],
+            [
+                31.37,
+                1709787600
+            ],
+            [
+                31.29,
+                1709874000
+            ],
+            [
+                30.8,
+                1710129600
+            ],
+            [
+                30.29,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 7401,
+        "drug_name": "JARDIANCE (empagliflozin)",
+        "clinical_trial_id": "NCT03057951",
+        "has_trial_insight_page": 0,
+        "indication": "Heart failure with preserved Ejection Fraction (HFpEF)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-02-24",
+        "link": "https:\/\/www.boehringer-ingelheim.us\/press-release\/us-fda-approves-jardiance-empagliflozin-treat-adults-heart-failure-regardless-left",
+        "note": "Approved February 24, 2022.",
+        "company_entity_id": 382,
+        "company_ticker": "LLY",
+        "company_name": "Eli Lilly and Company",
+        "company_price": "754.9500",
+        "company_change": 20.58,
+        "company_percent_change": 2.8,
+        "company_optionable": 1,
+        "company_number_of_shares": 950164452,
+        "price_change_sparkline": [
+            [
+                644.503643637706,
+                1706677200
+            ],
+            [
+                659.298247188938,
+                1706763600
+            ],
+            [
+                666.505874560051,
+                1706850000
+            ],
+            [
+                704.989812947364,
+                1707109200
+            ],
+            [
+                703.821817930162,
+                1707195600
+            ],
+            [
+                724.13694493877,
+                1707282000
+            ],
+            [
+                734.41929423551,
+                1707368400
+            ],
+            [
+                738.891617036422,
+                1707454800
+            ],
+            [
+                735.996586651903,
+                1707714000
+            ],
+            [
+                741.696801650387,
+                1707800400
+            ],
+            [
+                757.31,
+                1707886800
+            ],
+            [
+                757.78,
+                1707973200
+            ],
+            [
+                782.06,
+                1708059600
+            ],
+            [
+                755.66,
+                1708405200
+            ],
+            [
+                745.91,
+                1708491600
+            ],
+            [
+                769.64,
+                1708578000
+            ],
+            [
+                769.54,
+                1708664400
+            ],
+            [
+                771.92,
+                1708923600
+            ],
+            [
+                765,
+                1709010000
+            ],
+            [
+                757.64,
+                1709096400
+            ],
+            [
+                753.68,
+                1709182800
+            ],
+            [
+                782.12,
+                1709269200
+            ],
+            [
+                792.28,
+                1709528400
+            ],
+            [
+                777.59,
+                1709614800
+            ],
+            [
+                779.77,
+                1709701200
+            ],
+            [
+                780.16,
+                1709787600
+            ],
+            [
+                762.14,
+                1709874000
+            ],
+            [
+                734.37,
+                1710129600
+            ],
+            [
+                754.95,
+                1710216000
+            ]
+        ],
+        "statuses": [
+            {
+                "label": "Breakthrough Therapy Designation (BTD)",
+                "abbreviation": "BTD",
+                "description": "Breakthrough Therapy Designation (BTD)",
+                "description_html": "<p>Breakthrough Therapy Designation (BTD)<\/p>\n"
+            }
+        ]
+    },
+    {
+        "id": 6697,
+        "drug_name": "CARVYKTI (ciltacabtagene autoleucel)",
+        "clinical_trial_id": "NCT03548207",
+        "has_trial_insight_page": 0,
+        "indication": "Multiple myeloma",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-02-28",
+        "link": "https:\/\/www.businesswire.com\/news\/home\/20220228006246\/en\/",
+        "note": "Approved February 28, 2022.",
+        "company_entity_id": 765,
+        "company_ticker": "LEGN",
+        "company_name": "Legend Biotech Corporation",
+        "company_price": "65.1300",
+        "company_change": -0.06000000000000005,
+        "company_percent_change": -0.08999999999999997,
+        "company_optionable": 1,
+        "company_number_of_shares": 165067240,
+        "price_change_sparkline": [
+            [
+                55.06,
+                1706677200
+            ],
+            [
+                56.22,
+                1706763600
+            ],
+            [
+                55.76,
+                1706850000
+            ],
+            [
+                58.46,
+                1707109200
+            ],
+            [
+                59.41,
+                1707195600
+            ],
+            [
+                58.62,
+                1707282000
+            ],
+            [
+                58.72,
+                1707368400
+            ],
+            [
+                60.97,
+                1707454800
+            ],
+            [
+                60.48,
+                1707714000
+            ],
+            [
+                58.67,
+                1707800400
+            ],
+            [
+                57.83,
+                1707886800
+            ],
+            [
+                57.05,
+                1707973200
+            ],
+            [
+                58.11,
+                1708059600
+            ],
+            [
+                60.1,
+                1708405200
+            ],
+            [
+                59.83,
+                1708491600
+            ],
+            [
+                61.72,
+                1708578000
+            ],
+            [
+                66.1,
+                1708664400
+            ],
+            [
+                67,
+                1708923600
+            ],
+            [
+                69.99,
+                1709010000
+            ],
+            [
+                67.78,
+                1709096400
+            ],
+            [
+                65.16,
+                1709182800
+            ],
+            [
+                65.53,
+                1709269200
+            ],
+            [
+                64.51,
+                1709528400
+            ],
+            [
+                63.66,
+                1709614800
+            ],
+            [
+                63.78,
+                1709701200
+            ],
+            [
+                64.22,
+                1709787600
+            ],
+            [
+                63.25,
+                1709874000
+            ],
+            [
+                65.19,
+                1710129600
+            ],
+            [
+                65.13,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 9029,
+        "drug_name": "Opdivo (nivolumab) plus Chemotherapy",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Non-small cell lung cancer (NSCLC)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-03-04",
+        "link": "https:\/\/www.businesswire.com\/news\/home\/20220301006264\/en\/",
+        "note": "Approved March 4, 2022. ",
+        "company_entity_id": 376,
+        "company_ticker": "BMY",
+        "company_name": "Bristol-Myers Squibb Company",
+        "company_price": "54.4000",
+        "company_change": 0.04,
+        "company_percent_change": 0.07,
+        "company_optionable": 1,
+        "company_number_of_shares": 2022193411,
+        "price_change_sparkline": [
+            [
+                48.87,
+                1706677200
+            ],
+            [
+                48.67,
+                1706763600
+            ],
+            [
+                48.71,
+                1706850000
+            ],
+            [
+                47.98,
+                1707109200
+            ],
+            [
+                49.26,
+                1707195600
+            ],
+            [
+                48.64,
+                1707282000
+            ],
+            [
+                48.71,
+                1707368400
+            ],
+            [
+                49.81,
+                1707454800
+            ],
+            [
+                49.75,
+                1707714000
+            ],
+            [
+                48.71,
+                1707800400
+            ],
+            [
+                48.89,
+                1707886800
+            ],
+            [
+                49.44,
+                1707973200
+            ],
+            [
+                49.86,
+                1708059600
+            ],
+            [
+                49.86,
+                1708405200
+            ],
+            [
+                50.91,
+                1708491600
+            ],
+            [
+                51.33,
+                1708578000
+            ],
+            [
+                51.66,
+                1708664400
+            ],
+            [
+                50.52,
+                1708923600
+            ],
+            [
+                50.51,
+                1709010000
+            ],
+            [
+                50.92,
+                1709096400
+            ],
+            [
+                50.75,
+                1709182800
+            ],
+            [
+                50.89,
+                1709269200
+            ],
+            [
+                50.92,
+                1709528400
+            ],
+            [
+                51.82,
+                1709614800
+            ],
+            [
+                53.38,
+                1709701200
+            ],
+            [
+                53.28,
+                1709787600
+            ],
+            [
+                53.79,
+                1709874000
+            ],
+            [
+                54.36,
+                1710129600
+            ],
+            [
+                54.4,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 4649,
+        "drug_name": "LYNPARZA (olaparib)",
+        "clinical_trial_id": "NCT02032823",
+        "has_trial_insight_page": 0,
+        "indication": "BRCAm HER2-negative breast cancer",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-03-11",
+        "link": "https:\/\/www.astrazeneca.com\/media-centre\/press-releases\/2022\/lynparza-approved-in-the-us-as-adjuvant-treatment-for-patients-with-germline-brca-mutated-her2-negative-high-risk-early-breast-cancer.html",
+        "note": "Approved March 11, 2022. ",
+        "company_entity_id": 374,
+        "company_ticker": "AZN",
+        "company_name": "AstraZeneca PLC",
+        "company_price": "67.4000",
+        "company_change": -0.27,
+        "company_percent_change": -0.4,
+        "company_optionable": 1,
+        "company_number_of_shares": 3100378676,
+        "price_change_sparkline": [
+            [
+                65.6319311986485,
+                1706677200
+            ],
+            [
+                65.8387545112493,
+                1706763600
+            ],
+            [
+                64.647058281502,
+                1706850000
+            ],
+            [
+                64.1546218229287,
+                1707109200
+            ],
+            [
+                66.0258803655072,
+                1707195600
+            ],
+            [
+                65.5432926361053,
+                1707282000
+            ],
+            [
+                62.5591276971512,
+                1707368400
+            ],
+            [
+                61.3181878215465,
+                1707454800
+            ],
+            [
+                60.4810458419719,
+                1707714000
+            ],
+            [
+                60.1067941334562,
+                1707800400
+            ],
+            [
+                60.7272640712585,
+                1707886800
+            ],
+            [
+                61.8894141134915,
+                1707973200
+            ],
+            [
+                63.2977823850111,
+                1708059600
+            ],
+            [
+                64.056134531214,
+                1708405200
+            ],
+            [
+                64.1053781770713,
+                1708491600
+            ],
+            [
+                64.13,
+                1708578000
+            ],
+            [
+                65.83,
+                1708664400
+            ],
+            [
+                65.93,
+                1708923600
+            ],
+            [
+                66.33,
+                1709010000
+            ],
+            [
+                65.35,
+                1709096400
+            ],
+            [
+                64.16,
+                1709182800
+            ],
+            [
+                64.6,
+                1709269200
+            ],
+            [
+                64.79,
+                1709528400
+            ],
+            [
+                64.81,
+                1709614800
+            ],
+            [
+                65.27,
+                1709701200
+            ],
+            [
+                66.19,
+                1709787600
+            ],
+            [
+                66.5,
+                1709874000
+            ],
+            [
+                67.67,
+                1710129600
+            ],
+            [
+                67.4,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 4649,
+        "drug_name": "LYNPARZA (olaparib)",
+        "clinical_trial_id": "NCT02032823",
+        "has_trial_insight_page": 0,
+        "indication": "BRCAm HER2-negative breast cancer",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-03-11",
+        "link": "https:\/\/www.astrazeneca.com\/media-centre\/press-releases\/2022\/lynparza-approved-in-the-us-as-adjuvant-treatment-for-patients-with-germline-brca-mutated-her2-negative-high-risk-early-breast-cancer.html",
+        "note": "Approved March 11, 2022. ",
+        "company_entity_id": 383,
+        "company_ticker": "MRK",
+        "company_name": "Merck & Company Inc.",
+        "company_price": "122.6600",
+        "company_change": -0.10999999999999999,
+        "company_percent_change": -0.08999999999999997,
+        "company_optionable": 1,
+        "company_number_of_shares": 2532643872,
+        "price_change_sparkline": [
+            [
+                120.78,
+                1706677200
+            ],
+            [
+                126.38,
+                1706763600
+            ],
+            [
+                126.41,
+                1706850000
+            ],
+            [
+                126.18,
+                1707109200
+            ],
+            [
+                126.88,
+                1707195600
+            ],
+            [
+                127.47,
+                1707282000
+            ],
+            [
+                126.61,
+                1707368400
+            ],
+            [
+                125.45,
+                1707454800
+            ],
+            [
+                125.34,
+                1707714000
+            ],
+            [
+                125.43,
+                1707800400
+            ],
+            [
+                125.82,
+                1707886800
+            ],
+            [
+                126.54,
+                1707973200
+            ],
+            [
+                127.79,
+                1708059600
+            ],
+            [
+                127.37,
+                1708405200
+            ],
+            [
+                128.12,
+                1708491600
+            ],
+            [
+                129.26,
+                1708578000
+            ],
+            [
+                129.45,
+                1708664400
+            ],
+            [
+                128.84,
+                1708923600
+            ],
+            [
+                129.03,
+                1709010000
+            ],
+            [
+                128.19,
+                1709096400
+            ],
+            [
+                127.15,
+                1709182800
+            ],
+            [
+                126.96,
+                1709269200
+            ],
+            [
+                124.05,
+                1709528400
+            ],
+            [
+                122.83,
+                1709614800
+            ],
+            [
+                123.75,
+                1709701200
+            ],
+            [
+                123.99,
+                1709787600
+            ],
+            [
+                123.5,
+                1709874000
+            ],
+            [
+                122.77,
+                1710129600
+            ],
+            [
+                122.66,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 9102,
+        "drug_name": "Breyna (Symbicort generic)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Asthma or chronic obstructive pulmonary disease (COPD)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-03-15",
+        "link": "https:\/\/www.prnewswire.com\/news-releases\/viatris-inc-announces-receipt-of-the-first-fda-approval-for-generic-version-of-symbicort-inhalation-aerosol-breyna-budesonide-and-formoterol-fumarate-dihydrate-inhalation-aerosol-in-partnership-with-kindeva-301503954.html",
+        "note": "Approved March 15, 2022. ",
+        "company_entity_id": 851,
+        "company_ticker": "VTRS",
+        "company_name": "Viatris Inc.",
+        "company_price": "12.0600",
+        "company_change": 0.09,
+        "company_percent_change": 0.75,
+        "company_optionable": 1,
+        "company_number_of_shares": 1187569149,
+        "price_change_sparkline": [
+            [
+                11.6559127625202,
+                1706677200
+            ],
+            [
+                11.754943457189,
+                1706763600
+            ],
+            [
+                11.7351373182553,
+                1706850000
+            ],
+            [
+                11.4677544426494,
+                1707109200
+            ],
+            [
+                11.7747495961228,
+                1707195600
+            ],
+            [
+                11.6262035541195,
+                1707282000
+            ],
+            [
+                11.4479483037157,
+                1707368400
+            ],
+            [
+                11.5667851373183,
+                1707454800
+            ],
+            [
+                11.8341680129241,
+                1707714000
+            ],
+            [
+                11.8539741518578,
+                1707800400
+            ],
+            [
+                11.9530048465267,
+                1707886800
+            ],
+            [
+                12.6957350565428,
+                1707973200
+            ],
+            [
+                12.933408723748,
+                1708059600
+            ],
+            [
+                13.1116639741519,
+                1708405200
+            ],
+            [
+                13.1314701130856,
+                1708491600
+            ],
+            [
+                13.2305008077544,
+                1708578000
+            ],
+            [
+                13.3988529886914,
+                1708664400
+            ],
+            [
+                13.2998222940226,
+                1708923600
+            ],
+            [
+                13.101760904685,
+                1709010000
+            ],
+            [
+                12.1708723747981,
+                1709096400
+            ],
+            [
+                12.2500969305331,
+                1709182800
+            ],
+            [
+                12.4679644588045,
+                1709269200
+            ],
+            [
+                12.2401938610662,
+                1709528400
+            ],
+            [
+                12.1609693053312,
+                1709614800
+            ],
+            [
+                12.0817447495961,
+                1709701200
+            ],
+            [
+                12.2104846526656,
+                1709787600
+            ],
+            [
+                12.26,
+                1709874000
+            ],
+            [
+                11.97,
+                1710129600
+            ],
+            [
+                12.06,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 7418,
+        "drug_name": "RINVOQ (Upadacitinib)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "Ulcerative Colitis",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-03-16",
+        "link": "https:\/\/www.prnewswire.com\/news-releases\/rinvoq-upadacitinib-receives-fda-approval-for-the-treatment-of-adults-with-moderately-to-severely-active-ulcerative-colitis-301504545.html",
+        "note": "Approved March 16, 2022. ",
+        "company_entity_id": 369,
+        "company_ticker": "ABBV",
+        "company_name": "AbbVie Inc.",
+        "company_price": "180.9200",
+        "company_change": 1.29,
+        "company_percent_change": 0.72,
+        "company_optionable": 1,
+        "company_number_of_shares": 1766473359,
+        "price_change_sparkline": [
+            [
+                164.4,
+                1706677200
+            ],
+            [
+                167.59,
+                1706763600
+            ],
+            [
+                168.67,
+                1706850000
+            ],
+            [
+                171.26,
+                1707109200
+            ],
+            [
+                173.29,
+                1707195600
+            ],
+            [
+                175.01,
+                1707282000
+            ],
+            [
+                174.79,
+                1707368400
+            ],
+            [
+                174.08,
+                1707454800
+            ],
+            [
+                173.07,
+                1707714000
+            ],
+            [
+                173.29,
+                1707800400
+            ],
+            [
+                174.42,
+                1707886800
+            ],
+            [
+                176.59,
+                1707973200
+            ],
+            [
+                177.49,
+                1708059600
+            ],
+            [
+                175.75,
+                1708405200
+            ],
+            [
+                175.14,
+                1708491600
+            ],
+            [
+                176.75,
+                1708578000
+            ],
+            [
+                178.09,
+                1708664400
+            ],
+            [
+                178.81,
+                1708923600
+            ],
+            [
+                178.99,
+                1709010000
+            ],
+            [
+                178,
+                1709096400
+            ],
+            [
+                176.05,
+                1709182800
+            ],
+            [
+                178.91,
+                1709269200
+            ],
+            [
+                177.05,
+                1709528400
+            ],
+            [
+                179.16,
+                1709614800
+            ],
+            [
+                181.06,
+                1709701200
+            ],
+            [
+                180.57,
+                1709787600
+            ],
+            [
+                178.85,
+                1709874000
+            ],
+            [
+                179.63,
+                1710129600
+            ],
+            [
+                180.92,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 4012,
+        "drug_name": "ZTALMY (ganaxolone)",
+        "clinical_trial_id": "NCT03572933",
+        "has_trial_insight_page": 0,
+        "indication": "CDKL5 Deficiency Disorder (CDD)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-03-18",
+        "link": "https:\/\/www.businesswire.com\/news\/home\/20220318005282\/en\/",
+        "note": "Approved March 18, 2022. ",
+        "company_entity_id": 202,
+        "company_ticker": "MRNS",
+        "company_name": "Marinus Pharmaceuticals Inc.",
+        "company_price": "9.2800",
+        "company_change": 0.8,
+        "company_percent_change": 9.43,
+        "company_optionable": 1,
+        "company_number_of_shares": 54642580,
+        "price_change_sparkline": [
+            [
+                9.74,
+                1706677200
+            ],
+            [
+                9.99,
+                1706763600
+            ],
+            [
+                9.98,
+                1706850000
+            ],
+            [
+                9.94,
+                1707109200
+            ],
+            [
+                10,
+                1707195600
+            ],
+            [
+                9.91,
+                1707282000
+            ],
+            [
+                9.99,
+                1707368400
+            ],
+            [
+                10.1,
+                1707454800
+            ],
+            [
+                10.21,
+                1707714000
+            ],
+            [
+                9.9,
+                1707800400
+            ],
+            [
+                10.01,
+                1707886800
+            ],
+            [
+                10,
+                1707973200
+            ],
+            [
+                9.96,
+                1708059600
+            ],
+            [
+                9.54,
+                1708405200
+            ],
+            [
+                9.75,
+                1708491600
+            ],
+            [
+                9.62,
+                1708578000
+            ],
+            [
+                9.77,
+                1708664400
+            ],
+            [
+                9.99,
+                1708923600
+            ],
+            [
+                10,
+                1709010000
+            ],
+            [
+                9.86,
+                1709096400
+            ],
+            [
+                9.5,
+                1709182800
+            ],
+            [
+                9.92,
+                1709269200
+            ],
+            [
+                9.54,
+                1709528400
+            ],
+            [
+                9.24,
+                1709614800
+            ],
+            [
+                9.03,
+                1709701200
+            ],
+            [
+                8.75,
+                1709787600
+            ],
+            [
+                8.85,
+                1709874000
+            ],
+            [
+                8.48,
+                1710129600
+            ],
+            [
+                9.28,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 6326,
+        "drug_name": "Opdualag (nivolumab and relatlimab-rmbw)",
+        "clinical_trial_id": "NCT03470922",
+        "has_trial_insight_page": 0,
+        "indication": "Melanoma",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-03-18",
+        "link": "https:\/\/www.businesswire.com\/news\/home\/20220304005561\/en\/",
+        "note": "Approved March 18, 2022.",
+        "company_entity_id": 376,
+        "company_ticker": "BMY",
+        "company_name": "Bristol-Myers Squibb Company",
+        "company_price": "54.4000",
+        "company_change": 0.04,
+        "company_percent_change": 0.07,
+        "company_optionable": 1,
+        "company_number_of_shares": 2022193411,
+        "price_change_sparkline": [
+            [
+                48.87,
+                1706677200
+            ],
+            [
+                48.67,
+                1706763600
+            ],
+            [
+                48.71,
+                1706850000
+            ],
+            [
+                47.98,
+                1707109200
+            ],
+            [
+                49.26,
+                1707195600
+            ],
+            [
+                48.64,
+                1707282000
+            ],
+            [
+                48.71,
+                1707368400
+            ],
+            [
+                49.81,
+                1707454800
+            ],
+            [
+                49.75,
+                1707714000
+            ],
+            [
+                48.71,
+                1707800400
+            ],
+            [
+                48.89,
+                1707886800
+            ],
+            [
+                49.44,
+                1707973200
+            ],
+            [
+                49.86,
+                1708059600
+            ],
+            [
+                49.86,
+                1708405200
+            ],
+            [
+                50.91,
+                1708491600
+            ],
+            [
+                51.33,
+                1708578000
+            ],
+            [
+                51.66,
+                1708664400
+            ],
+            [
+                50.52,
+                1708923600
+            ],
+            [
+                50.51,
+                1709010000
+            ],
+            [
+                50.92,
+                1709096400
+            ],
+            [
+                50.75,
+                1709182800
+            ],
+            [
+                50.89,
+                1709269200
+            ],
+            [
+                50.92,
+                1709528400
+            ],
+            [
+                51.82,
+                1709614800
+            ],
+            [
+                53.38,
+                1709701200
+            ],
+            [
+                53.28,
+                1709787600
+            ],
+            [
+                53.79,
+                1709874000
+            ],
+            [
+                54.36,
+                1710129600
+            ],
+            [
+                54.4,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 8119,
+        "drug_name": "KEYTRUDA (pembrolizumab)",
+        "clinical_trial_id": "",
+        "has_trial_insight_page": 0,
+        "indication": "MSI-H\/dMMR Advanced Endometrial Carcinoma ",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-03-21",
+        "link": "https:\/\/www.businesswire.com\/news\/home\/20220321005859\/en\/",
+        "note": "Approved March 21, 2022. ",
+        "company_entity_id": 383,
+        "company_ticker": "MRK",
+        "company_name": "Merck & Company Inc.",
+        "company_price": "122.6600",
+        "company_change": -0.10999999999999999,
+        "company_percent_change": -0.08999999999999997,
+        "company_optionable": 1,
+        "company_number_of_shares": 2532643872,
+        "price_change_sparkline": [
+            [
+                120.78,
+                1706677200
+            ],
+            [
+                126.38,
+                1706763600
+            ],
+            [
+                126.41,
+                1706850000
+            ],
+            [
+                126.18,
+                1707109200
+            ],
+            [
+                126.88,
+                1707195600
+            ],
+            [
+                127.47,
+                1707282000
+            ],
+            [
+                126.61,
+                1707368400
+            ],
+            [
+                125.45,
+                1707454800
+            ],
+            [
+                125.34,
+                1707714000
+            ],
+            [
+                125.43,
+                1707800400
+            ],
+            [
+                125.82,
+                1707886800
+            ],
+            [
+                126.54,
+                1707973200
+            ],
+            [
+                127.79,
+                1708059600
+            ],
+            [
+                127.37,
+                1708405200
+            ],
+            [
+                128.12,
+                1708491600
+            ],
+            [
+                129.26,
+                1708578000
+            ],
+            [
+                129.45,
+                1708664400
+            ],
+            [
+                128.84,
+                1708923600
+            ],
+            [
+                129.03,
+                1709010000
+            ],
+            [
+                128.19,
+                1709096400
+            ],
+            [
+                127.15,
+                1709182800
+            ],
+            [
+                126.96,
+                1709269200
+            ],
+            [
+                124.05,
+                1709528400
+            ],
+            [
+                122.83,
+                1709614800
+            ],
+            [
+                123.75,
+                1709701200
+            ],
+            [
+                123.99,
+                1709787600
+            ],
+            [
+                123.5,
+                1709874000
+            ],
+            [
+                122.77,
+                1710129600
+            ],
+            [
+                122.66,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 2347,
+        "drug_name": "177Lu-PSMA-617",
+        "clinical_trial_id": "NCT03511664",
+        "has_trial_insight_page": 0,
+        "indication": "Metastatic castration-resistant prostate cancer (mCRPC)",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-03-23",
+        "link": "https:\/\/www.accessdata.fda.gov\/drugsatfda_docs\/label\/2022\/215833s000lbl.pdf",
+        "note": "Approved March 23, 2022. ",
+        "company_entity_id": 386,
+        "company_ticker": "NVS",
+        "company_name": "Novartis AG",
+        "company_price": "99.7700",
+        "company_change": -1.6,
+        "company_percent_change": -1.58,
+        "company_optionable": 1,
+        "company_number_of_shares": 2044033986,
+        "price_change_sparkline": [
+            [
+                99.701426650332,
+                1706677200
+            ],
+            [
+                101.493681927897,
+                1706763600
+            ],
+            [
+                99.9423211768864,
+                1706850000
+            ],
+            [
+                99.701426650332,
+                1707109200
+            ],
+            [
+                99.9615927390107,
+                1707195600
+            ],
+            [
+                99.6917908692698,
+                1707282000
+            ],
+            [
+                97.6682768462129,
+                1707368400
+            ],
+            [
+                97.3502960711611,
+                1707454800
+            ],
+            [
+                96.8685070180523,
+                1707714000
+            ],
+            [
+                95.4520472019125,
+                1707800400
+            ],
+            [
+                95.4424114208503,
+                1707886800
+            ],
+            [
+                96.0012867224565,
+                1707973200
+            ],
+            [
+                96.5408904619384,
+                1708059600
+            ],
+            [
+                98.9787430706688,
+                1708405200
+            ],
+            [
+                98.824570573674,
+                1708491600
+            ],
+            [
+                99.0558293191662,
+                1708578000
+            ],
+            [
+                100.115765236006,
+                1708664400
+            ],
+            [
+                99.4894394669641,
+                1708923600
+            ],
+            [
+                99.3930816563424,
+                1709010000
+            ],
+            [
+                98.49695401756,
+                1709096400
+            ],
+            [
+                97.2924813847881,
+                1709182800
+            ],
+            [
+                98.3427815205652,
+                1709269200
+            ],
+            [
+                98.2560594910056,
+                1709528400
+            ],
+            [
+                98.3813246448139,
+                1709614800
+            ],
+            [
+                98.9016568221714,
+                1709701200
+            ],
+            [
+                99.93,
+                1709787600
+            ],
+            [
+                100.71,
+                1709874000
+            ],
+            [
+                101.37,
+                1710129600
+            ],
+            [
+                99.77,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    },
+    {
+        "id": 6917,
+        "drug_name": "OZEMPIC (semaglutide)",
+        "clinical_trial_id": "NCT03989232",
+        "has_trial_insight_page": 0,
+        "indication": "Type 2 Diabetes ",
+        "label": "Approved",
+        "value": "approved",
+        "simplified_stage": "phase6",
+        "stageid": 15,
+        "stage_name": "Approved",
+        "date": "2022-03-28",
+        "link": "https:\/\/trends.crast.net\/ozempic-2-0-mg-is-approved-in-the-us-for-the-treatment-of-type-2-diabetes\/",
+        "note": "Approved March 28, 2022. ",
+        "company_entity_id": 385,
+        "company_ticker": "NVO",
+        "company_name": "Novo Nordisk A\/S",
+        "company_price": "135.1100",
+        "company_change": 3.87,
+        "company_percent_change": 2.95,
+        "company_optionable": 1,
+        "company_number_of_shares": 4510000000,
+        "price_change_sparkline": [
+            [
+                114.74,
+                1706677200
+            ],
+            [
+                115.79,
+                1706763600
+            ],
+            [
+                113.7,
+                1706850000
+            ],
+            [
+                118.26,
+                1707109200
+            ],
+            [
+                117.61,
+                1707195600
+            ],
+            [
+                118.66,
+                1707282000
+            ],
+            [
+                118.39,
+                1707368400
+            ],
+            [
+                121.2,
+                1707454800
+            ],
+            [
+                120.53,
+                1707714000
+            ],
+            [
+                119.99,
+                1707800400
+            ],
+            [
+                123.29,
+                1707886800
+            ],
+            [
+                121.75,
+                1707973200
+            ],
+            [
+                124.01,
+                1708059600
+            ],
+            [
+                121.45,
+                1708405200
+            ],
+            [
+                120.93,
+                1708491600
+            ],
+            [
+                124.52,
+                1708578000
+            ],
+            [
+                123.45,
+                1708664400
+            ],
+            [
+                123.49,
+                1708923600
+            ],
+            [
+                122.23,
+                1709010000
+            ],
+            [
+                121.54,
+                1709096400
+            ],
+            [
+                119.77,
+                1709182800
+            ],
+            [
+                124.23,
+                1709269200
+            ],
+            [
+                127.95,
+                1709528400
+            ],
+            [
+                124.65,
+                1709614800
+            ],
+            [
+                124.75,
+                1709701200
+            ],
+            [
+                135.92,
+                1709787600
+            ],
+            [
+                133.07,
+                1709874000
+            ],
+            [
+                131.24,
+                1710129600
+            ],
+            [
+                135.11,
+                1710216000
+            ]
+        ],
+        "statuses": []
+    }
+]

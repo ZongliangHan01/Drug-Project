@@ -1,0 +1,3 @@
+
+
+病名， 药物名， 公司名， 有效率，baseline有效率， 安全率， baseline安全率， 副作用， baseline的名称， 实验人数， primary endpoint达成率， 给药方式， 是否双盲， 文件链接--》，（ designation，摘要）
